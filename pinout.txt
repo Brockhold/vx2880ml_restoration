@@ -1,0 +1,10 @@
+From left side, with chip pointing upwards:
+
+Chip Select     10              Brown
+MISO            12              Red
+WP#             3v              Orange
+GND             GND (low side)  Yellow
+MOSI            11              Green
+CLK             13              Blue
+HOLD#           3v              Purple
+VCC             3v              Grey
