@@ -1,0 +1,333 @@
+
+"PA168 Boot 1.1!
+DPLL !L
+MPLL !L
+SCL X
+Start copy Appcode
+SYS MPLL INIT Done
+APP CODE REMAP START
+APP CODE REMAP FINISH, REMAP=1
+ From Original Address!
+ From Back Up Address!
+DDR INIT OK!
+DDR INIT NG!
+MPLL !L
+SW RESET!
+iPRetry Exceeded: 
+SPI_UCMD
+1PA=
+0123456789ABCDEF
+
+sE uESx
+SR register value is 0x%x.
+GPIO INIT Done!
+MECLK INIT Done!
+TWI INIT Done!
+Interleave 
+Planar 
+4 views
+5 views
+6 views
+7 views
+8 views
+9 views
+12 (3x4) views
+12 (4x3) views
+10 BIT
+8 BIT
+SVN Rev: 569501
+SYS DPLL Init Done
+SYS DPLL Init Fail
+Frame Unlock
+Frame locked
+2D Graphic Mode
+N2M Mode
+3D FRAME Mode
+3D LR Mode
+3D TB Mode
+3D LINE Mode
+3D PIXEL Mode
+3D PACK Mode
+2D To 3D Mode
+3D Graphic FRAME Mode
+3D Graphic LR Mode
+3D Graphic TB Mode
+3D Graphic LINE Mode
+3D Graphic PIXEL Mode
+3D Graphic PACK Mode
+3D TWO ONE Mode
+3D FOUR ONE Mode
+3D Graphic TWO ONE Mode
+3D Graphic FOUR ONE Mode
+ADV7619 RESET FINISH!
+PA168 
+QFP EVA BOARD 
+1080P 
+240Hz 
+60Hz 
+120Hz 
+SW DDR 
+V1.1 1080P Release: Aug 19 2014 13:46:27
+PR LINE BASE 
+FS FRAME BASE 
+FS LINE BASE 
+Multiview 
+WITHOUT KEYPAD 
+
+VPORT0 VS or CLKOK lost!
+VPORT0 Previous hres=%d, vres=%d, VPer=0x%x,VFreq=%d
+VPORT0 hres=%d, vres=%d, VPer=0x%x,VFreq=%d
+VPORT1 VS or CLKOK lost!
+VPORT1 Previous hres=%d, vres=%d, VPer=0x%x,VFreq=%d
+VPORT1 hres=%d, vres=%d, VPer=0x%x,VFreq=%d
+
+"*** rub dvScalerDemoEn!
+super scaler  right off,demoMode=%d
+super scaler  FULL off,demoMode=%d
+super scaler  full on,demoMode=%d
+L2L ouput Disable!0:FALSE 1:FALSE
+FRC done:
+High active!
+Low active!
+L R change 
+zIy=
+"GPIO[%u] is not configured as a output pin.
+Fast recovery Enable, Stop FRC_DONE toggle!
+Retry Exceeded: 
+MI bus
+CPU SW RESET!
+!$'Sys FrameLock Freq %u
+
+system state=0x%x
+VInFreq0=%d,VInFreq1=%d
+HRes0=%d,VRes0=%d,HRes1=%d,VRes1=%d
+FrameLockVFreq=%d
+1:%d,%d,%d,%d
+2:%d,%d,%d,%d
+3:%d,%d,%d,%d
+4:%d,%d,%d,%d
+5:%d,%d,%d,%d
+6:%d,%d,%d,%d
+7:%d,%d,%d,%d
+8:%d
+9:%d
+12:%d
+16:%d
+17:%d
+18:%d
+19:%d
+22:%d
+23:%d
+24:%d
+25:%d
+26:%d
+27:%d
+28:%d
+29:%d
+30:%d
+31:%d
+32:%d
+33:0x%x
+34:0x%x
+35:%d
+36:%d
+37:%d
+42:%d
+43:%d
+44:%d
+45:%d
+46:%d
+47:%d
+48:%d,%d,%d,%d,%d,%d
+49:%d,%d,%d,%d,%d,%d
+50:%d,%d,%d,%d,%d,%d
+51:%d,%d,%d,%d,%d,%d
+52:%d,%d
+53:%d,%d,%d,%d,%d,%d,%d,%d
+54:%d,%d,%d,%d
+68:%d,%d,%d
+70:%d,%d,%d
+71:C%d,%d,%d,%d
+72:%d,%d,%d
+93:%d
+94:%d
+95:%d
+96:%d
+97:%d
+98:%d
+///////Log saving print ////////
+MsgNum =0x%x
+ParaNum =0x%x
+Master Msg transfer finish
+Master parameter transfer finish
+Master log saving reday
+Slave msg transfer finish
+slave parameter transfer finish
+slave para saving reday
+Master msg packet 0x%x reday
+slave msg packet 0x%x reday
+Master para packet 0x%x reday
+slave para packet 0x%x reday
+
+lh8bit LSB
+8bit MSB
+10bit LSB
+10bit MSB
+10bit MIX
+10bit 6 Channel Single Pixel
+reset RX PLL0.
+reset RX PLL1
+LVDS TX ouput enable!0: TRUE 1: TRUE
+LVDS TX ouput enable!0: TRUE 1: FALSE
+L2L ouput enable!0:TRUE 1:TRUE
+L2L ouput 0:FALSE 1:FALSE
+L2L ouput 0:TRUE 1:TRUE
+hres=%d, vres=%d, vFrq=%d
+eModeTableType=%u, wModeId=%d
+Can not find matched mode table
+FORCE RESET FI_MIF idle error!
+CPU SW RESET!
+FBC FRAME Delay Timeout!
+ENABLE Fast recovery configuration!
+BlankEn = 0!
+Res change: H %u, V %u
+invalid input signal!
+Freq change: %u
+FI not done detection!! Toggle DPort FIFO Reset.
+Master Chip Change resolution
+Master chip Change frequency:%d
+DPort Blank Self!
+input count error!
+input count error!need correct!
+display count error!
+display count error!need correct!
+INIT FCD Mode=
+PW 2D3D OSD Protect window %u enable bit =%u
+PW 2D3D OSD Protect window %u depth =%u
+PW 2D3D OSD Protect window %u Start Left position =%u
+PW 2D3D OSD Protect window %u Start Top position =%u
+PW 2D3D OSD Protect window %u Start Right position =%u
+PW 2D3D OSD Protect window %u Start Bottom position =%u
+Enable all OSD Protection.
+change output mode to 1:1.
+change output mode to full screen.
+OSD cap Start X position =%u
+OSD cap Start Y position =%u
+OSD cap width =%u
+OSD cap height =%u
+OSD disp size width =%u
+OSD disp size height =%u
+Capture mode  =%u
+OSD 1 received
+OSD 2 received
+OSD 3 received
+OSD 4 received
+OSD 5 received
+OSD 6 received
+OSD 7 received
+GPIO Pin[%u] = %u
+DEMO MODE=%u
+MEMC LEVEL =%u
+2D convert 3D mode gloable shift level  =%u
+2D convert 3D mode Parallax level  =%u
+TWI Blanking En=%u
+VbyOneOutput En=%u
+*** appSystemStateSystemParamSet
+Timing change status is %u
+PowerOn=%u
+*** spLVDSRxPwrControl Turn-On LVDS PWR
+*** spLVDSRxPwrControl Turn-Off LVDS PWR
+LVDS Input Mode:
+LVDS output Mode:
+input format is not framepacking format,please select input signal to framepacking mode first
+Setup FCD Mode=
+set output freq mode =%u
+set Flip mode =%u
+3d glass LR switch
+3D Glasses Enabled!
+3D Glasses Disabled!
+3D LA Output LR swap: %u
+Low Frame Delay is On!
+Low Frame Delay is Off!
+3D output is enabled 
+2D L output is enabled 
+2D R output is enabled 
+3D glass Delay time=0x%x,Open time=0x%x
+sharpness level is %u
+LVDS reserve bit 1 is L 
+LVDS reserve bit 0 is L 
+PW 2D3D LEVEL =%u
+PW 2D3D Convergence=%u
+PW 2D3D Mask Border Color=%u
+PW 2D3D Mask Border Width=%u
+PW 2D3D GLB Inensity=%u
+PW 2D3D Local Inensity=%u
+Set Non-Den mode, enable=%d hRes=%d vRes=%d 
+Red Gain     = %u
+Green Gain   = %u
+Blue Gain    = %u
+Red Offset   = %u
+Green Offset = %u
+Blue Offset  = %u
+Contrast     = %u
+Saturation   = %u
+Hue          = %u
+Brightness   = %u
+DsprtTransition = %u
+MViewMode = %u
+SW Fallback SWEnable = %u
+SW Fallback RegionDsprtLevel = %u
+SW Fallback RegionDsprtThrLevel = %u
+SW Fallback GlbDsprtLevel = %u
+Disparity interpolation Mode = %u
+HW Disparity offset level = %u
+SW Disparity offset level = %u
+Disparity Intensity = %u
+Disparity Weight = %u
+2nd Disparity Weight = %u
+Disparity LUT = %u
+3D View Phase Ctl = %u
+3D Convergence Ctl = %u
+PW 3D Mask Border Color=%u
+PW 3D Mask Border Width=%u
+Multi View Initial Phase Level = %u
+Multi View Initial Step Level = %u
+Lane0 = %u
+Lane1 = %u
+Lane2 = %u
+Lane3 = %u
+Lane4 = %u
+Lane5 = %u
+Lane6 = %u
+Lane7 = %u
+Set input as YUV mode 
+Set input as RGB mode
+Set Display mode =%u
+Set Test Pattern En =%u, Test Pattern type = %u
+Set Film flag enable =%u
+Set Gamma enable=%u
+Set Display Test Pattern En =%u, Test Pattern R = %u, Test Pattern G = %u, Test Pattern B = %u
+Disable Display Test Pattern.
+
+receive FCD mode:0x%x
+*** dvTWI tscLVDSRxPwrControl
+
+Re-Start APPcode flash upgrade! 
+Start APPcode flash upgrade! 
+APP Flag=0x%x
+APP Backup Flag=0x%x
+SectorErase:%u, Addr=%x
+START AppCode Update, AddrBak=%u
+WAppFlag Addr=%x, Data=%x
+RAppFlag Addr=%x, Data=%x
+FINISH AppCode Update, AddrBak=%u
+CPU SW RESET!
+START AppCodePkg %u Update
+AppCodePkg %u Update Error!
+The data in flash is 0x%x
+The data from main SOC is 0x%x
+The error index is %u
+Start Gamma upgrade! 
+FINISH Gamma Update!
+START GammaCodePkg %u Update
+*** appUIMessageProcess LVDSRx PWR CONTROL

@@ -1,0 +1,12239 @@
+ATHE
+ATu[&
+NAuR
+^;Vw
+r;F
+NNOO
+NNOO
+N4Ph
+}-Ph
+O0Ph
+G;F
+FPj
+FPj
+FPj
+FPj
+===PrintDpPwrCheck(DpRx%d)===
+DpcdSetPwrDwn  :%d
+SrcPwrOverride :%d
+SinkTesting    :%d
+AuxTriggered   :%d
+PwrState       :DP_PWR_PHYON
+PwrState       :DP_PWR_PHYOFF
+SrcPower       :OFF
+SrcPower       :LOSTING
+SrcPower       :DETECTING
+SrcPower       :ON
+CableState_Raw :DISCONNECTED
+CableState_Raw :PLUGGING
+CableState_Raw :CONNECTED
+CableState_Raw :UNPLUGGING
+CableState_WA  :DISCONNECTED
+CableState_WA  :PLUGGING
+CableState_WA  :CONNECTED
+CableState_WA  :UNPLUGGING
+jdj*
+ujdj+
+5@^]
+"AY=
+\4_^
+\4_^
+7uRV
+IY;F
+IYZ;
+u6j'
+Rx0_AudioDetectedNotify!
+Rx1_AudioDetectedNotify!
+^BY]
+h*6h
+**Athena Product Version 2.%d**
+**Athena Product Version 2.%d**
+u&j(
+~~~DpTxDisableVideo
+)"AYF
+)"Aj
+("Aj
+"AY=
+D;F
++D=T
+===DpRxInput(%d) Unstable===
+===DpRxPrintSignalProperty:(%d)===
+PixelClock      :%LdHz
+HActiveStart    :%d
+HActive         :%d
+HTotal          :%d
+VActiveStart    :%d
+VActive         :%d
+VTotal          :%d
+HSyncPolarity   :Negative
+HSyncPolarity   :Positive
+VSyncPolarity   :Negative
+VSyncPolarity   :Positive
+ScanType        :Interlaced
+ScanType        :Progressive
+ClockType       :Asynchronous
+ClockType       :Synchronous
+ColorFormat     :Y-Only
+ColorFormat     :RGB
+ColorFormat     :xvYCC601_422
+ColorFormat     :xvYCC601_444
+ColorFormat     :XRGB
+ColorFormat     :sRGB
+ColorFormat     :ITU601_422
+ColorFormat     :ITU601_444
+ColorFormat     :DCI_P3
+ColorFormat     :xvYCC709_422
+ColorFormat     :xvYCC709_444
+ColorFormat     :scRGB
+ColorFormat     :AdobeRGB
+ColorFormat     :ITU709_422
+ColorFormat     :ITU709_444
+ColorFormat     :Color_Profile
+ColorDepth      :6Bits
+ColorDepth      :8Bits
+ColorDepth      :10Bits
+ColorDepth      :12Bits
+ColorDepth      :16Bits
+StereoMode      :No3D
+StereoMode      :Right
+StereoMode      :Reserved
+StereoMode      :Left
+3D_Format       :NO_3D_VIDEO
+3D_Format       :3D_UNKNOWN
+3D_Format       :FRAME_SEQ_MISC
+3D_Format       :FRAME_SEQ_RIGHT
+3D_Format       :FRAME_SEQ_LEFT
+3D_Format       :STACKED_FRAME
+3D_Format       :INTERLEAVED_RIGHT_EVEN
+3D_Format       :INTERLEAVED_RIGHT_ODD
+3D_Format       :INTERLEAVED_CHECKERBOARD
+3D_Format       :INTERLEAVED_VERTICAL_LEFT
+3D_Format       :INTERLEAVED_VERTICAL_RIGHT
+3D_Format       :SBS_RHALF_RIGHT
+3D_Format       :SBS_RHALF_LEFT
+===DpRxInput(%d) Unstable===
+===DpRxPrintAudioProperty:(%d)===
+ChannelCount    :%d
+ChannelAllocate :%d
+CodingType      :NONE
+CodingType      :PCM
+CodingType      :AC3
+CodingType      :MPEG1
+CodingType      :MP3
+CodingType      :MPEG2
+CodingType      :AAC
+CodingType      :PCM
+CodingType      :ATRAC
+CodingType      :DSD
+CodingType      :DDplus
+CodingType      :DTS_HD
+CodingType      :MAT
+CodingType      :DST
+CodingType      :WMA_PRO
+CodingType      :RESERVED
+SamplingFreq    :None
+SamplingFreq    :32Khz
+SamplingFreq    :44.1Khz
+SamplingFreq    :48Khz
+SamplingFreq    :88.2Khz
+SamplingFreq    :96Khz
+SamplingFreq    :176.4Khz
+SamplingFreq    :192Khz
+SamplingFreq    :22.05Khz
+SamplingFreq    :24Khz
+SamplingFreq    :768Khz
+SampleSize      :None
+SampleSize      :16Bits
+SampleSize      :20Bits
+SampleSize      :24Bits
+SampleSize      :17Bits
+SampleSize      :18Bits
+SampleSize      :19Bits
+SampleSize      :21Bits
+SampleSize      :22Bits
+SampleSize      :23Bits
+SampleSize      :32Bits
+Port            :I2s
+Port            :Spdif
+StreamType      :Unknown
+StreamType      :Iec
+StreamType      :Dsd
+StreamType      :Dst
+StreamType      :Hbr
+AudioType       :Compressed
+AudioType       :LPCM
+DacsUsed        :%d
+# #(#0#8#
+"#"+"3";"C"K"S"["c"{!
+sAY<
+"RR3
+sAY<
+u&Vj
+tj<jE
+Voltage Level to set=%x
+ERROR! More V than capacity
+IJY^]
+*******************************
+PANEL PARAMETERS NOT LOADED!!!!
+*******************************
+*******************************************
+DEFAULT PANEL PARAMETERS ARE LOADED INSTEAD
+*******************************************
+?Ru&
+Dual Flash Bank is enabled
+Bootup from Flash Bank(%d)
+Version Tag (%d)
+Dual Flash Bank is disabled.
+~~~~ 1 gmvb_OutputFrameRate %d
+#### Break of waiting ShardPBus Control
+~~~~ OVP_INI failed ~~~~ 0x%x
+TJYj
+TJYh
+uJYh
+jhBVh
+CPhJRh`
+.}(D
+Error LPM: LPM logic reset timeout!
+Uploaded LPM: %d bytes
+Error LPM: LPM is not started!
+LPM restarted from SRAM
+hLAhd
+hHRh
+DRAM code execution
+OJj j
+!!! Can't find a trim value, use saved trim = %d !!!
+Used RC-OSC Clock Value = 0x%x
+Mapping RC-OSC Clock = %d000Hz
+Calibrated RC-OSC Trim Value = %d
+IFM measured RC-OSC Clock Value = 0x%x
+Measured RC-OSC Clock = %d000Hz
+"Aj
+g3(D
+*****
+SYS Lib Ver - 
+OSD Lib Ver - 
+DRV Lib Ver - 
+Application Ver - 
+DRAM code execution
+h'Oh 
+h'Oh@
+h'OhS
+h'Ohp
+h&9j
+h&9j
+IY^]
+---fail  to send MUX command
+---fail  to send MUX command
+:js
+8BY]
+8BY]
+HAL_ConfigureLVDSClock: Not Supported Panel Size 
+HAL_ConfigureLVDSClock: Not Supported Panel Size 
+HAL_ConfigureLVDSClock: Not Supported FrameRate 
+ConfigureLVDSClock Error 0x%x
+crG&
+yw@&
+panel******LD_T120001A
+Custom TTL
+5unj
+*uS&
+vA^]
+#"AY
+#"AY
+&8Pm
+Write command QFHD 24_30Hz to Panel by I2C 0xE0
+Write command QFHD 24_30Hz Failed
+Write command 4ch to Panel by I2C 0xE0
+Write command 4ch Failed
+R'O
+)"A;6
+t8;6
+AY;6
+n&(D
+L(D_^
+IYPV
+IYZ;
+######## Cannot get a non-conflict port######
+rAY]
+s":V
+Error Axis Id
+Error Six Axis Programing
+QSPR
+QSPR
+QSPR
+QSPR
+QSPR
+QSPR
+Error Six Axis Programing
+QSPR
+QSPR
+QSPR
+QSPR
+QSPR
+QSPR
+## No ACM table support mode %d
+ACM3D: Game_COLOR_ACM3D_SCHEME
+ACM3D: Movie_COLOR_ACM3D_SCHEME
+ACM3D: Mono_COLOR_ACM3D_SCHEME
+u!;6
+>u.
+KY96
+Good Default Display Rate Unavailable
+Over DW_InModulus %d
+Over DW_OutModulus %d
+5 DW_InModulus %d
+5 DW_OutModulus %d
+~~~~ Not able to Support even divid by 5 ...
+@@@ B_DesiredOutputFrameRate - %d
+~~~~ B_DesiredOutputFrameRate %d
+~~~~ 2 gmvb_OutputFrameRate %d
+&;Gw
++^3
+&;Gs
+&;Gs
+DP --- NO  Overscan
+HdmiCropInput FALSE --- NO  Overscan
+DVI non-interlace --- NO  Overscan  type0 
+DVI non-interlace --- NO  Overscan  type0 
+Not Video, No overscan
+Is Video, overscan
+=========== overscan:B_CurrentModeType = %d
+Final window:(%d,%d), (%dx%d)
+V_(DY
+f`(DY
+`(DY
+y`(DY
+y`(DY
+JP(D=
+R_^]
+6_^]
+G+D
+G+F
+&9Wr
+r&9wr
+!!! ADC calibration failed !!!
+Invalid Dynamic option
+'KYj
+'KYj
+(KYWVj
+D;D
+PQ9V
+(R@$
+*Rvj
+&;GvM
+v9T
+*R_^
+>:^]
+::^]
+No Function ..... ApplyDUMTable
+u';v
+@@Factort Reset 
+@@# game mode %d
+@@#Reset game mode
+hGXP
+>hBVh
+z(Dj
+hGXP
+==> Call AdjustColorDomain
+==> Input_Color_Domain=%d
+sAY<
+sAY<
+No Function .....AdjustUARTSwitch 
+No Function .....AdjustPBP 
+u(D]
+hFRh
+hFRh
+hFRh
+hFRh
+hFRh
+hFRh
+hFRh
+hFRh
+u hFRh
+hFRh
+hFRh
+hFRh
++KY=
++KY=
++KY=
+Ru#j
++KY=
++KY=
++KY=
+uhB
+n&(D
++KY=
+No Function .....AdjustZonalColorSpace
+call IsGameModeApplicable
+B_Result - %d
+"R-X
+"R-,
+(R-W
+call AdjustDCR function
+------------------------------TRUE it is good!
+------------------------------FALSE it is good!
+t!h2Kh
+t-:N
+t!h2Kh
+t-:N
+2KYR
+2KYZ
+t!h2Kh
+;KY]
+ptr_GammaDescr = NULL_PTR
+~~~~ LUT1SteepStep = %d ...
+~~~~ LUT2 SteepStep = %d ...
+;KY]
+AJY]
+>*R8
+UserPrefDecoderAGCMethod = %d
+Bjdj
+7KY]
+ZJYj
+tJYV
+w3:F
+f?PS
+JKY]
+$R^]
+MKY]
+&R^]
+>uu
+OutputAspectOverride PanelWidth
+&;Gss
+>uR
+PKYV
+JKYV
+(KY_^
+ujdj
+QKYj
+QKYj
+QKYj
+G-(
+u1j8
+Invalid command %d
+LPM GPIO0 : 1 => DP_NORMAL
+LPM GPIO0 : 0 => DP_MINI
+8BY=
+8BY=
+*** Addr 0x%x = 0x%x
+*** DP_NORMAL
+*** DP_NORMAL_FALSE
+*** Addr 0x%x = 0x%x
+*** DP_MINI
+*** DP_MINI_FALSE
+1 WakeAMPM=%d
+2 WakeAMPM=%d
+===>Call Hide OSD
++KY]
+QKYj
+QKYj
+QKYj
+Restore backlight to user defined value
+ !SK
+/!SK]
+RPj*h
+B_CurrentLuminance = %d
+TRUE  Store_Hi 0x%x, Store_Lo 0x%x
+FALSE Store_Hi 0x%x, Store_Lo 0x%x
+s!WV
+Exit HIGH DCR Restore Backlight
+Reset HIGH DCR state
+Enter HIGH DCR state
+Exit HIGH DCR state 1min Limit and reset H-DCR
+HGH DCR Black screen Timer restart
+Exit HIGH DCR state not Black screen
+ij<jI
+u"jI
+uKjL
+Exit HIGH DCR state for OSD Display
+u*jI
+(D^]
+UserPrefDCR                  %d
+UserPrefEnergySmartOnOffFlag %d
+UserPrefPBPMode              %d
+UserPrefMenuOn               %d
+IsBlackScreen()              %d
+HighDcrActivationProcedure   %d
+gm_TimerCheck(HIGH_DCR_PANEL_WARM_UP_1s_TMR) %d
+VWD Gen3: May, 2012
+t~K
+!SK]
+PixCR Analysis - Start
+ !SK
+PixCR Analysis - Stop
+VWD Lost!
+ Highlight - %d
+VWD COARSE Detected <%d>
+  XStart = %d
+  XEnd   = %d
+  YStart = %d
+  YEnd   = %d
+VWD FINE Detected <%d>
+  XStart = %d
+  XEnd   = %d
+  YStart = %d
+  YEnd   = %d
+< Run Time :: %d ms >
+ VWD - Applying
+   XStart = %d
+   Width  = %d
+   YStart = %d
+   Height = %d
+AYjd
+}KYj
+hAY]
+hGRh
+^BYj
+@;_^
+PanelW=%d,outputimageoffset=%d,winnum=%d,panelactive+bezel=%d
+Zwju
+vR:F
+eBY^
+&;Gs
+N;<w
+N;<vS
+N;<v
+FE_VFreq   = %d
+FE_VLength = %d
+AY^]
+HDMI RGB selected
+HDMI YUV selected
+DPRx YUV selected
+~~~~ DP 709 1 
+~~~~ DP 601 1 
+1~YUV~ stInput[B_Channel].ColorDomain = %d
+~~YUV~~ UserPrefColorFormat_DP1/DP3 = INPUT_AUTO
+2~YUV~ stInput[B_Channel].ColorDomain = %d
+~~~~ YUV UserPrefAdjustInputColorFormatByOSD = 0 
+~~~~ 3 Set YUV_Reduce domain~~~~
+~~~~ 3 Set YUV_Full domain~~~~
+3~YUV~ stInput[B_Channel].ColorDomain = %d
+DPRx RGB selected
+~~~~ Interlaced RGB to YUV ~~~~
+1~RGB~ stInput[B_Channel].ColorDomain = %d
+1~RGB~ UserPrefColorFormat_DP = RGB
+1~RGB~ UserPrefColorFormat_DP = YUV
+~~RGB~~ UserPrefColorFormat_DP1/DP3 = INPUT_AUTO
+2~RGB~ stInput[B_Channel].ColorDomain = %d
+~~~~ RGB UserPrefAdjustInputColorFormatByOSD = 0 
+~~~~ 3 Set RGB_Reduce domain~~~~
+~~~~ 3 Set RGB domain~~~~
+3~RGB~ stInput[B_Channel].ColorDomain = %d
+Input color domain set to RGB, output type set to Graphice
+Input color domain set to YUV, output type set to Video
+5 Output color process set to Video ... %d
+t?;6
+%{(D
+8{(D
+%{(D
+8{(D
+%{(D
+8{(D
+%{(D
+8{(D
+sAY<
+sAY<
+sAY<
+sAY<
+sAY<
+mBYV
+sAY<
+u&9
+h-Bj
+h-Bj
+sAY<
+sAY<
+sAY<
+######gm_HdmiIsTmingMatched Failed !
+######gm_HdmiIsTmingMatched Failed !
+ Overlap - Input SyncType = 0x%x
+                Mode Flag = 0x%X
+Overlap - VSyncWidth = %d
+ Overlap - HSyncWidth = %d
+Out-Of-Range Timing !
+   Timing Not Found in Std ModeTables!
+ Estimated Mode Found: %d
+3 Output color process set to Video ... %d
+ModeDetermine Timing Out Of Range !!!
+7OuM&
+)Ou0&
+rBYV
+I(DY
+h(#j
+mBY]
+#1->Disable
+MAIN-Stable
+MAIN-Stable and determined
+MAIN-Mode Setup requested
+1111 Send MTO_OutOfRange event ...
+#2->Disable
+Disable AOC ......
+11 Send MTO_RemoveOSD ......
+111 Send MTO_NoCable !!!
+111 Send MTO_NoCable_1 !!!
+111 Send MTO_NoSignal !!!
+111 Send MTO_NoSignal_1 !!!
+MAIN-No Signal
+#AA->Enable
+#BB->Enable
++KY=
+ce(D
+rBYj
+IJY=
+ce(D
+h(#j
+h(#j
+Se(D
+Se(D
+(D^]
+PIP-Stable
+PIP-Stable and determined
+PIP-No Signal
++KY=
+rBYj
+IJY=
+sAY<
+sAY<
+sAY<
+PWR_HDR: LPM Power Off
+PWR_HDR: LPM Sleep
+PWR_HDR: Ignore PwrDeepSleep
+##### Send DP Sleep Power Status Fail 3 !!
+PWR_HDR: Deep Sleep
+PWR_HDR: Mission Sleep
+6f;j4
+##### Send DP Sleep Power Status Fail 5 !!
+PWR_HDR: Exit from PwrDeepSleep
+##### Send DP Sleep Power Status Fail 6 !!
+6f;j4
+PWR_HDR: LPM check status timeout
+PWR_HDR: LPM DC Off
+PWR_HDR: LPM DC On
+PWR_HDR: LPM AC On
+PWR_HDR: LPM Signal On
++KY=
+tchr;
+l;t
+j;;V
+Ru#j
+==> Reset EnableSendAudioPCM_Message to 1
+Set address fail
+Set address fail
+r=0x%x
+T - %d
+Done
+data - 0x%x
+modesetup end - T7 - %d
+AE;6
+?LYj
+Ruj
+Ruj
+o.(Dj
+Se(Dj
+b(Dj
+Ru7j
+~~~~ Input is not correct force re-detect %d
+xxxxxxxxxxxxxx 1920x1080@24 xxxxxxxx
+xxxxxxxxxxxxxx 1920x1080@30 xxxxxxxx
+xxxxxxxxxxxxxx T1920x1080_60Hz_Vtotal_1125 xxxxxxxx
+xxxxxxxxxxxxxx T1920x1080_50Hz_Vtotal_1350 xxxxxxxx
+xxxxxxxxxxxxxx T1920x1080_48Hz_Vtotal_1406 xxxxxxxx
+xxxxxxxxxxxxxx T3840x2160_30Hz_Vtotal_2250 xxxxxxxx
+xxxxxxxxxxxxxx 1920x1080@48 xxxxxxxx
+xxxxxxxxxxxxxx 1920x1080@50 xxxxxxxx
+xxxxxxxxxxxxxx 1920x1080@60 xxxxxxxx
+xxxxxxxxxxxxxx 3840x2160@24 xxxxxxxx
+xxxxxxxxxxxxxx 3840x2160@30 xxxxxxxx
+"R-X
+"R-X
+"R-X
+"R-,
+"R-X
+"R-X
+"R-X
+"R-X
+"R-X
+reset PA168
+f?Pj
++KYV
+ALYV
+sAY<
+sAY<
+jhBVh
+)KYV
+'KYV
+'KYV
+sAY<
+sAY<
+sAY<
+sAY<
+ua;6
+sAY<
+sAY<
+sAY<
+sAY<
+MKYj
+BY;6
++KjdV
+AY;6
+Ru#j
+)KYV
+'KYV
+Rvj
+>*R8
+>*R8
+&(Dj
+j;^]
+^Rt-V
+JKYV
++KY=
++KY=
+)KYj
+'KYj
+'KYj
+rBYj
+sAY<
+hAYj
+hAYj
+6~;_^]
+u&j8
+AUDIO - CUS - AAPI_Audio_Cus_Mute()
+AUDIO - CUS - AAPI_Audio_Cus_UnMute()
+AUDIO - CUS - AAPI_Audio_Cus_Mute_By_OSD()
+AUDIO - CUS - AAPI_Audio_Cus_Volume_Adjust()
+AJYj
+AJYj
+AJYj
+AJYj
+AJY[Y+
+AJY[Y+
+AJY[Y+
+AUDIO - UNMUTE(%d)
+AJY=
+AJY=
+AJYV
+Y[9G
+ StreamType        = %d : UnKnown
+ StreamType        = %d : IEC
+ StreamType        = %d : DSD
+ StreamType        = %d : DST
+ StreamType        = %d : HBR
+ CodingType        = %d : None
+ CodingType        = %d : PCM
+ CodingType        = %d : AC3
+ CodingType        = %d : MPEG1
+ CodingType        = %d : MP3
+ CodingType        = %d : MPEG2
+ CodingType        = %d : AAC
+ CodingType        = %d : DTS
+ CodingType        = %d : ATRAC
+ CodingType        = %d : DSD
+ CodingType        = %d : DDPLUS
+ CodingType        = %d : DTS_HD
+ CodingType        = %d : MAT
+ CodingType        = %d : DST
+ CodingType        = %d : WMA_PRO
+ ChannelCount      = %d
+ ChannelAllocation = %d
+ SamplingFrequency = %ld
+ SampleSize        = %d : None
+ SampleSize        = %d : 16
+ SampleSize        = %d : 17
+ SampleSize        = %d : 18
+ SampleSize        = %d : 19
+ SampleSize        = %d : 20
+ SampleSize        = %d : 21
+ SampleSize        = %d : 22
+ SampleSize        = %d : 23
+ SampleSize        = %d : 24
+ DownMixInhibit    = %d
+ LevelShift        = %d
+ LFEPlayBackLevel  = %d : UnKnown
+ LFEPlayBackLevel  = %d : 0dB
+ LFEPlayBackLevel  = %d : 10dB
+ StreamType        = %d : DSD, blocked
+!PCM
+@uWj
+tKj.
+t?jdj.
+AJY]
+lLY;
+Scheduler::Wrong module ID
+Scheduler Find Oldest ::Wrong module ID
+*** Scheduler::Module(%d): Request(%d): Queue Full.
+Scheduler::Wrong request
+DDR3 - NT5CB64M16DP-CF
+PCTL32_POWCTL check fail.
+PCTL32_PUB_SMCTL check fail.
+PCTL32_PUB_SMCTL_lo = 0x%x
+PCTL32_PUB_SMCTL_hi = 0x%x
+Init PCTL. April 27 2012
+One of commands is still running. 
+PCTL32_MCMD_lo = 0x%x
+PCTL32_MCMD_hi = 0x%x
+Fine tune WDQD: 0x%x
+Fine tune RDQSD: 0x%x
+"R-X
+ R-*
+"R-X
+ R-;
+"R-X
+E+E
+No Function ....EDID_WP_ENABLE
+No Function ....EDID_WP_DISABLE
+$?@
+Pjnh
+>b=cu
+>b=st
+>d=kt
+>b=(uGj
+>b='u?
+>b=0u&j
+>b=)u
+hJRP
+Pjnj
+>b=cuI
+>d=mu
+DDC2B_CMD_VCP_AllColor reply 0x%x
+PowerNap cmd %d
+##### Send DP Sleep Power Status Fail !!
+##### Send DP Sleep Power Status Fail !!
+Error LPM: OCM is not being shutdown by LPM!
+##### Send DP Sleep Power Status Fail !!
+LPM Sleep!
+Error LPM: OCM is not being shutdown by LPM!
+t"=
+#f(D
+#f(D
+#f(D
+#f(D
+SKYPh
+SKYPh
+SKYPh
+SKYZ+
+n&(D
+n&(D
+n&(D
+n&(D
+\O(D
+D U < U
+(D^]
+>f=u
+6.h.?._.
+-K-K-K-"-K-)-0-K-7-K-K-K-K-K-K-K->-
+**+A+
+0N-~-
+-LPM Sleep!
+Error LPM: OCM is not being shutdown by LPM!
+UserPrefHDMI_EDID_WriteFlag == %d
+=EuE
+=Fu4
+=Gu(
+hRRh
+FVj 
+2BF
+2BF
+timeout!!!
+timeout!!!
+Error -- invalid com channel specified in msg
+F@P
+timed out slave B_Count - %d
+ERROR: EVEN/ODD Resend
+~ ~ ~ ~ ~ERR_TMO
+FIRST_REQUEST data size = %d
+NEXT_REQUEST data size = %d
+TS_ACC_START %s
+TS_ACC_STOP
+Data Sending Error ...
+TS_ACC_READ
+TS_ACC_WRITE
+TS_ACC_EN 
+TS_ACC_DISABLE 
+Data Sending Error ...
+TS_ACC_READ_CRD 
+TS_ACC_READ_FLD W_DataSent %d
+TS_ACC_WRITE_FLD 
+TS_ACC_WRITE_CWD 
+STTS_Handler_ACC3: UNKNOWN COMMAND 
+TS_AFM_START 
+TS_AFM_STOP 
+TS_AFM_READ 
+TS_AFM_WRITE 
+TS_AFM_READ_DYNAMIC 
+TS_AFM_EN 
+TS_AFM_DISABLE 
+STTS_Handler_AFM: UNKNOWN COMMAND 
+TS_CSC_START: OK (%d)
+TS_CSC_STOP: OK (%d)
+TS_CSC_READ 
+CSCMatrix[%d] = 0x%X
+InOffset[%d] = 0x%X
+InOffset[%d] = 0x%X
+TS_CSC_WRITE 
+TS_CSC_EN 
+TS_CSC_DISABLE 
+STTS_Handler_CSC: UNKNOWN COMMAND 
+OJj j
+OJj j
+#$#I#
+u$&;
+TS_MADI_START %s
+TS_MADI_START
+TS_MADI_STOP
+TS_MADI_READ: %d bytes transferred 
+ DCDI %d 
+ DCDI Strength = %d
+TS_MADI_WRITE
+TS_MADI_EN 
+TS_MADI_DISABLE 
+TS_MADI_DISABLE
+sizeof(MadiDynData_t) %d
+Len %d
+TS_MADI_GET_NOISE
+STTS_Handler_MADI: UNKNOWN COMMAND 
+vWRS
+YCYh
+timed out master B_Count - %d
+Ft'
+TS_MNR_START %s
+TS_MADI_STOP
+TS_MNR_READ
+TS_MNR_WRITE
+TS_MNR_EN 
+TS_MNR_DISABLE 
+STTS_Handler_MNR: UNKNOWN COMMAND 
+Sharpness_MsgHandler:FIRST_REQUEST %d
+command length = %d
+data size = %d
+NO_MEMORYNO_MEMORY
+TS_Sharpness_START %s
+TS_Sharpness_STOP
+0 B_Counter = %d
+Sharpness_MsgHandler: FIRST_REQUEST 
+1 B_Counter = %d
+2 B_Counter = %d
+Sharpness_MsgHandler: Step %d
+TS_Sharpness_READ
+VQ_Sharpness_Para_TEMP NumOfSteps = %d
+Index = %d
+TS_Sharpness_WRITE
+TS_Shaprness_EN 
+TS_Sharpness_DISABLE 
+STTS_Handler_Sharpness: UNKNOWN COMMAND 
+Ph"@h
+PhSRh
+^CYj
+^CYj
+##Energy smart on
+j2j-
+##Save Factory setting
+##UserPrefColorT5000_R--> %d
+##UserPrefColorT5000_G--> %d
+##UserPrefColorT5000_B--> %d
+##UserPrefColorT5700_R--> %d
+##UserPrefColorT5700_G--> %d
+##UserPrefColorT5700_B--> %d
+##UserPrefColorT6500_R--> %d
+##UserPrefColorT6500_G--> %d
+##UserPrefColorT6500_B--> %d
+##UserPrefColorT7200_R--> %d
+##UserPrefColorT7200_G--> %d
+##UserPrefColorT7200_B--> %d
+##UserPrefColorT7500_R--> %d
+##UserPrefColorT7500_G--> %d
+##UserPrefColorT7500_B--> %d
+##UserPrefColorT9300_R--> %d
+##UserPrefColorT9300_G--> %d
+##UserPrefColorT9300_B--> %d
+##UserPrefColorT10000_R--> %d
+##UserPrefColorT10000_G--> %d
+##UserPrefColorT10000_B--> %d
+UserPrefColorTemp %d
+#S
+Fr"j
+~~~~ Not Correct B_Input = %d
+!!NVRAM Error UserPrefBrightness %d
+!!NVRAM Error UserPrefContrast %d
+!!NVRAM Error UserPrefGammaMode %d
+!!NVRAM Error UserPrefInputColorDomain %d
+!!NVRAM Error UserPrefImagePresetMode %d
+!!NVRAM Error UserPrefUserRedGain %d
+!!NVRAM Error UserPrefUserGreenGain %d
+!!NVRAM Error UserPrefUserBlueGain %d
+!!NVRAM Error UserPrefUserRedOff %d
+!!NVRAM Error UserPrefUserGreenOff %d
+!!NVRAM Error UserPrefUserBlueOff %d
+!!NVRAM Error UserPrefAcm3RedHue %d
+!!NVRAM Error UserPrefAcm3GreenHue %d
+!!NVRAM Error UserPrefAcm3BlueHue %d
+!!NVRAM Error UserPrefAcm3CyanHue %d
+!!NVRAM Error UserPrefAcm3MagentaHue %d
+!!NVRAM Error UserPrefAcm3YellowHue %d
+!!NVRAM Error UserPrefAcm3RedSat %d
+!!NVRAM Error UserPrefAcm3GreenSat %d
+!!NVRAM Error UserPrefAcm3BlueSat %d
+!!NVRAM Error UserPrefAcm3CyanSat %d
+!!NVRAM Error UserPrefAcm3MagentaSat %d
+!!NVRAM Error UserPrefAcm3YellowSat %d
+!!NVRAM Error UserPrefHue %d
+!!NVRAM Error UserPrefSaturation %d
+!!NVRAM Error UserPrefOutputAspectRatio %d
+!!NVRAM Error UserPrefDCR %d
+!!NVRAM Error UserPrefCurrentInputMain %d
+!!NVRAM Error UserPrefTNR %d
+!!NVRAM Error UserPrefPipMode %d
+!!NVRAM Error UserPrefCurrentInputPip %d
+!!NVRAM Error UserPrefPipSize %d
+!!NVRAM Error UserPrefPipPosition %d
+!!NVRAM Error UserPrefPipContrast %d
+!!NVRAM Error UserPrefOsdLanguage %d
+!!NVRAM Error UserPrefOsdBlend %d
+!!NVRAM Error UserPrefOsdTimeout %d
+!!NVRAM Error UserPrefOSDLock %d
+!!NVRAM Error UserPrefOsdRotation %d
+!!NVRAM Error UserPrefButtonSound %d
+!!NVRAM Error UserPrefDdcciOnOffFlag %d
+!!NVRAM Error UserPrefPersonalKey1 %d
+!!NVRAM Error UserPrefPersonalKey2 %d
+!!NVRAM Error UserPrefPersonalKey3 %d
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+PRhh
+SKY[;
+PRhh
+SKY[;
+PRhT
+SKY[;
+PRhT
+SKY[;
+PRh@
+SKY[;
+PRh@
+SKY[;
+PRhJ
+SKY[;
+PRhJ
+SKY[;
+PRh^
+SKY[;
+PRh^
+SKY[;
+PRhr
+SKY[;
+PRhr
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+PRh*
+SKY[;
+PRh*
+SKY[;
+u4jS
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+PRh:
+SKY[;
+PRh:
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+PRh6
+SKY[;
+PRh6
+SKY[;
+PRhh
+SKY[;
+PRhh
+SKY[;
+PRhT
+SKY[;
+PRhT
+SKY[;
+SKY[;
+SKY[;
+PRh@
+SKY[;
+PRh@
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+SKY[;
+PRhf
+SKY[;
+PRhf
+SKY[;
+PRhp
+SKY[;
+PRhp
+SKY[;
+PRhz
+SKY[;
+PRhz
+SKY[;
+##NVRAM DUM table index check fail -->%d
+##NVRAM table type check fail -->%d
+##NVRAM table check pass -->%d
+##NVRAM table check fail -->%d
+Reset Color Setting
+@@#Reset game mode
+"AYP
+L(DY<
+"AYP
+L(DY<
+&;Gt!
+CPhJRh`
+PA168 OSD protection
+PA168 OSD no protection
+Se(D
+tyj@
+y:(D
+0~(D
+S}(D
+LED = %d
+>tY
+u]j>
+hAYj
+hAYj
+u(jF
+ReadMonitorOnTimer
+SaveMonitorOnTimer
+ulj<jM
+........service block reset........reset BID.............
+~~~~ Source scan  start %d
+Scan Port HDMI valid
+Scan Port DP valid
+Scan Port MiniDP valid
+~~~~ Source scan  finished %d
+~~~~ Source scan  result %d
+Energy smart lumin : %d
+EnergySmart  Level 0 : %d
+EnergySmart  Level 1 : %d
+W_PWMTargetValue  : %d
+EnergySmart  Level 2 : %d
+EnergySmart Brightness+2 : %d
+EnergySmart Brightness-2 : %d
+EnergySmart Brightness+1 : %d
+EnergySmart Brightness-1 : %d
+j2j-
+vE(DY
+~+~
+tMj;
+=========OOR check====HDMI===============
+DP YUV color fortmat %d
+DP RGB color fortmat %d
+##DP color space 0x%x , %d
+&9ws
+&+G
+"R-X
+"R-X
+"R-,
+"R-X
+Q#Q5Q5Q
+"R-X
+"R-X
+"R-,
+"R-X
+"R-,
+R$R$RpR##### Send DP Sleep Power Status Fail !!
+##### Send DP Sleep Power Status (0x%x)!!
+No Function .....AdjustBorder
+Draw Vodeo timing
+$$$$ DW_TempVHz = %d
+t!h2Kh
+[^(DY
+[^(DY
+^(DY
+>un
+EDID format check fail 0x%x 0x%x 0x%x 0x%x 0x%x 0x%x 0x%x 0x%x
+HDMI AVIInfo -- RGB
+HDMI AVIInfo -- YUV422
+HDMI AVIInfo -- YUV444
+HDMI AVIInfo -- UNKNOW
+ R-8
+DP ColorSpace -- RGB
+DP ColorSpace -- YCbCr422
+DP ColorSpace -- YCbCr444
+DP ColorSpace -- UNKNOW
+Pj"j
+Pj"j
+Pj"j
+Pj"j
+Enable video mode
+Disable video mode
+Enable video mode NoRequestModeSetup
+Disable video mode NoRequestModeSetup
+Set address fail
+Rsad address fail
+Done
+Not Done
+LVDS OFF
+Time out
+Time out
+Already Enable capture
+Already Disable capture
+====Is MHL Input====
+====Is HDMI Input====
+Reset Brightness Value
+Reset Contrast Value
+~~~~Enter DefaultState~~~~
+~~~~Exit DefaultState~~~~
+~~~~Enter ValidMode_StateState~~~~
+~~~~Exit ValidMode_StateState~~~~
+~~~~Enter BurnInModeState~~~~
+~~~~Exit BurnInModeState~~~~
+~~~~Enter PowerOffState~~~~
+~~~~Exit PowerOffState~~~~
+~~~~Enter PowerSavingState~~~~
+~~~~Exit PowerSavingState~~~~
+~~~~Enter AutoSelInvState~~~~
+~~~~Exit AutoSelInvState~~~~
+~~~~Enter PIPOnScreenState~~~~
+~~~~Exit PIPOnScreenState~~~~
+~~~~Enter VideoOnScreenState~~~~
+~~~~Exit VideoOnScreenState~~~~
+~~~~Enter LanguageUpdateState~~~~
+~~~~Exit LanguageUpdateState~~~~
+~~~~Enter NoSignalInvisibleState~~~~
+~~~~Exit NoSignalInvisibleState~~~~
+~~~~Enter Message-NoSignalInvisibleState~~~~
+~~~~Exit Message-NoSignalInvisibleState~~~~
+~~~~Enter ScanningInvisibleState~~~~
+~~~~Exit ScanningInvisibleState~~~~
+~~~~Enter MesInvState(Fly)~~~~
+~~~~Exit MesInvState(Fly)~~~~
+~~~~Enter TransferOsdState~~~~
+~~~~Exit TransferOsdState~~~~
+~~~~MTO_NoSync  Received~~~~
+~~~~MTO_NoCable  Received~~~~
+~~~~MTO_NoOutOfRange  Received~~~~
+~~~~Enter Pip DefaultState~~~~
+~~~~Exit Pip DefaultState~~~~
+~~~~Enter Pip HideInvisibleState~~~~
+~~~~Exit Pip HideInvisibleState~~~~
+~~~~MTO_NoSync_Pip  Received~~~~
+~~~~MTO_NoCable_pip  Received~~~~
+~~~~MTO_NoOutOfRange_Pip  Received~~~~
+~~~~OE_PIPMShow  Received~~~~
+~~~~OE_PIPMHide  Received~~~~
+~~~~Enter PIP Message~~~~
+~~~~Exit PIP Message~~~~
+~~~~Enter PBP Message~~~~
+~~~~Exit PBP Message~~~~
+~~~~Enter No Signal Video Message~~~~
+~~~~Exit No Signal Video Message~~~~
+~~~~Exit No Signal Video Message~~~~
+~~~~Enter OOR Message~~~~
+~~~~stInput[CH_A].ModeFlags & gmd_MODE_OUT_RANGE : %d
+~~~~MTO_ValidMode  Received~~~~
+~~~~Enter PIP OOR Message~~~~
+~~~~stInput[CH_B].ModeFlags & gmd_MODE_OUT_RANGE : %d
+~~~~Enter Main Input Icon State~~~~
+Pos Offset X, Y : %d, %d
+OSD Position X, Y : %d, %d
+~~~~Enter OSD Splash Screen~~~~
+~~~~Exit OSD Splash Screen~~~~
+~~~~Enter Choose ICON~~~~
+~~~~Enter DP ICON~~~~
+~~~~Enter VSC Main Menu~~~~
+~~~~Exit VSC Main Menu~~~~
+~~~~Enter TransferDownKeyState~~~~
+~~~~Exit TransferDownKeyState~~~~
+~~~~Enter OSD Locked~~~~
+~~~~Enter OSD UnLocked~~~~
+~~~~Enter Power Buttom Lock~~~~
+~~~~Enter Power Buttom UnLock~~~~
+~~~~Enter Logo BootUp Screen On~~~~
+~~~~Enter Logo BootUp Screen Off~~~~
+~~~~Enter Game Mode On~~~~
+~~~~Enter Game Mode Off~~~~
+~~~~Auto Power Off On~~~~
+~~~~No State error~~~~%d
+/q8qAqJqSq\qeqnqwq
+r'r0r9rBrKrTr]rfrorxr
+ss4smsvs t t t t t t t
+s t t t t t t t t t t t t t t t
+s t t t t t t t t
+Reset Audio Volume Value
+Select ALL_BOARDS_CVBS1
+Select ALL_BOARDS_SVIDEO1
+Select ALL_BOARDS_COMP1
+Select ALL_BOARDS_VGA1
+Select ALL_BOARDS_DVI1
+Select ALL_BOARDS_DVI2
+Select ALL_BOARDS_DIP1
+Select ALL_BOARDS_HDMI
+Select ALL_BOARDS_HDMI2
+Select ALL_BOARDS_HDMI3
+Select ALL_BOARDS_DP1
+Select ALL_BOARDS_DP2
+Select ALL_BOARDS_DP3
+Select Main Input:
+   appstest 2 <port>
+    port: 0 - ALL_BOARDS_CVBS1
+ 1 - ALL_BOARDS_SVIDEO1
+ 2 - ALL_BOARDS_COMP1
+ 3 - ALL_BOARDS_VGA1
+ 4 - ALL_BOARDS_DVI1
+ 5 - ALL_BOARDS_DVI2
+ 6 - ALL_BOARDS_DIP1
+ 7 - ALL_BOARDS_HDMI
+ 8 - ALL_BOARDS_HDMI2
+ 9 - ALL_BOARDS_HDMI3
+10 - ALL_BOARDS_DP1
+11 - ALL_BOARDS_DP2
+   CurrentInput is %d
+>K?>u
+'z.z5z<zCzU
+SleepTimer_Off
+SleepTimer_30
+SleepTimer_45
+SleepTimer_60
+SleepTimer_120
+SleepTimer_Reset
+SleepTimer_Off
+.}(D
+A|I|\|o|
+t1jO
+.}(Dj
+*** ResetSleepTimerValue
+>*Rp
+~~~~EnableResolutionNoticeShowComplete
+ Main On %d 
+ Main No Sync On %d 
+BYj0
+TJYj0
+>*Rp
+~~~~Call AdjustColorFormat
+~UserPrefBlueLightFilter_R =%d
+~UserPrefBlueLightFilter_G =%d
+~UserPrefBlueLightFilter_B =%d
+~UserPrefViewMode =%d
+tLjP
+u@jP
+tNj?
+uBjP
+A~~~~ PA168_FRC_DONE ~~~~ 0x%x
+
+SKY+F
+2KY+F
+>&+G
+>HP&
+h2Kh
+"AY=
+"AY=
+(DY<
+(DY<
+(DY<
+(DY<
+z(D]
+(DY<
+(DY<
+(DY<
+(DY<
+(DY<
+(DY<
+(DY<
+{(D]
+%{(D
+8{(D
+JP(D]
+> ?u
+>!?u
+(DY<
+*** 1080_OSD***
+*** WB.NoSignalDialog 4k2k***
+JP(D
+"R-,
+%{(D
+8{(D
+JP(D
+K(D<
+%{(D
+8{(D
+%{(D
+8{(D
+%{(D
+%{(D
+%{(D
+%{(D
+%{(D
+8{(D
+8{(D
+8{(D
+8{(D
+8{(D
+K(D<
+> ?u
+JP(D
+JP(D
+>!?u
+> ?u
+>!?u
+(DY<
+(DY<
+(DY<
+(DY<
+*** WB.BriText***
+*** WB.ConBri***
+*** WB.ConText***
+*** WB.Msg.EnterInputSelect***
+***UserPrefOsdRotation======%d
+UserPrefInfoPixelClock = %d
+K(DY
+> ?t
+>!?t
+JP(D
+JP(D
+JP(D
+JP(D
+>u
+>u
+%{(D]
+8{(D]
+K(DY
+JP(D
+JP(D
+> ?r
+JP(D
+>!?r
+K(D<
+K(D<
+K(D<
+K(D<
+JP(D
+JP(D
+JP(D
+JP(D
+JP(D
+JP(D
+> ?u
+> ?u
+JP(D
+JP(D
+>!?u
+>!?u
+> ?u
+> ?u
+>!?u
+>!?u
+*** OSD_HardLock TimeOut***
+*** UserPrefGlobalLCDConditionPosition ***%d
+*** WB.Burnin Mode set to 1***
+*** WB.BurninMode set to 0***
+*** WB.Default ***
+*** WB.HotKeyInputSource ***
+*** WB.MainState ***
+*** WB.PBPMessageStateWait ***
+*** WB.PBPMessageTransition ***
+*** WB.Product Mode set to 0***
+*** WB.Product Mode set to 1***
+t)Wj
+_^]
+*** NVRAM timeout error ***
+NVRAM error, system stop %d
+}j2j
+NVRAM error, system stop %d
+NVRAM error, system stop %d
+RCP received. Key Code: 0x%x
+RAP received. Action Code: 0x%x
+UCP received. Key Code: 0x%x
+MSC_MSG sub-command not recognized!! Sending back MSGE code !!
+%EY]
+Vj|h
+VjAh
+cEY"F
+cEY"F
+SkAppTaskGpio:: SII_GPIO_PIN_0 is high
+SkAppTaskGpio:: SII_GPIO_PIN_0 is low
+eEY]
+cEY$
+TPG Enabled
+TPG Disabled
+ETPG Enabled
+ETPG Disabled
+;Fu
+;Vr
+*EY]
+*EY3
+5EY]
+j Vh
+;Du
+cEY$
+Unused HDMI SetHpd newState: 0x%x
+No SetHPDState function for port %d!
+No SetHPDState function for port %d!
+cEY$
+RX HPD: %d  RX TERM: %d
+SiiDrvSwitchAutoHpeCbusEnable:: - MHL port#: 0x%x
+SiiDrvSwitchAutoHpeCbusEnable:: - non-MHL port#: 0x%x
+Port assignments: MHL (%01x), ARC (%01x)
+cEY$
+cEY$
+MP Cable OUT
+MP Cable IN
+MP HPE End
+cEY$
+tEPj|
+cEY$(
+cEY$
+t9Ph
+SiiPORT_ALL
+SL: Identical record already exist!
+SL: All records are in use!
+SL: Maximum number of signals exceeded!
+.@;F
+0@;F
+2@;Vu
+6@;F
+SL: Record not found!
+.@;F
+2@;VuE;F
+u@;Vu;;F
+6@;F
+TL: All records are in use!
+TL: Maximum number of tasks exceeded!
+TL: Bad timer ID!
+TL: Record not found!
+v`;N
+.@;F
+0@;F
+hTAj
+TEYj
+BEYj
+eEYj
+(EYj
+BEYj
+JEY]
+<2v@
+========================================================
+Port:          %d
+Video:         %s
+HDMI
+VIC:           %d
+Resolution:    %d x %d %s %d
+Pixel Repl.:   %d
+Color Depth:   %d bit 
+TMDS Clock:    %d0 kHz 
+========================================================
+BEY]
+hBEh
+ERROR: Failed to detect video resolution at port %d!
+SEY^]
+*************************************************
+**        Switch from port %d to port %d         **
+**        InstaPort quick info:                **
+*************************************************
+** InstaPort info not available yet for port %d **
+*************************************************
+Auto port: %d
+hBEh
+Trigger HPE for MP
+Trigger HPE for RP
+InfoFrames Missing: %s%s%s
+AIF 
+AVI 
+VSI 
+InfoFrames Changed: %s%s%s
+AIF 
+AVI 
+VSI 
+0x%x: 
+ 0x%x
+BEY]
+Rx Port Switching: %s
+AUTO
+MANUAL
+IR Remote Control: %s
+RESET Main MCU to enter F/W update mode.
+Canceled.
+h'@h
+IR Enabled:    %s
+Device Initialization Started...
+Device Initialization Successful
+!!!!Failure, halting...
+!!!!Device Driver Start failure, halting...
+TEYPj
+TEYP
+********************************
+** DEVICE STANDBY (POWER OFF) **
+********************************
+!!!!!! Error occurred entering Standby !!!!!!
+====================================================
+==  Main Power: %-7s                           ==
+ON     
+STANDBY
+====================================================
+j0hc
+Mute MP
+Unmute MP
+cEY$
+@t!j
+j0j0h
+Boot failed! Toggling H/W RESET.
+RTL SVN Rev.: %x
+\_____MP Full HPE_____/
+NVRAM NOT INITIALIZED, initializing...
+successful!
+FAILED
+cEY<
+cEY<
+DD>> ##<2> GRP0====
+DD>> ##<2> GRP1====
+DD>> ##<2> TX0 & PA======
+DD>> ##<4> GRP5 = CBUS====
+s#Vh
+CS (%d): 0x%x
+9u0
+t=@
+t0Wj
+t=@
+t6Wj
+t1Rj
+t1Rj
+CPCBUS:: This device can not send this key code::  0x%x 
+CPCBUS:: Sending 0x%x keycode.
+Unable to send command....
+Action code not recognized!!
+Unable to send ucp....
+RCP Key Code: 0x%x
+RAP Action Code: 0x%x
+Unsupported or unrecognized MHL RAP Action Code!!
+BEYj
+sEYj
+SEYj
+SEYj
+UCP ascii Code: 0x%x
+code not effective!!
+ Notification to Application:: Cbus Connection Status :: %s
+Connected
+Disconnected
+Notification to Application:: Scratchpad written!!
+Application layer:: SiiMhlCbRxRcpRapReceived( 0x%x, 0x%x )
+RCP received by app.
+RCPK received by app.
+RCPE received by app.
+RAP received by app.
+RAPK received by app.
+UCP received.
+UCPK received.
+UCPE received.
+CdSense changed pApp->cbusEnable: 0x%x, pApp->oldCbusEnable: 0x%x.
+SiiMhlRxHandler() failed with error :: 0x%x
+sEYV
+cEY]
+CBUS:: Sending MSC command 0x%x, 0x%x, 0x%x 0x%x
+CBUS:: MSG_MSC CMD:    0x%x
+CBUS:: MSG_MSC Data 0: 0x%x
+CBUS:: MSG_MSC Data 1: 0x%x
+tRh
+@tXh 
+tHh0
+cEY$
+@t'h
+eEY]
+[EY]
+t>jd
+tje
+Scratchpad busy!! Please come back later!!
+Couldn't send REQ_WRT to peer
+Couldn't send MHL_READ_DEVCAP to peer
+SiiMhlRxPathEnable:: Setting bit 3 to peer's status register.
+Couldn't send DSCR_CHG to peer
+-------Transfer Done!!------ Queue Depth: 0x%x active index(cbus): 0x%x
+-----Last Cbus cmd failed!!------Queue Depth: 0x%x cmd failed: 0x%x
+Waiting for peer to respond to reqWrt!!
+8`u3
+8huS
+Couldn't send MHL_MSC_MSG to peer
+G8:F
+CBUS:: Queue Full
+CBUS:: CBusWriteCommand:: Queue Index: 0x%x, Cmd: 0x%x data: 0x%x
+CBus is not connected yet! MHL command could not be sent!
+Couldn't send Write Burst to peer
+CBUS DDC ABORT happened, reason: 0x%x
+MSC CMD aborted (this device was a transmitter), reason: 0x%x
+MSC CMD aborted (this device was a receiver) , reason: 0x%x
+CBUS:: ----Connection Change---- %s 
+Connected
+Disconnected
+Got request from peer for scratchpad write, couldn't grant request as the scartchpad is busy!!
+  peer sent grtWrt!!
+##1 VIC!!
+##2 DTD!!
+Couldn't send cmd: 0x%x to peer
+Invalid command send request!!
+Couldn't send MHL_SET_INT to peer
+Couldn't send MHL_WRITE_STAT to peer
+GrtWrt interrupt did not come from peer within the timeout limit!! 
+hGXP
+jShl?P
+jShl?
+hGXP
+jShl?V
+jShl?
+jShl?V
+jShl?
+jWV
+...DONE
+!!!!!Check UserPref Setting in NVRam error!!!!!
+Write DP EDID 
+h&OP
+n&(D
+W:(D
+Re-initialize NVRAM...
+>hBVh
+Re-initialize Factory block NVRAM...
+hBVh
+EY:F
+EY:F
+Warning: Monitor checksum did not match!
+EY:F
+--->UserPrefCurrentInputMain=%d
+--->UserPrefCurrentInputPip=%d
+*** M A I N *********************************
+*** P I P ***********************************
+------------------ Input --------------------
+   Mode Attrs (0..1) : Graphics
+   Mode Attrs (0..1) : SD Video
+   Mode Attrs (0..1) : HD Video
+   Mode Attrs (0..1) : ED Video
+   Mode Attrs (0..1) : Invalid
+      Interlaced (2) : %d
+       Neg HSync (3) : %d
+       Neg VSync (4) : %d
+             SOG (5) : %d
+           CSync (6) : %d
+ Overlap_640_720 (7) : %d
+    Overlap_480P (8) : %d
+       Esitmated (9) : %d
+   Out of Range (10) : %d
+     Sub Sample (11) : %d
+        Unknown (12) : %d
+          Valid (13) : %d
+       Complete (14) : %d
+ Embedded Video (15) : %d
+         Input Total : %dx%d
+         Input Start : %dx%d
+    Ori Input Active : %dx%d
+        Input Active : %dx%d
+        Sync Offsets : %dx%d
+              H Freq : %d.%d KHz
+              V Freq : %d.%d Hz
+              Source : DIP A
+ Source : HDMI_SRC
+              Source : AIP HD/GFX
+              Source : DVI1_SRC
+ Source : Display Port_2
+ Source : Display Port_1
+ Source : STG Timing
+              Source : Unknown
+       Over Sampling : %d
+    Physical Channel : %c
+        Output Start : %dx%d
+       Output Active : %dx%d
+              Aspect : Full Screen
+              Aspect : Letterbox
+              Aspect : Pillar Box
+              Aspect : Pillar Box Expand
+              Aspect : Letter Box Expand
+              Aspect : Water Glass
+              Aspect : Panoramic
+              Aspect : Unknown
+  Invalid Signal.
+*** M A I N : (%d,%d) %d x %d Timing Stable ***
+*** P I P   : (%d,%d) %d x %d Timing Stable ***
+*** O U T P U T *****************************
+----------------- Display -------------------
+        Output Total : %dx%d
+           Lock Mode : Fixed Frame Lock
+           Lock Mode : Dynamic Frame Lock
+           Lock Mode : Programmed Frame Lock
+           Lock Mode : Free Run
+           Frequency : %d Hz (DDDS Close Loop Lock)
+           Frequency : %d Hz (DFL Locked)
+           Frequency : %d Hz (DFL unLocked)
+           Frequency : %d Hz (FreeRun-DDDS Open Loop)
+                Lock : Main
+                Lock : PIP
+                 PIP : None
+                 PIP : Large
+                 PIP : Small
+                 PIP : Side-by-Side
+                 PIP : Side-by-Side-Tall
+--------------- Processing ------------------
+----------------- Clocks --------------------
+                SDDS : %d.%d MHz (OpenLoop)
+                SDDS : %d.%d MHz (ClosedLoop)
+                DDDS1 : %d.%d MHz (OpenLoop)
+                DDDS1 : %d.%d MHz (ClosedLoop)
+                VDDS1 : %d.%d MHz (%s)
+OpenLoop
+ClosedLoop
+                VDDS2 : %d.%d MHz (%s)
+OpenLoop
+ClosedLoop
+-------------- ModeSetup():End ---------------
+tI;>
+    Video Processing : 
+MADI
+(madi)
+DCDI_MAIN
+(dcdi_main)
+FILM
++AFM
++(afm)
+(film)
+(3:3)
+(2:2)
+(tnr)
+TNR_P
+(tnr_p)
+(mnr)
+(gnr)
+(acc)
+(acm)
+(hem)
+SPATIAL
+(spatial)
+(dyn)
+DCDI_PIP
+(dcdi_pip)
+;Vr
+j@j@
+;Vr
+j@j@
+gm_SdramWrite_HA failed. W_Status = 0x%x
+gm_SdramRead_HA failed. W_Status = 0x%x
+RD_FIFO_UF or RD_FIFO_SM_ERROR
+Checked bit is Bit[%d]
+W_DataID = %d
+read_counter = %d
+Write = 0x%x
+Read = 0x%x
+Number of Words = %d
+Number of error Words are detected = %d
+vj`R
+vj`
+Start MemIFQualify (x%d)
+(0x%x) (0x%x) (0x%x) (2T: %d) (Double: %d) (0x%x)
+Main: %dx%d %dHz
+End of MemIFQualify
+Start MemIFQualify - Data Bits
+End of MemIFQualify ......
+OJj 
+B_DlyType = %d
+Datax8_%d
+~ s(
+~ s
+~ s
+Write DQS
+Read DQS
+PWVj
+PWVj
+ PWVj
+DDR per bit checking ...
+Bit[%d]: Errors observed.
+Bit[%d]: OK
+End of DDR per bit check
+DdrTest_LongHours ......
+NvramAddr_LongHrErr = %d
+Storing number of error failed.
+DdrTest_LongHours Pass!
+End of DdrTest_LongHours
+PLNUM_TIMESLOT_%d: %x%x
+=====PAY LOAD ASSIGNMENT====
+PAYLOAD %d:%x%x
+=====MST ECF=====
+MST_ECF_0:%x
+MST_ECF_1:%x
+====LINK STATUS===
+LINK STATUS:%x
+LINK TRAINING STATUS:%x
+Wait..~10Sec.....ERASE All Nvram Data
+NVRAM erase successful
+'appstest 0 1' to init Nvram
+Switch UART to PA168
+PA168 reset
+Send PA168 cmd 1
+Send PA168 cmd 0
+Write to 0x%x at offset 0x%x succeeded
+Write to 0x%x at offset 0x%x failed
+read from 0x%x succeeded, result=0x%x
+read from 0x%x failed
+read from 0x%x succeeded, result=0x%x
+read from 0x%x failed
+Set address fail
+read from 0x%x succeeded, result=0x%x
+Rsad address fail
+Film mode 00 - Video
+Film mode 01 - Film 2:2 mode
+Film mode 10 - Film 3:2 mode
+Film mode 11 - Other type
+PA168 Frame Locked
+PA168 Frame Unlocked
+PA168 Video mode
+PA168 Graphic mode
+Capture disable/enable time
+A-%d
+B-%d
+read from 0x%x succeeded, result=0x%x
+C-%d
+H1/L0 - %d - T %d
+DebugLoopCount - %d
+H1/L0 - %d - T %d
+Leave - %d - T %d
+PA168 set dual
+PA168 set single
+LVDS OFF
+LVDS ON
+T0 - %d
+T1 - %d
+T2 - %d
+Set address fail
+r=0x%x
+T2 - %d
+data - 0x%x
+modesetup end - T3 - %d
+~~~~ PA168_FRC_DONE ~~~~ 0x%x
+~~~~ PA168_FRC_DONE_1 ~~~~ 0x%x
+PA168 Graphic mode
+PA168  Video mode
+Component Cal Method = %d
+VGA Cal Method = %d
+CSC Full Expansion
+CSC Linear Expansion
+CSC Partial Expansion
+CSC - Invalid selection
+GetParam(0) = %d
+Load OD Table to memory
+ OD Table Loaded ...
+x grid : %d
+y grid : %d
+x size : %d
+y size : %d
+HDMI and DP port get input color domain by Info frame
+BYTE 0 --> Input color domain select to 0: Default 1: RGB, 2: YUV
+BYTE 1 --> Output process type set to 0: Default 1: Graphice, 2: SD Video, 3: HD Video, 4: ED Video
+Set VWD Demo Mode - %d
+LBADC %d = %d
+PHY1
+  Cable Status = %d
+  Cable Source power  = %d
+PHY2
+  Cable Status = %d
+  Cable Source power = %d
+PHY3
+  Cable Status = %d
+  Cable Source power = %d
+  Cable Status = %d
+  Cable Source  power= %d
+Calculating checksum...this process may take around 40 seconds
+Checksum = %d
+REQ_MS_RESTART
+=====Main Channel=====
+===HdmiDviLinkClockStatus    :(%d)===
+LinkClockPsent:%d
+=====Pip Channel=====
+===HdmiDviLinkClockStatus    :(%d)===
+LinkClockPsent:%d
+=====Main Channel=====
+=====Pip Channel=====
+=====TIME SLOT ASSIGNMENT====
+Set RX%d HPD LOW
+Set RX%d HPD HIGH
+Set RX%d HPD LONG PULSE!
+DPTX switch to ODP path (SstTx)
+DPTX switch to Routing Logic path (MstTx)
+Active ODP path (SstTx)
+Deactive ODP path (SstTx)
+Deactive mst and sst
+======Menu of DPTX switch======
+1: Switch to ODP path (SstTx)
+2: Switch to RL  path (MstTx)
+3: Active ODP path (SstTx)
+4: Deactive ODP path (SstTx)
+5: Deactive mst and sst
+ThreeDFormat=%d
+ThreeDView=%d
+Disable Temporary Ignore Sleep
+Enable Temporary Ignore Sleep
+Write to 0x%x at offset 0x%x succeeded
+Write to 0x%x at offset 0x%x failed
+read from 0x%x succeeded, result=0x%x
+read from 0x%x failed
+I2C write responds addresses = 0x%x
+I2C read responds addresses = 0x%x
+Write to 0x%x at offset 0x%x to value %x succeeded
+Write to 0x%x at offset 0x%x failed
+Reading address 0x%X
+Reading size %d
+Read data[%d] = 0x%X
+Writing address 0x%X
+Writing size %d
+Writing address 0x%X
+Writing size %d
+Something wrong in sram init!
+Reading sram data successfully
+Something wrong in Loading Hdcp key!
+Loading key successfully
+Hdmi Lib Debug Msg Control: DrvID[0x%X]  MsgType[%d]  MsgLevel[%d]
+&8Pm
+Write command QFHD 24_30Hz to Panel by I2C 0xE0
+Write command QFHD Failed
+Write command 4ch to Panel by I2C 0xE0
+Write command 4ch Failed
+0xFF Skip Count=0x%LX
+Load Flash Driver Failed!
+Flash Erase Failed!
+Flash Erase Success
+Flash Write Failed!
+X=%d   Y=%d   len=%d
+Main_Channel  : %d
+MemoryNumBuf  : %d
+MemoryBpp     : %d
+FrameBufStart : 0x%lX (0x%lX)
+Input Active  : %d x %d
+BurstAdjust   : %d
+BitsPerPix    : %d
+<<Print Raw Data>>
+<<PRINT_HI_NIBBLE_COMBINE>>
+<<PRINT_8BIT>>
+<<PRINT_YUV_20BIT>>
+  x is not even number, decrease 1
+  Length is over buffer size. Change to: %d
+<<PRINT_10BIT>>
+Addr---X(%d)
+******The PA168 ISP will start after about 15s******
+*****Please turn off G-Probe and run PA168 ISP tool******
+Fail to send msg-------------------
+Recieve correct msg------------------
+ACC processingis running
+ACC proessing is disabled
+Update ACC %d
+ Acc Process Frame
+ Acc Init
+ProcessingEnable = %d
+OVP_MEOF 0x%x
+OVP_HISTOGRAM_READY 0x%x
+Addr = 0x%lX
+Value = 0x%lX
+Index = %d
+Addr = 0x%lX
+Value = 0x%lX
+Ref = 0x%lX
+Index = %d
+Check Done
+Addr = 0x%lX
+Value = 0x%lX
+Ref = 0x%lX
+Index = %d
+Check Done
+No NTP3000 chip in the system
+!!!Exited two-stage!!!
+!!!two-stage not executed since signal is progressive or RGB!!!
+DRAM code verify: %s
+Fail
+Wrong Timer Select! Please select 0(1us), 1(ms), 10(ms), 100(ms)
+Wrong Timer Count! Please select 1, 10, 100(ms)
+Wrong Timer Select! Please select 0(SystemTimer), 1(GselTimer), 2(UserTimer)
+No 1 sec timer count in system timer!
+Timer Status = %d
+VWD - Start
+LoopEnd=%d
+Highlight = %d
+Coarse APPTime = %d
+CoarseXStart = %d
+CoarseWidth = %d
+CoarseYStart = %d
+CoarseHeight = %d
+SelectRect=%d
+Total APPTime = %d
+XStart Error = %d
+XStart Error = -%d
+XEnd Error = %d
+XEnd Error = -%d
+YStart Error = %d
+YStart Error = -%d
+YEnd Error = -%d
+YEnd Error = %d
+XStart = %d
+XEnd = %d
+YStart = %d
+YEnd = %d
+Type = %d
+Not Full Text ======== %d
+Clear WIndow
+Draws Rectangle--------------------
+MaxRectCount = 0
+SelectRect=%d
+Total APPTime = 10000
+XStart Error = %d
+XStart Error = -%d
+XEnd Error = %d
+XEnd Error = -%d
+YStart Error = %d
+YStart Error = -%d
+YEnd Error = -%d
+YEnd Error = %d
+Total Running Time = %d sec
+VWD - Stop
+AUDIO - OSD - MAIN_OUTPUT = LINE_OUT
+AUDIO - OSD - MAIN_OUTPUT = Headphone
+AUDIO - OSD - MAIN_OUTPUT = SPDIF
+AUDIO - OSD - MAIN_OUTPUT = I2S
+AUDIO - OSD - MAIN_OUTPUT = DPTx
+AUDIO - OSD - MAIN_OUTPUT = LINE_OUT
+UserPrefsRGB_Brightness%d
+tempEdid [%d] = 0x%x
+PortSchemeDependentEntryStart = 0x%x
+PortSchemeDependentUserPrefSize = 0x%x
+PortSchemeDependentEnd = 0x%x
+ModeIndependentStart = 0x%x
+ModeIndependentUserPrefSize = 0x%x
+ModeIndependentEnd = 0x%x
+UserPrefDPSWitch = %d
+UserPrefDPSWitch = %d
+UserPrefDPSWitch = %d
+UserPrefFactoryFlag = %d
+UserPrefProductMode_Flag = %d
+UserPrefRunBurnInModeFlag = %d
+  ODP Pixel Grab - R = %d
+  ODP Pixel Grab - G = %d
+  ODP Pixel Grab - B = %d
+   %d
+     %d
+Set Height of overlapped mode to 350
+Set Height of overlapped mode to 400
+ Index : %d 
+ %d 0x%x 
+Done
+UserPrefAdjustInputColorFormatByOSD = %d
+UserPrefStateTempFlag = %d
+UserPrefColorTemp = %d
+gamma UserPrefGammaMode = %d
+UserPrefGammaTable = %d
+game UserPrefGameMode = %d
+===0:Auto 1:RGB 2:RGB_Reduce 3:YUV_Full 4:YUV_Reduce ===
+UserPrefColorFormat_HDMI = %d
+UserPrefColorFormat_DP1 = %d
+UserPrefColorFormat_DP3 = %d
+stInput[CH_A].ColorDomain = %d
+Input_Color_Domain = %d
+Input_RGB_Range = %d = 0:Default 1:Limited 2:Full
+Input_YUV_Range = %d = 0:Limited 1:Full
+UserPrefInputColorDomain = %d
+===== Temp Flag =====
+UserPrefStateTempFlag = %d
+UserPrefAdjustInputColorFormatByOSD = %d
+MAIN_P_OUT_OFFSET1 = %d
+MAIN_P_OUT_OFFSET2 = %d
+MAIN_P_OUT_OFFSET3 = %d
+Game mode ...
+Please make sure Pip is on before running this appstest
+Pip Pattern no.: %d
+Selecting VQLAB_MAY07_METHOD
+Selecting CORTEZ27REL_METHOD
+ DP Lib Enable Prints.
+ DP Lib Disable Prints.
+------UserPrefReturnToViewMode = %d
+------UserPrefSetupFromViewMode = %d
+------UserPrefIsOriOutput1080ForViewMode_Flag = %d
+------UserPrefColorT9300_G = %d
+appstest 240 [COLOR] [X] [Y] [COUNTER]
+ R  %d
+ G  %d
+ B  %d
+WriteLogicalPortBKSVToOtp fail ! Status =%d
+Status: 
+   0: OK
+   1: init fail
+   2: write fail
+   3: OTP already have LogicalPortBKSV
+   4: BKSV block incorrect
+   5: BKSV key incorrect
+BKSV[0] = 0x%X
+BKSV[1] = 0x%X
+BKSV[2] = 0x%X
+BKSV[3] = 0x%X
+BKSV[4] = 0x%X
+Can't find 2nd BKSV !
+---FAIL to switch shared host bus to Mission
+---OK to switch shared host bus to Mission
+---FAIL to switch shared host bus to LPM
+---OK to switch shared host bus to LPM
+---Fail to send debug request to LPM
+---OK to send debug request to LPM
+*** Addr 0x%x = 0x%x
+*** Write 0x%x to addr 0x%x
+ACC Dump %d
+AutoGeometry End
+Enable UART Prints.
+Disable UART Prints.
+##### Send DP Fake Sleep Power Status Fail !!
+EnableSendAudioPCM_Message %d
+AppsTest
+Choose one of the following options:
+ 0 = Initialize NVRam
+ 1 = Enable/disbale input valid mode
+ 2 = Select Input Port
+ 3 = Change Output Size
+ 4 = Change Output Position
+ 5 = Change Main Aspect Ratio
+ 6 = ADC Calibration
+ 7 = Enable Disable mode detection
+ 8 = Show NVRAM map
+ 9 = PIP Blending
+10 = Frame Lock Mode
+11 = Show SDRAM mapping
+12 = Select which H+V filters
+15 = Zoom Main
+16 = Reset 0 command
+17 = Adjust Gamma
+18 = Misc test
+19 = Video Processing
+22 = Debug Modesetup 0=All 1=Processing
+23 = Mode Setup User Pref
+24 = Display Native Mode
+25 = Select Pip channel port
+26 = Swap Main/Pip
+30 = DDR Test
+33 = 3x3 matrix selection
+39 = Main/Pip video demo function
+43 = Main/Pip audio demo function
+60 = I2C read test(syntax: appstest 60 deviceAddr offsetToRead)
+61 = I2C response test (addresses of responding devices will be listed)
+62 = I2C write test(syntax: appstest 62 deviceAddr offsetToWrite valueToWrite)
+70 = Interlace output control (syntax (all boolean): appstest 70 Enable FreeRunODD InvertInternalODD InvertOutputODD)
+96 = Multi-display feature
+185 = Display ODP pixel grab
+186 = Display ODP pixel grab values
+220 = Select adaptive TNR method
+245 = Panel Selection
+250 = ACC Dump Buffer, Mode (0=off, 1=in hist, 2=out hist, 3=both hist), Frame Count
+251 = AutoGeometry
+252 = Enable/disable UART print messages
+u`=U
+u>=$
+G(;F
+Se(D
+ce(D
+ c(D
+Pj"j
+Pj"j
+Se(D
+ce(D
+Se(D
+TCY<
+sAY<
+TCYP
+TCYPj
+TCYPj
+TCYPj
+TCYP
+TCYRPj
+TCYP
+TCYPh
+TCYPh
+TCYPj
+TCYPj
+TCYP
+TCYRP
+TCYRP
+sAY<
+sAY<
+TCY<
+TCY<
+TCYPj
+TCYP
+TCYP
+[BYj
+TCYP
+!"AY
+!"AY
+TCYPj
+TCYPj
+TCYPj
+TCYPj
+TCYRP
+TCYP
+TCYP
+TCYPj
+TCYPj
+TCYP
+TCYRP
+TCYPj
+TCYP
+Bjdj
+OJj j
+TCYPj
+TCYPj
+TCYPj
+TCYPj
+TCYPj
+TCYPj
+TCYPj
+TCYPj
+TCYPj
+TCYP
+TCYP
+Rvj
+uc;~
+TCY<
+TCY<
+TCY<
+TCY<
+TCY<
+TCY<
+TCY<
+TCY<
+TCYPj
+TCYP
+TCYPV
+TCY<
+TCY<
+TCY;
+TCYP
+%{(D
+8{(D
+%{(D
+8{(D
+TCY<
+TCYPj
+TCYP
+TCYPj
+TCYPj
+TCYP
+TCYPj
+TCYPj
+TCYPj
+TCYPj
+TCYP
+TCY<
+TCY<
+TCY<
+TCYPWV
+TCYRP
+TCYPj
+TCYP
+TCYP
+8n@nQn_n
+n,b3b:bAbHbObVb]b
+MOZOgOtO
+GdG;H~H
+;2;J;b;
+)**{*i+
+-4-K-
+-!.).1/
+/M0U0]0e0m0u0
+2"2s2F4
+5<6D6L6f6
+8B8W8[99:
+>P?a?z?
+A!C`E
+K+K>K
+O:QDQ
+`"`[`p`
+p6jgj
+pNVRAM will initialize on next reboot
+h&OP
+NVRAM mapping : 
+ADC calibration setting START - %d
+ADC calibration setting size
+- %d
+ADC calibration setting num 
+- %d
+Monitor Power On Time START   - %d
+Monitor Power On Time size
+- %d
+PortSchemeDependentIndexStart START   - %d
+PortSchemeDependentIndexStart SIZE
+  - %d
+NUM of Port Scheme setting
+ - %d
+ModeIndependent  Start
+ - %d
+ModeIndependent  Size
+- %d
+Mode Dependent Preset START 
+- %d
+Mode Dependent Preset size
+  - %d
+Mode Dependent Preset num
+  - %d
+Mode Dependent user entry START  - %d
+Num of Mode Dependent user entry - %d
+Mode Dependent preset START PIP  - %d
+Mode Dependent preset size PIP
+   - %d
+Mode Dependent preset num PIP
+   - %d
+Mode Dependent lookup START PIP  - %d
+Mode Dependent lookup size PIP
+   - %d
+Mode Dependent lookup num PIP
+   - %d
+Mode Dependent user START PIP
+ - %d
+Mode Dependent user size PIP
+   - %d
+Mode Dependent user num PIP 
+   - %d
+Auto Scan Input Start START 
+- %d
+Auto Scan Input size
+   - %d
+Monitor Serial Number START    - %d
+Monitor Serial Number Size
+ - %d
+FactorySetting
+Start
+ - %d
+FactorySetting
+Size
+   - %d
+ServiceSetting
+Start
+ - %d
+ServiceSetting
+Size
+   - %d
+NVRAM end - %d
+SDRAM MAPPING: (1 burst = %d bit)
+--------------
+OSD:               0x%lX - 0x%lX : %ld
+OCM Mapped:        0x%lX - 0x%lX : %ld
+LCD Overdrive:     0x%lX - 0x%lX : %ld
+AVS:               0x%lX - 0x%lX : %ld
+Motion Vector:     0x%lX - 0x%lX : %ld
+MAIN %d buffers:    0x%lX - 0x%lX : %ld
+Main %d bpp
+PIP %d buffers:     0x%lX - 0x%lX : %ld
+Pip %d bpp
+--------------
+Memory Total Size: 0x%lX bursts = %ld Mbits
+Total Memory Free: 0x%lX bursts = %ld Mbits
+OJRP
+OJRP
+OJRP
+Disable Mode Detection
+Re-Enable Mode Detection
+Syntax: appstest 1 <channel> <state>
+ <state 0> = Signal Loss
+ <state 1> = Signal Stable
+Signal Lost CH(%d)
+Signal Stable CH(%d)
+UserPrefCurrentInputPip=%d
+UserPrefPipMode=%d
+UserPrefPipMode=%d
+UserPrefCurrentInputPip=%d
+TCY<
+Select ALL_BOARDS_CVBS1
+Select ALL_BOARDS_SVIDEO1
+Select ALL_BOARDS_COMP1
+Select ALL_BOARDS_VGA1
+Select ALL_BOARDS_DVI1
+Select ALL_BOARDS_DVI2
+Select ALL_BOARDS_DIP1
+Select ALL_BOARDS_HDMI
+Select ALL_BOARDS_HDMI2
+Select ALL_BOARDS_HDMI3
+Select ALL_BOARDS_DP1
+Select ALL_BOARDS_DP2
+Select ALL_BOARDS_DP3
+Select Main Input:
+   appstest 2 <port>
+    port: 0 - ALL_BOARDS_CVBS1
+          1 - ALL_BOARDS_SVIDEO1
+          2 - ALL_BOARDS_COMP1
+          3 - ALL_BOARDS_VGA1
+          4 - ALL_BOARDS_DVI1
+          5 - ALL_BOARDS_DVI2
+          6 - ALL_BOARDS_DIP1
+          7 - ALL_BOARDS_HDMI
+          8 - ALL_BOARDS_HDMI2
+          9 - ALL_BOARDS_HDMI3
+         10 - ALL_BOARDS_DP1
+         11 - ALL_BOARDS_DP2
+   CurrentInput is %d
+Pip Select Input Port %d
+Main Select Input Port %d
+ Window width = %d
+ Window height = %d
+AY;6
+Ru-j
+'KYV
+'KYV
+ ERROR: Window horizontal start must be equal to or lesser than %d
+ ERROR: Window vertical start must be equal to or lesser than %d
+ Window horizontal start = %d
+ Window vertical start = %d
+Capture Main : %d
+Capture Main:
+ 0 = Auto
+ 1 = Full Screen
+ 2 = Letter Box
+ 3 = Pillar Box
+ 4 = Pillar Box Expand
+ 5 = Letter Box Expand
+ 6 = Water Glass
+ 7 = Panaoramic
+Change single Pip blending level - %d
+QKYj
+Frame Lock:
+ 0 = DDDS Close Loop
+ 1 = DFL
+ 2 = FreeRun DDDS Open Loop
+Debug ModeSetup,%d
+Debug ModeSetup:
+ 0 = All
+ 1 = Processing
+NVRAM re-initialized to default.
+Panel chosen was No.%d
+Panel ID found
+Please make sure connections are correct, and power cycle the board
+Using DEFAULT_PANEL defined in <<panel.h>>
+Panel ID = %d
+Please make sure connections are correct, and power cycle the board
+Panel ID given is not supported
+?Ru&
+First Parameter =%d is unused.
+HZoom, VZoom
+HShrink, VShrink
+HShrink, VZoom
+HZoom, VShrink
+HShrink, VShrink
+Pixel Scan Start
+CH: %d
+X,Y: %d , %d
+Col: %d
+  R     G     B
+------------------
+%d    %d    %d
+------------------
+Main mem allocate V_StartAddr= 0x%X
+nRuX
+fRu?
+(KYj
+Using Color Space number = %d with color temp. = %d
+Gamma table not found. Vdeo LUT disabled
+*************  TileSet %d   ***************
+Tile %d has VSTART = %d
+Changing Tile ID %d, to HSTART = %d, and VSTART = %d
+OD Transistion:  Red = %d, Green = %d, Blue = %d
+////////////////
+ -+= MVF coefficients =+-
+ -+= MHF coefficients =+-
+ -+= PVF coefficients =+-
+ -+= PHF coefficients =+-
+ = UV =
+ = Y =
+ = Ypk =
+ = UVpk =
+0x%x
+////////////////
+Parameter TNR mode is out of range.
+Parameter MADI mode is out of range.
+Parameter CCS mode is out of range.
+Parameter Sharpness Noise Coring mode is out of range.
+TestEngineeringAdjusters
+UserPrefAcm3RedHue = %d
+UserPrefAcm3RedSat = %d
+UserPrefAcm3RedLuma = %d
+UserPrefAcm3GreenHue = %d
+UserPrefAcm3GreenSat = %d
+UserPrefAcm3GreenLuma = %d
+UserPrefAcm3BlueHue = %d
+UserPrefAcm3BlueSat = %d
+UserPrefAcm3BlueLuma = %d
+UserPrefAcm3MagentaHue = %d
+UserPrefAcm3MagentaSat = %d
+UserPrefAcm3MagentaLuma = %d
+UserPrefAcm3YellowHue = %d
+UserPrefAcm3YellowSat = %d
+UserPrefAcm3YellowLuma = %d
+UserPrefAcm3CyanHue = %d
+UserPrefAcm3CyanSat = %d
+UserPrefAcm3CyanLuma = %d
++++Lane number OOR. Setting to 0.
+#Bathtub curve for Lane %d with PRBS7
+#Bathtub curve for Lane %d with Video Stream
+#AdjReg=0x%x /EQ=0x%x/FP=0x%x/CP=0x%x
+##FP= 0x%x
+##EQ=0x%x
++++Error count is invalid
+END$$$$$$$$$$$$$$$$$$$$$$$
+LT Info: 0x%x / #AdjReg: 0x%x / Collection Period: %dms
+#Bathtub with PRBS7
+#Bathtub with Video Stream
+Lane %d is under testing ......
+FP = %d
+EQ = %d
+CPT = 0x%x
+CPTrim
++++Error count is invalid
+Skipped
+End of the collection
+SPR3
+Send request to LPM fail!
+Misc test:
+   appstest 18 <index>
+     index:
+          1 - Disable SPI-Flash Cache
+          2 - Enable SPI-Flash Cache
+          3 - Run gm_PowerDownAll() function
+          4 - Run gm_PowerUpAll() function
+          5 - Run AdjustPowerForTest() function
+          6 - Run PowerDeepSleepInRequest() function
+          7 - Run ResetLpm() function
+Only support 27/100/135/150/177/200 MHz OCM frequency!
+Set OCM clock as %d MHz
+AYjd
+Wariing ............... Input or Output Width and Height can not set to %d
+Format: Appstest 8 InputWidth InputHStart InputHeight InputVStart OutputWidth OutputHStart OutputHeight OutputVStart 
+Input W_Width ........... = %d
+Input W_Hstart ........... = %d
+Input W_Height ........... = %d
+Input W_Vstart ........... = %d
+Output W_Width ........... = %d
+Output W_Hstart ........... = %d
+Output W_Height ........... = %d
+Output W_Vstart ........... = %d
+Prev W_Width ........... = %d
+Prev W_Hstart ........... = %d
+Prev W_Height ........... = %d
+Prev W_Vstart ........... = %d
+Input W_Hstart 1 ........... = %d
+Rvj
+TCY@
+Wariing ............... Input or Output Width and Height can not set to %d
+Format: Appstest 8 InputWidth InputHStart InputHeight InputVStart OutputWidth OutputHStart OutputHeight OutputVStart 
+Input W_Width ........... = %d
+Input W_Hstart ........... = %d
+Input W_Height ........... = %d
+Input W_Vstart ........... = %d
+Output W_Width ........... = %d
+Output W_Hstart ........... = %d
+Output W_Height ........... = %d
+Output W_Vstart ........... = %d
+Prev W_Width ........... = %d
+Prev W_Hstart ........... = %d
+Prev W_Height ........... = %d
+Prev W_Vstart ........... = %d
+Input W_Hstart 1 ........... = %d
+Rvj
+TCY@
+PIP Demo Function:
+   appstest 39 <case> <sub-case>
+    case: 
+          1 : Position change
+              0 : BOTTOM_RIGHT
+              1 : TOP_RIGHT
+              2 : TOP_LEFT
+              3 : BOTTOM_LEFT
+          2 : Size change
+              0 : NO_PIP
+              1 : LARGE_PIP
+              2 : SMALL_PIP
+              3 : SIDE_BY_SIDE
+              4 : SIDE_BY_SIDE_TALL
+          3 : Alpha blending
+              0 ~ 15 (Blend level)
+          4 - Swap Main/Pip
+          5 - Scaling (side by side)
+              0 : Scaling down
+              1 : Scaling up
+              2 : Focus left border
+              3 : Focus right border
+          6 : Auto
+              0 ~ 14 (Start index)
+          7 : Set Pip position and size
+              x y width height
+          8 : Pip Relocating and Resizing
+              0 : Init
+              1 : Up
+              2 : Down
+              3 : Left
+              4 : Right
+              5 : Size up BOTTOM_RIGHT
+              6 : Size up TOP_LEFT
+              7 : Size up TOP_RIGHT
+              8 : Size up BOTTOM_LEFT
+              9 : Size down BOTTOM_RIGHT
+             10 : Size down TOP_LEFT
+             11 : Size down TOP_RIGHT
+             12 : Size down BOTTOM_LEFT
+             13 : Stop Relocating and Resizing
+QKYj
+TCYPj
+TCYPj
+TCYPj
+TCYP
+"R-X
+"R-,
+~ ;6
+"wu
+$wu
+,wu
+BjFj
+IspExeMode (%d)
+Main_Channel  : %d
+MemoryNumBuf  : %d
+MemoryBpp     : %d
+FrameBufStart : 0x%lX (0x%lX)
+Input Active  : %d x %d
+BurstAdjust   : %d
+BitsPerPix    : %d
+Input Picture : %d x %d
+Total PicNum  : %d
+FwBinTotal    : 0x%lX
+FmBinBufStart : 0x%lX (0x%lX)
+Waiting for confirmation..
+ISP Action Rejected!
+Load Flash Driver Failed!
+Flash Erase Failed!
+Flash Erase Success
+Flash Write Failed!
+$$$Total Time: %dms $$$
+SetIspAutoDetMode=FALSE
+SetIspAutoDetMode=TRUE
+^BY]
+DK:F
+E(;D(t
+E*;D*t
+E,;D,t
+E$;D$t
+DzPj
++KY=
++KY=
++KY=
+D;F
+HdmiDviHpdControl: Incorrect Port Number!
+\B^]
+\4_^
+\4_^
+D`;V
+t=
+t=
+Wrong InputConnector number
+===HdmiDviPrintSignalProperty:(%d)===
+Error! Signal Property Not loaded.
+Signal Type   :DVI
+Signal Type   :HDMI
+Signal Type   :Dual DVI
+ScanType      :Progressive
+ScanType      :Interlaced
+PixelClock    :%LdHz
+HActiveStart  :%d
+HActive       :%d
+HTotal        :%d
+VActiveStart  :%d
+VActive       :%d
+VTotal        :%d
+HSyncPolarity :Positive
+HSyncPolarity :Negative
+VSyncPolarity :Positive
+VSyncPolarity :Negative
+Wrong InputConnector number
+===HdmiDviPrintVideoProperty:(%d)===
+Error! Video Property Not loaded.
+ColorDepth    :24 BPP
+ColorDepth
+   :30 BPP
+ColorDepth
+   :36 BPP
+ColorDepth
+   :48 BPP
+ColorFormat   :RGB
+ColorFormat   :YUV422
+ColorFormat   :YUV444
+PixRepeatFactr:%d
+Is3DFormat    :Yes
+3dFormat      :Frame Packing
+3dFormat      :Field Alternative
+3dFormat      :Line Alternative
+3dFormat      :Side By Side Full
+3dFormat      :Side By Side Half
+3dFormat      :Top and Bottom
+Is3DFormat    :No
+ITContent     :1
+ITContent     :0
+VideoTimingCode   :%d
+ScanInfo      :No Data
+ScanInfo      :OverScanned Display
+ScanInfo      :UnderScanned Display
+ScanInfo      :Reserved
+Colorimetery  :Default
+Colorimetery  :BT601
+Colorimetery  :BT709
+Colorimetery  :XvYCC601
+Colorimetery  :XvYCC709
+Colorimetery  :sYCC601
+Colorimetery  :Adobe601
+Colorimetery
+:AdobeRGB
+RGBQuantRange :Default
+RGBQuantRange :Limited
+RGBQuantRange :Full
+RGBQuantRange :Reserved
+YCQuantRange  :Limited
+YCQuantRange  :Full
+YCQuantRange  :Reserved
+ContentType     :GRAPHICS
+ContentType     :PHOTO
+ContentType     :CINEMA
+ContentType     :GAME
+ContentType     :UNKNOWN
+R)Z)b)j)
+)$),)4)
+(G(O(W(_(g(
+'Wrong InputConnector number
+===HdmiDviPrintAudioProperty:(%d)===
+Audio Property Not loaded.
+ StreamType        = %d : UnKnown
+ StreamType        = %d : IEC
+ StreamType        = %d : DSD
+ StreamType        = %d : DST
+ StreamType        = %d : HBR
+ CodingType        = %d : None
+ CodingType        = %d : PCM
+ CodingType        = %d : AC3
+ CodingType        = %d : MPEG1
+ CodingType        = %d : MP3
+ CodingType        = %d : MPEG2
+ CodingType        = %d : AAC
+ CodingType        = %d : DTS
+ CodingType        = %d : ATRAC
+ CodingType        = %d : DSD
+ CodingType        = %d : DDPLUS
+ CodingType        = %d : DTS_HD
+ CodingType        = %d : MAT
+ CodingType        = %d : DST
+ CodingType        = %d : WMA_PRO
+ ChannelCount      = %d
+ ChannelAllocation = %d
+ SamplingFrequency = %ld
+ SampleSize        = %d : None
+ SampleSize        = %d : 16
+ SampleSize        = %d : 17
+ SampleSize        = %d : 18
+ SampleSize        = %d : 19
+ SampleSize        = %d : 20
+ SampleSize        = %d : 21
+ SampleSize        = %d : 22
+ SampleSize        = %d : 23
+ SampleSize        = %d : 24
+ DownMixInhibit    = %d
+ LevelShift        = %d
+ LFEPlayBackLevel  = %d : UnKnown
+ LFEPlayBackLevel  = %d : 0dB
+ LFEPlayBackLevel  = %d : 10dB
+0 0*040[/e/o/
+IY;F
+Wrong InputConnector number
+=h@O
+F4`I
+GY^]
+G@^]
+G@^]
+)8W5t
+GX^]
+GX^]
+6`I]
+L;`I]
+L;`I
+6999U
+ERROR! DPCD value
+G:F
+G:F
+P)P)P)
+)P)P)P)
+F:F
+F*F
+F:F
+);G>u)
+);G@u
+);GBu
+G<^]
+%33=""u
+G`^]
+Gd^]
+L4^]
+G8^]
+G8^]
+G4^]
+G4^]
+L4^]
+G4^]
+G4^]
+G`^]
+G4^]
+GL^]
+GL^]
+Gl^]
+GY^]
+wfcfmf
+GY^]
+4`IhP
+;9`I
+G6^]
+GL^]
+GL^]
+G4^]
+GD_^
+`IYj
+%33=""u
+%ww=""u
+F4`I
+GLPj
+PHY Automation is detected, and i am in
+The Test rate detected is= %x
+The Test lane count detected is= %x
+The Gain_01 = %x
+The Gain_23 = %x
+The PE_01 = %x
+The PE_23 = %x
+The Test Pattern detected is %x
+)_^]
+*FE1
+*FE2
+tx:3
+*FE3
+*FE4
+*FE5
+*FE6
+*FE7
+*FE8
+*MaxD
+*FE9
+*FE10
+*FE11
+*FE12
+*FE13
+/q%}9
+GLPj
+);Gmu
+);Ggu
+WkRP
+WeRP
+Gv:F
+Gu:F
+*DR done %x
+G:tb
+);G8v
+)+G8
+);W>w
+;G<s
+)+G<
+GD!F
+LT Fail
+LTS %x
+No DR %x
+G(^]
+UnAuthenticated & R0Mismatch_bf1
+htiNi
+kXkU
+HDCP: Bcaps not available
+InValid Bksv
+J_^]
+_Z;G
+);GTu
+);GVu
+);GTu
+);GVu
+G^]
+G^]
+G/^]
+Tx Cable Tog %x
+G-:F
+Cable Connected
+Cable Disconnected
+G0j
+):Gtt=
+G^]
+GP^]
+G^]
+GP^]
+GP^]
+L0^]
+L0^]
+GP^]
+GP^]
+GX^]
+G0^]
+GP^]
+GP^]
+G0^]
+G0^]
+invalid Tx AP state
+dr7j
+uWV
+GY_^
+SS DP enable
+SS DP disable
+4028
+4020
+Ft)
+GLPj
+GLPj
+G(^]
+16:51:38  Aug  6 2013
+PortStruct Null
+ut;F
+u`;F
+u@;F
+u ;F
+InActive %x
+Active %x
+4`Ih
+*Active %x
+*InActive %x
+*Active %x
+4`IhP
+*InActive %x
+AYRP
+AYRP
+TO ISR
+SST in
+MstTx %x
+MstTx Pos %x
+TrackMstOutRxPorts %X
+) G-
+W-"V
+L;`I
+G.;V
+GH:F
+GH:F
+GYPh
+Clear ECF %x
+Clear ECF %x
+*DDtgM*
+T %x
+P %x
+G!_^
+T %x
+P %x
+G#_^
+r0 %d
+r1 %d
+;Vwr
+"A=m[tDhm[
+t8z8
+reset
+G4^]
+***DEL DPCD TS Table of next BR***
+dr%j
+NuNU
+Deleting right to left clone
+Deleting left to right clone
+GY^]
+Cloning from right to left
+Cloning from left to right
+#PL1 =0x%x
+#PL2 =0x%x
+   Deleting stream cloned on left
+   Deleting right stream ==> clone left stream to right
+   Deleting stream cloned on right
+   Deleting left stream ==> clone right stream to left
+     Allocating a stream to right ==> delete clone of left to right
+     Allocating stream to right ==> stream not cloned to right
+     Allocating a stream to left ==> delete clone of right to left
+     Allocating stream to right ==> stream not cloned to left
+  Allocating a stream on right ==> no left stream so clone right to left
+  Allocating a stream on left ==> no right stream so clone left to right
+AP P Nack
+;GDs
+iaia
+a^b^b@bU
+AP NACK
+;GBs
+Time Up
+;GFs
+GH:F
+WrongPort %x
+CRC Fail Calc %x
+MSG %x
+T = %x
+CC = %x
+RC = %x
+RL = %x
+D0 = %x
+D1 = %x
+D2 = %x
+D3 = %x
+D4 = %x
+MT CRC ERR
+QP exec
+$@<@uY
+VRP&
+VRP&
+G0_^
+G4j0
+Wrong Offset
+Nothing to del
+No DR free buffer %x
+No freeUp rep
+Invalif Buff Type
+Invalid DnReq Offset
+Invalid UpReq Offset
+Err:BufferType wrong %x
+CRC Fail Retry
+G4j0
+ParseFwdTXMsg(): Unable to obtain a free forward message buffer
+u&j?
+SB_ParseFwdTXMsg(): Unable to obtain a free forward message buffer
+G1uP
+:GJt
+G3u~
+t<j0
+:GKt
+tjj0
+G6:G8rX
+G8:G6v
+G3*GC
+NAK for UNKNOWN message
+Qses Rxed
+Unknown Message Request (%d)
+Unknown Message Req Broadcast and Leaf
+Unknown Message Req is Broadcast
+Unknown Message Req is for Target Node
+Unknown Message Req is for Forwarding
+G`:F
+G`:F
+G`:F
+G`:F
+G`:F
+G`:F
+)+Gc
+DataPtr =%x
+addr =%x
+Rx port=%x
+Tx port=%x
+Unknown Message Reply (%x)
+Unknown Message Reply is for Target Node
+Unknown Message Reply is for Forwarding
+G`:F
+Resource Status Notify Construct
+Internal coding error: Invalid BU_DeviceType
+Internal coding error: Invalid BU_DeviceType
+L Prime Error
+*Reply*
+An %x
+Bksv %x
+M0 %x
+V0 %x
+Nonce %x
+SS %x
+Streamid %x
+!!L Match**** 
+Hdcp Status %X
+done %x
+$?@&
+invalid Stream ID
+! %x
+& %x
+* %x
+All reply false %x
+All reply false -id %x
+All reply false -Stream id %x
+All reply false -id %x
+All reply rxed 
+GY^]
+(`IY
+`IY=
+(`IY
+`IY=
+(`IY
+m2`I
+/`IY
+1`IY
+&`IY
+2`IY
+m2`I
+/`IY
+2`IY
+m2`I
+/`IYj
+GD^]
+(`IY
+w-`I
+DJ`I
+(`IY
+DJ`I
+(`IY
+w-`I
+(`IY
+):GIr
+2`IY
+m2`I
+/`IY
+2`IY
+%""=""u
+`IYj
+/`IY
+L;`I
+/`IY
+LQA Enable
+LQA Disable
+(`IY
+(`IY
+(`IY
+(`IY
+(`IY
+w-`I
+(`IY<
+(`IY<
+(`IY<
+GOj
+`IYj
+(`IY
+(`IY
+(`IY
+(`IY
+**SP**
+(`IY
+m2`I
+4`Ih
+G~:F
+G~:F
+:G~r
+:G~r
+:G~r*
+:G~r
+:G~v|
+:G~wX
+:G~v|
+:G~wX
+w-`I
+Pjnj
+Qu*&
+;Du#
+uQSj
+3D - gm_IbdRead() is patched for 3D inputs
+3D - gm_3D_SetInfoFrameWith3D() is called
+JY^]
+3D - gm_3D_LeftRight_Swapped() is called.
+3D - Patch Code In End Of ModeDetermine is enabled.
+3D - Patch Code In End Of ModeDetermine is disabled.
+3D - FRC control is always compressed.
+3D - FRC control is in normal rule.
+Please use sentence "appstest 46 [p1] [p2] ... [pn]"...etc for 3D testing.
+ [p1] is sub-function selector.
+ [p2]~[pn] are parameters for each sub-functions.
+ [p1] =  0 -> Force selected 3D format with input source.
+ [p1] =  1 -> Left and Right swapped.
+ [p1] = 10 -> Save Mode Independent Settings.
+ Sentence error.
+ Appstest 46 %d [p2]
+ [p2] = %d -> NO_3D
+ [p2] = %d -> ORIGINAL_2D
+ [p2] = %d -> FRAME_SEQUENTIAL
+ [p2] = %d -> FRAME_PACKING
+ [p2] = %d -> STACKED_TOP_BOTTOM
+ [p2] = %d -> SIDE_BY_SIDE_HALF
+ [p2] = %d -> SIDE_BY_SIDE_FULL
+ [p2] = %d -> TOP_AND_BOTTOM
+ [p2] = %d -> FIELD_ALTERNATIVE
+ [p2] = %d -> LINE_ALTERNATIVE
+ [p2] = %d -> FP_TO_LA_CASE_5
+ Left and Right swapped.
+IsSGTC_Enabled = %d
+ Save Mode Independent Settings.
+TCYP
+TCYRP
+3D - gm_3D_ShuttleGlassesSetup() is called.
+3D - gm_3D_OSD_Initialize() is called.
+3D - gmd_3D_MODESETUP_COMPLETED_NOW (%ld)
+3D - gmd_3D_MODESETUP_COMPLETED_WAIT_DONE (%ld)
+3D - gmd_3D_MODESETUP_COMPLETED (%ld)
+3D - Nothing is applied.
+3D - Please use "appstest 46 7" to enable the applied routine.
+3D - gm_3D_GetInutColorFormat() = RGB
+3D - gm_3D_GetInutColorFormat() = YUV422
+3D - gm_3D_GetInutColorFormat() = YUV444
+3D - gm_3D_GetInutColorFormat() = UNKNOWN
+3D - Error!!! unknown color depth. Fix to 24bits. <<<<<<<<<<<<
+3D - gm_3D_SetPipMemoryByBPP(%d) is called.
+3D - gm_3D_GetPipMemoryBPP() = %d
+3D - gm_3D_SetMemoryByBPP(%d) is called.
+3D - gm_3D_GetMemoryBPP() = %d
+3D - _3D->OutputFormat      = gmd_3D_OUT_FRAME_SEQUENTIAL
+3D - _3D->OutputFormat      = gmd_3D_OUT_LINE_ALTERNATIVE
+3D - _3D->OutputFormat      = gmd_3D_OUT_SIDE_BY_SIDE
+3D - _3D->OutputFormat      = gmd_3D_OUT_UNKNOWN
+3D - _3D->InputConnector    = No supported port
+3D - _3D->InputConnector    = DP1
+3D - _3D->InputConnector    = HDMI1
+3D - _3D->InputConnType     = No supported connecter
+3D - _3D->InputConnType     = HDMI
+3D - _3D->InputConnType     = DisplayPort
+3D - _3D->InputFormat       = gmd_3D_IN_FRAME_SEQUENTIAL
+3D - _3D->InputFormat       = gmd_3D_IN_FRAME_PACKING
+3D - _3D->InputFormat       = gmd_3D_IN_STACKED_TOP_BOTTOM
+3D - _3D->InputFormat       = gmd_3D_IN_SIDE_BY_SIDE_HALF
+3D - _3D->InputFormat       = gmd_3D_IN_SIDE_BY_SIDE_FULL
+3D - _3D->InputFormat       = gmd_3D_IN_TOP_AND_BOTTOM
+3D - _3D->InputFormat       = gmd_3D_IN_FIELD_ALTERNATIVE
+3D - _3D->InputFormat       = gmd_3D_IN_LINE_ALTERNATIVE
+3D - _3D->InputFormat       = gmd_3D_IN_FRAME_PACKING_CASE_5
+3D - _3D->InputFormat       = gmd_3D_IN_ORIGINAL_2D
+3D - _3D->InputFormat       = gmd_3D_IN_UNKNOWN
+3D - _3D->InputFormat       = gmd_3D_IN_FRAME_SEQUENTIAL_RIGHT
+3D - _3D->InputFormat       = gmd_3D_IN_FRAME_SEQUENTIAL_LEFT
+3D - _3D->InputFormat       = gmd_3D_IN_SIDE_BY_SIDE_HALF_RIGHT
+3D - _3D->InputFormat       = gmd_3D_IN_SIDE_BY_SIDE_HALF_LEFT
+3D - _3D->InputFormat       = gmd_3D_IN_INTERLACED_RIGHT_EVEN
+3D - _3D->InputFormat       = gmd_3D_IN_INTERLACED_RIGHT_ODD
+3D - _3D->InputFormat       = gmd_3D_IN_INTERLACED_RIGHT_CHECKERBOARD
+3D - _3D->InputFormat       = gmd_3D_IN_INTERLACED_RIGHT_V_LEFT
+3D - _3D->InputFormat       = gmd_3D_IN_INTERLACED_RIGHT_V_RIGHT
+3D - _3D->InputFormat       = gmd_3D_IN_SIDE_BY_SIDE_HALF_INTERLACED
+3D - _3D->IN_Bits_Per_Pixel = %d
+3D - _3D->IN_Freq_(H,V)      = %d, %d
+3D - _3D->IN_Total_(H,V)     = %d, %d
+3D - _3D->IN_Width_(H,V)     = %d, %d
+3D - _3D->OUT_Width_(H,V)    = %d, %d
+3D - _3D->OUT_Freq_(Min,Max) = %d, %d
+3D ===========================================================
+D8;DJs
+D:;DLs
+3D - Just exit.
+3D - LVDS is restored to normal speed.
+3D - LVDS is saved.
+3D - LVDS is set for Interlaced SBS.
+3D - LVDS is set to 400MHz.
+3D - gm_3D_FrameLockModeEnabled() is called.
+3D - gm_3D_DynamicFrameLockModeEnabled() is called.
+|Pxt
+D2-X
+$3D - gm_3D_TwoStageMode_Enabled() is called.
+3D - gm_3D_VideoFeatureControl() is called.
+3D - gm_3D_End_Of_3D_Programming(%ld) is called.
+3D - gm_3D_PipScalerSetup() is called. 
+3D -----------------------------------------------------------
+3D -  Input H Active Width  = %d
+3D -  Input V Active Height = %d
+3D - Output H Active Width  = %d
+3D - Output V Active Height = %d
+3D -----------------------------------------------------------
+)3D - gm_3D_ScalerSetup() is called. 
+3D -----------------------------------------------------------
+3D -  Input H Active Width  = %d
+3D -  Input V Active Height = %d
+3D - Output H Active Width  = %d
+3D - Output V Active Height = %d
+3D -----------------------------------------------------------
+3D ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3D - gm_3D_FrameBufferProgramming(0x%lX) is called.
+3D - case gmd_3D_OUT_SIDE_BY_SIDE:
+3D - case gmd_3D_IN_FIELD_ALTERNATIVE:
+3D - case gmd_3D_IN_ORIGINAL_2D:
+3D - IMP_Frame_(Width,Height) = %d, %d
+3D - case gmd_3D_OUT_FRAME_SEQUENTIAL:
+3D - case gmd_3D_IN_FIELD_ALTERNATIVE:
+3D - case gmd_3D_IN_ORIGINAL_2D:
+3D - case gmd_3D_IN_FRAME_SEQUENTIAL:
+3D - case gmd_3D_IN_FRAME_PACKING:
+3D - case gmd_3D_IN_TOP_AND_BOTTOM:
+3D - case gmd_3D_IN_SIDE_BY_SIDE:
+3D - case gmd_3D_IN_LINE_ALTERNATIVE:
+3D - case Need to be defined:
+3D - case gmd_3D_IN_SIDE_BY_SIDE_HALF_INTERLACED:
+3D - IMP_Frame_(Width,Height) = %d, %d
+3D - IPP_Frame_(Width,Height) = %d, %d
+3D - case gmd_3D_OUT_LINE_ALTERNATIVE:
+3D - case gmd_3D_IN_FIELD_ALTERNATIVE:
+3D - case gmd_3D_IN_ORIGINAL_2D:
+3D - case gmd_3D_IN_FRAME_SEQUENTIAL:
+3D - case gmd_3D_IN_FRAME_PACKING:
+3D - case gmd_3D_IN_TOP_AND_BOTTOM:
+3D - case gmd_3D_IN_SIDE_BY_SIDE:
+3D - case gmd_3D_IN_LINE_ALTERNATIVE:
+3D - case gmd_3D_IN_FRAME_PACKING_CASE_5:
+3D - case Need to be defined:
+3D - IMP_Frame_(Width,Height) = %d, %d
+3D ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3D -  MFRC PIXEL OUT        = %d
+3D -  MFRC LINE OUT         = %d
+3D ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3D -  PFRC PIXEL OUT        = %d
+3D -  PFRC LINE OUT         = %d
+3D ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D8;DJv
+D8;DJv
+D:;DLv
+D8;DJv
+D:;DLv
+D8;DJv
+D:;DLv
+D8;DJv
+D:;DLv
+D8;DJv
+D:;DLv
+D8;DJv
+D:;DLv
+D8;DJv
+D8;DJv
+D:;DLv
+D8;DJv
+D:;DLv
+D8;DJv
+D:;DLv
+D8;DJv
+D:;DLv
+D8;DJv
+IJIJIJIJbMbMWJ
+D]E]E
+E]F]F]F]F]F]F]F]F]F
+:0808b8b8
+8-8K9
+93D - gm_3D_ReadFrontEndIBD() is called.
+3D ===========================================================
+3D - gm_3D_ModeSearch() is called. TotalModeNumber = %d
+3D - Mode not found. <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+3D - _3D->IN_H_Freq  = %d
+3D - _3D->IN_V_Freq  = %d
+3D - _3D->IN_V_Total = %d
+3D - Mode not found. <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+3D - _3D->IN_H_Freq  = %d
+3D - _3D->IN_V_Freq  = %d
+3D - _3D->IN_V_Total = %d
+3D - Un-supported 3D format. <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+3D -                               _3D_ModeTable[%d] is got.
+3D - _3D->IN_H_Front        = %d
+3D - _3D->IN_H_SyncWidth    = %d
+3D - _3D->IN_H_Back         = %d
+3D - _3D->IN_V_Front        = %d
+3D - _3D->IN_V_SyncWidth    = %d
+3D - _3D->IN_V_Back         = %d
+3D ===========================================================
+Y8X8X
+Y3[3[3[3[3[3[3[3[3[3[8X
+3D - gm_3D_TRID_Programming() is called.
+B]B]"]"]B]B]B]B]B]N]N]N]N]N]N]N]N]N]B]"]
+\3D ===========================================================
+3D - gm_3D_ModeDetermineByFrontEnd() is called.
+^3D - gm_3D_OutputTiming_3D_Mode() is called.
+3D - gm_3D_OutputTiming_2D_Mode() is called.
+3D - gm_3D_RecoveryTo2D(%ld) is called.
+3D - gm_3D_InitializeOnce() is called.
+3D - gm_3D_Initialize() is called.
+\MY]
+`MY]
+`MY]
+`MY]
+`MY]
+`MY]
+`MY]
+`MY]
+`MY]
+$MY]
+A[8G
+ryur
+A[8G
+$MY=
+$MY=
+YLY]
+8MY]
+\MY]
+Ru4j
+$MYPj
+$MYP
+97uT
+$MYPj
+$MYP
+97u 
+$MYPj
+HMY]
+AUDIO - SYS_API_AUDIO_Initialize()
+&SRP
+1vA
+Motion_Low; 0x%x
+Motion_Std; 0x%x
+Motion_High; 0x%x
+Motion_Vert; 0x%x
+Motion_VertL; 0x%x
+Motion_VertS; 0x%x
+Motion_VertH; 0x%x
+Motion_Other; 0x%x
+S: %d;  R: %d
+W_Flags = 0x%x;  B_MotIndex = 0x%x
+Comp S: %d;  Comp R: %d
+W_Flags = 0x%x;  B_MotIndex = 0x%x
+Final Std (Y < %d )
+=SPV
+=SPW
+F=@
+SB;V
+Sw49
+Su;
+SPR3
+SPR3
+SPR3
+PSR3
+SPR3
+PQR3
+ZPR3
+&9wv
+h?Lh
+hlMh
+Unauth**
+Endis**
+ReAuth
+IstPhComp
+Linkfail
+2ndPhComp
+UnAuth
+10:34:12  Sep  5 2012
+*TxUnauth*
+T21=%x
+T22=%x
+T11=%x
+T12=%x
+>O+G
+>O+G
+SA %x
+T1=%x
+T2=%x
+MaxKsvExceed
+ BU Done
+>O;W
+J_^]
+X_^]
+WjBj
+Y_^]
+rMYV
+JOTY^chmU
+;j2j
+&WP&
+&WP&
+&WP&
+&WP&
+&WP&
+&WP&
+&WP&
+&WP&
+&WP&
+&WP&
+&WP&
+&WP&
+&WP&
+&WP&
+&WP&
+(RH3
+*RK3
+*RvMj
+>RH3
+@RH3
+&97t
+&97t
+Gain Cal by PIXEL_GRAB takes long time !!! PLEASE WAIT !!!
+t4j 
+   %s Gain cal Failed !!!
+h(]P
+XXXXX Saturation XXXXXX 0x%X - 0x%X
+w"+v
+;Fs
+9j2j
+'KYj
+(KYj
+(KY]
+bwSr
+:W^]
+(R@$
+>R@$
+Not support ratio
+>W$?
+>W$?
+uJY]
+hYRP
+hYRP
+hYRP
+hYRP
+ - Exiting State 
+ - Entering State 
+ - Entering State 
+8u|;
+8u|;
+D ;Fr
+yMY]
+yMY]
+>EW r
+oWPj
+#SKj
+#SKj
+#SKj
+#SKj
+#SKj
+#SKj
+#SKj
+#SKj
+vj~K
+>EW r
+>EW r
+$SKY
+xX+F
+xX+F
+$SKY
+xX+F
+xX+F
+>EW r
+r)SKY
+r)SKY
+FXPj
+uJj
+>EW r
+tXs)
+'^)^)^)2(U
+h/]h
+h1]h0
+h3]h
+h5]h0
+h2]h
+SPR3
+SPR3
+Mh/]h
+SPR3
+SPR3
+@Bu(
+h*]hP
+h-]h 
+h+]h`
+h,]h@
+h/]h
+@Bu(
+h*]hP
+h-]h 
+h+]h`
+h,]h@
+h/]h
+@Bu(
+Mh*]hP
+@Bu(
+Mh/]h
+mWvK:
+lWvE
+@A~K
+v8~K
+/W~K
+vWR3
+zWR3
+X-v8
+ND:F
+ND:F
+tK&8
+ODtD&
+VD:F
+t:&8
+WDt3&
+ND:F
+ODty&
+VD:F
+to&8
+WDth&
+^D:F
+t^&8
+_DtW&
+LD:F
+ND:F
+LD:F
+ND:F
+TD:F
+VD:F
+LD:F
+ND:F
+ODsX
+TD:F
+VD:F
+WDs2
+\D:F
+^D:F
+_Ds
+lD:F
+nD:F
+mD:F
+oD:F
+tD:F
+vD:F
+uD:F
+wD:F
+|D:F
+~D:F
+}D:F
+ZPR3
+Vrzws;
+rRwK&;
+Main WSS 4:3
+Pip WSS 4:3
+Main WSS 4:3 LETTER
+Pip WSS 4:3 LETTER
+Main WSS 16:9
+Pip WSS 16:9
+Main CGMS - %d
+Pip CGMS - %d
+Main Copy Right - %d
+Pip Copy Right - %d
+Aspect Ratio is 4:3 full format
+Aspect Ratio is 14:9 letter box
+Aspect Ratio is 16:9 letter box
+Aspect Ratio is >16:9 letter box
+Aspect Ratio is 14:9 full format
+Aspect Ratio is 16:9 full format
+Set RCLK Failed!!!
+nLY=
+u0SPW
+rMYW
+rMYW
+ Edges %d
+### IA_HTotal-Failed: CalcArray.EdgeCount (%d) < MIN_EDGES
+ Caculated New_HTotal = %d
+ Correct HTotal found: %d
+### IA_HTotal-Failed: TryCount=0
+Exit IA-HTOTAL >>>>> %d
+X@t(
+6Yh
+(R@;
+ Test HTotal = %d
+ Final Phase: %d (0x%X)
+Exit IA-PHASE >>>>> %d
+AutoMode = 0x%X
+=====>> STS_INIT  <<=====
+=====>> STS_IA3_INIT
+=====>> STS_IA_HTOTAL
+=====>> STS_IBD_WIDTH
+=====>> STS_IA_PHASE
+=====>> STS_SUM_OF_DIFF
+=====>> STS_ABORT
+###AUTO ABORT (%d) ###
+=====>> STS_FINISH <<=====
+### AutoGeometry Failed --- 0x%X ###
+### Auto Position Failed
+### Run IA-HTotal Buff error
+(RR3
+X_^
+ Test Phase=== %d (0x%X)
+### Run IA-Phase Buff error
+### Cannot qualified after reach MAX_PHASE_TRIES
+Interpolated
+Flat Phase2= %d
+ SOD Phase set to ... %d
+[r%w
+RPjQh
+RPh1
+{LY=
+$?@
+AUDIO - gm_AUDIO_Get_Sampling_Info(gmvb_MainChannel)
+AUDIO - Detected            = TRUE
+AUDIO - AVMute              = %d
+AUDIO - AudioPropertyChange = %d
+AUDIO - ChannelCount        = %d
+AUDIO - CodingType          = PCM
+AUDIO - CodingType          = AC3
+AUDIO - CodingType          = DTS
+AUDIO - CodingType          = ???
+AUDIO - SampleRate          = %ld
+AUDIO - SampleWidth         = %d
+AUDIO - gm_AUDIO_Get_Sampling_Info(gmvb_MainChannel)
+AUDIO - Detected            = FALSE
+AUDIO - gm_AUDIO_Get_Sampling_Info(gmvb_PipChannel)
+AUDIO - Detected            = TRUE
+AUDIO - AVMute              = %d
+AUDIO - AudioPropertyChange = %d
+AUDIO - ChannelCount        = %d
+AUDIO - CodingType          = PCM
+AUDIO - CodingType          = AC3
+AUDIO - CodingType          = DTS
+AUDIO - CodingType          = ???
+AUDIO - SampleRate          = %ld
+AUDIO - SampleWidth         = %d
+AUDIO - gm_AUDIO_Get_Sampling_Info(gmvb_PipChannel)
+AUDIO - Detected            = FALSE
+AUDIO - gm_AUDIO_Set_Capability(%d)
+AUDIO - I2S IN
+AUDIO - SUPPORTED_CODING_TYPE = 0x%X
+AUDIO - SAMPLE_RATE  = %ld to %ld
+AUDIO - SAMPLE_WIDTH = %d to %d
+AUDIO - CH_COUNT     = %d to %d
+AUDIO - HDMI IN
+AUDIO - SUPPORTED_CODING_TYPE = 0x%X
+AUDIO - SAMPLE_RATE  = %ld to %ld
+AUDIO - SAMPLE_WIDTH = %d to %d
+AUDIO - CH_COUNT     = %d to %d
+AUDIO - SPDIF IN
+AUDIO - SUPPORTED_CODING_TYPE = 0x%X
+AUDIO - SAMPLE_RATE  = %ld to %ld
+AUDIO - SAMPLE_WIDTH = %d to %d
+AUDIO - CH_COUNT     = %d to %d
+AUDIO - DPRx1 IN
+AUDIO - SUPPORTED_CODING_TYPE = 0x%X
+AUDIO - SAMPLE_RATE  = %ld to %ld
+AUDIO - SAMPLE_WIDTH = %d to %d
+AUDIO - CH_COUNT     = %d to %d
+AUDIO - DPRx2 IN
+AUDIO - SUPPORTED_CODING_TYPE = 0x%X
+AUDIO - SAMPLE_RATE  = %ld to %ld
+AUDIO - SAMPLE_WIDTH = %d to %d
+AUDIO - CH_COUNT     = %d to %d
+AUDIO - !!! Unsupported CodingType from input.
+AUDIO - !!! Unsupported SamplingRate (%ld) from input.
+AUDIO - !!! Unsupported Bits (%d) from input.
+AUDIO - !!! Unsupported Channel (%d) from input.
+XZ;W
+XZ;W
+X:Gr
+AUDIO - gm_AUDIO_PropertyHandler(MAIN)
+AUDIO - gm_AUDIO_PropertyHandler(PIP)
+X:Gu
+X:Gt
+$MY_^]
+'rqwi;
+'w[r
+h2Kh
+yMY]
+yMY]
+uJ+F
+uJY<
+gm_DdsSetInitFreq(%d, %ld) -> Target Freq = %ld
+SDDS Init Frequency --> 0x%lX
+DDDS Init Frequency --> 0x%lX
+VDDS1 Init Frequency --> 0x%lX
+VDDS2 Init Frequency --> 0x%lX
+ue;^
+u5;^
+STHDMIRX-REL_BSP_1.7H.5 - E24D-T21
+STHDMIRX_Init DeviceName = [%s]
+ST_ERROR_BAD_PARAMETER
+ST_ERROR_BAD_PARAMETER-- Device Type %d
+ST_ERROR_BAD_PARAMETER
+ST_ERROR_ALREADY_INITIALIZED
+HDMIRx STOS_MapRegisters failed.
+STHDMIRX_Init Mapped Register: 0x%X
+STHDMIRX_Init : failed, error 0x%X
+ST_ERROR_BAD_PARAMETER
+ST_ERROR_UNKNOWN_DEVICE
+ST_ERROR_NO_FREE_HANDLES
+STHDMIRX_Open failed, error %x
+ST_ERROR_BAD_PARAMETER
+ST_ERROR_UNKNOWN_DEVICE-- Device Name %s
+ST_ERROR_BAD_PARAMETER-- Device Type %d
+ST_ERROR_BAD_PARAMETER-- Device Type %d
+Device ...ST_ERROR_INVALID_HANDLE
+ST_ERROR_UNKNOWN_DEVICE
+9t&t
+ST_ERROR_BAD_PARAMETER
+ST_ERROR_UNKNOWN_DEVICE
+ST_ERROR_UNKNOWN_DEVICE
+ ST_ERROR_OPEN_HANDLE
+000000
+ST_ERROR_BAD_PARAMETER
+Device ...ST_ERROR_INVALID_HANDLE
+DEVICE_TYPE_FREEMAN supports only %d routes 
+ %d requested
+ST_ERROR_NO_FREE_HANDLES
+STHDMIRX_OpenInput failed, error %x
+9}&t!j
+ST_ERROR_INVALID_HANDLE
+STHDMIRX_CloseInput : failed, error %x
+ST_ERROR_BAD_PARAMETER
+ST_ERROR_INVALID_HANDLE
+ST_ERROR_INVALID_HANDLE
+ ST_ERROR_INVALID_HANDLE
+ST_ERROR_BAD_PARAMETER
+ST_ERROR_INVALID_HANDLE
+ST_ERROR_INVALID_HANDLE
+ST_ERROR_INVALID_HANDLE
+ST_ERROR_INVALID_HANDLE
+d9t&t
+ST_ERROR_INVALID_HANDLE
+ST_ERROR_INVALID_HANDLE
+ST_ERROR_BAD_PARAMETER
+Custom Equalization scheme is selected
+High Gain: %d 
+Low Gain:%d
+Device ...ST_ERROR_INVALID_HANDLE
+HANDLER: FIRST TIME
+9}&t
+Device ...ST_ERROR_INVALID_HANDLE
+9t&u
+ST_ERROR_INVALID_HANDLE
+ST_ERROR_INVALID_HANDLE
+SET REPEATER BITINFO
+SET KSV LIST
+SET REPEATER READY BIT
+START REAUTHENTICATION
+CLEAR AUTHENTICATION STARTED
+UNYV
+UNYj
+HdmiRx: 
+HdmiAu: 
+HdmiVi: 
+HdmiEq: 
+MarISP2
+ATHE
+FlashWr: %d%%
+SmartISP Lib: Ver%d.%d
+PicSearch loop [%d]
+Find Signature at X=%d   Y=%d
+Signature not found!
+Get Wrong Picture size! %d x %d
+Picture size is %d x %d
+Checksum is 0x%x
+ExtractPicL0...ReTry
+InfoPtr->TotalPicNum=%d
+InfoPtr->CurentPicNum=%d
+InfoPtr->LLNo=%d
+Sec[%d]  Addr=0x%lX   Len=0x%lX
+FwBinTotal=0x%lX
+Line0 Checksum Error!
+FmBinBufStart=0x%lX
+Isp_ExtractPicL0_Sub Error!
+TotalExtractBin_Err Reach MAX_EXTRACTBIN_ERR, STOP!
+>>>>>>>>>>>>>>> Extract Pic[%d]....
+Line%d Error!
+Isp_ExtractPicL0_Sub Error!
+TotalExtractBin_Err Reach MAX_EXTRACTBIN_ERR, STOP!
+WrLine at (%d,%d) Error, ReTry=%d
+Org=0x%x RdBack=0x%x
+Pic[%d] Extract done
+Code Checksum Error!
+Code Checksum Verified Successful
+Firmware Binary Signature Incorrect!
+Flash Driver not loaded!
+Serial Flash Init Error!
+DualFlashMode=%d
+Current Flash Bank=%d
+Current VersionTag=%d
+FlashSize =0x%LX
+BankOffset=0x%LX
+SectorSize=0x%x
+Error! SectorSize=0
+Error! FlashChipSize=0
+w_SectorCntX=%d
+Flash Erase Failed_1!
+w_SectorCntX=%d
+Flash Erase Failed_2!
+Flash Erase Failed3!
+Flash Erase Failed4!
+4(r=u
+2(r5
+@ru
+4(RP
+4(RP
+4(RP
+FlashWr: Sec[%d]  Addr=0x%lX   Len=0x%lX
+FlashWr RetF A
+FlashWr RetF B
+FlashWr RetF C
+New VersionTag=%d
+FlashWr RetF D
+Flash Write Success
+@ru
+@ru
+ DDR: Odd address - Start from even addr
+%X %X %X
+%X %X %X
+%X %X %X
+%X %X %X
+%X %X %X
+%X %X %X
+Please use sentence "appstest 37 [p1] [p2] ... [pn]"...etc for Audio testing.
+ [p1] is sub-function selector.
+ [p2]~[pn] are parameters for each sub-functions.
+ [p1] =  0 -> Audio Channel configuration changed.
+ Audio Channel configuration changed.
+ Sentence error.
+ Appstest 37 %d [p2] [p3] [p4] [p5] [p6] [p7] [p8] [p9]
+ [p2] = Port -> input
+        0 -> I2S
+        1 -> HDMI
+        2 -> SPDIF
+        3 -> DPRx1
+        4 -> DPRx2
+        5 -> DAC TPG
+        7 -> TPG
+        8 -> LineIn
+ [p3] = Port -> output
+        0 -> I2S
+        1 -> SPDIF
+        2 -> DPTx
+        3 -> HeadPhone
+        4 -> LineOut
+ [p4] = Input  -> Sample rate
+ [p5] = Input  -> Bits
+ [p6] = Input  -> Channel Count
+ [p7] = Output -> Bits
+ [p8] = Audio delay time in (ms)
+ [p9] = DownMixer enable
+TCYRPj
+TCYRPj
+TCYRPj
+TCYRPj
+TCYRPj
+TCYRPj
+TCYRPj
+TCYRP
+TCYRP
+AUDIO - UserPrefCurrentInputMain = %d
+AUDIO - UserPrefCurrentInputPip  = %d
+AUDIO - UserPrefCurrentInputMain = CVBS1
+AUDIO - UserPrefCurrentInputMain = SVIDEO1
+AUDIO - UserPrefCurrentInputMain = COMP1
+AUDIO - UserPrefCurrentInputMain = VGA1
+AUDIO - UserPrefCurrentInputMain = DVI1
+AUDIO - UserPrefCurrentInputMain = DVI2
+AUDIO - UserPrefCurrentInputMain = DIP1
+AUDIO - UserPrefCurrentInputMain = HDMI
+AUDIO - UserPrefCurrentInputMain = HDMI2
+AUDIO - UserPrefCurrentInputMain = HDMI3
+AUDIO - UserPrefCurrentInputMain = DP1
+AUDIO - UserPrefCurrentInputMain = DP2
+AUDIO - UserPrefCurrentInputMain = DP3
+AUDIO - UserPrefCurrentInputMain = NOT_USED
+AUDIO - UserPrefCurrentInputMain = SLAVE1
+AUDIO - UserPrefCurrentInputPip  = CVBS1
+AUDIO - UserPrefCurrentInputPip  = SVIDEO1
+AUDIO - UserPrefCurrentInputPip  = COMP1
+AUDIO - UserPrefCurrentInputPip  = VGA1
+AUDIO - UserPrefCurrentInputPip  = DVI1
+AUDIO - UserPrefCurrentInputPip  = DVI2
+AUDIO - UserPrefCurrentInputPip  = DIP1
+AUDIO - UserPrefCurrentInputPip  = HDMI
+AUDIO - UserPrefCurrentInputPip  = HDMI2
+AUDIO - UserPrefCurrentInputPip  = HDMI3
+AUDIO - UserPrefCurrentInputPip  = DP1
+AUDIO - UserPrefCurrentInputPip  = DP2
+AUDIO - UserPrefCurrentInputPip  = DP3
+AUDIO - UserPrefCurrentInputPip  = NOT_USED
+AUDIO - UserPrefCurrentInputPip  = SLAVE1
+AUDIO - OSD - MAIN_INPUT  = AUTO
+AUDIO - OSD - MAIN_INPUT  = I2S
+AUDIO - OSD - MAIN_INPUT  = SPDIF
+AUDIO - OSD - MAIN_INPUT  = LINE_IN
+AUDIO - OSD - MAIN_OUTPUT = LINE_OUT
+AUDIO - OSD - MAIN_OUTPUT = Headphone
+AUDIO - OSD - MAIN_OUTPUT = SPDIF
+AUDIO - OSD - MAIN_OUTPUT = I2S
+AUDIO - OSD - MAIN_OUTPUT = DPTx
+AUDIO - OSD - PIP_INPUT   = AUTO
+AUDIO - OSD - PIP_INPUT   = I2S
+AUDIO - OSD - PIP_INPUT   = SPDIF
+AUDIO - OSD - PIP_INPUT   = LINE_IN
+AUDIO - OSD - PIP_OUTPUT  = LINE_OUT
+AUDIO - OSD - PIP_OUTPUT  = Headphone
+AUDIO - OSD - PIP_OUTPUT  = SPDIF
+AUDIO - OSD - PIP_OUTPUT  = I2S
+AUDIO - OSD - PIP_OUTPUT  = DPTx
+AUDIO -       MAIN_INPUT  = I2S_IN
+AUDIO -       MAIN_INPUT  = SPDIF_IN
+AUDIO -       MAIN_INPUT  = DPRx1
+AUDIO -       MAIN_INPUT  = DPRx2
+AUDIO -       MAIN_INPUT  = HDMI
+AUDIO -       MAIN_INPUT  = TPG
+AUDIO -       MAIN_INPUT  = LINE_IN
+AUDIO -       PIP_INPUT   = I2S_IN
+AUDIO -       PIP_INPUT   = SPDIF_IN
+AUDIO -       PIP_INPUT   = DPRx1
+AUDIO -       PIP_INPUT   = DPRx2
+AUDIO -       PIP_INPUT   = HDMI
+AUDIO -       PIP_INPUT   = TPG
+AUDIO -       PIP_INPUT   = LINE_IN
+AUDIO - UserPrefAudioVolume          = %d
+AUDIO - UserPrefAudioMute            = %d
+AUDIO - AUDIO_DELAY_CHANNEL          = %d
+AUDIO - AUDIO_DELAY_ENABLE           = %d
+AUDIO - AUDIO_DELAY_TIME             = %d
+AUDIO - AUDIO_DAC_POWER_UP_IS_DONE() = %d
+AUDIO - AUDIO_DAC_POWER_DN_IS_DONE() = %d
+AUDIO - AUDIO_DAC_VOLUME_IS_DONE()   = %d
+AUDIO - gm_AUDIO_IsSyncStable(MAIN)  = %d
+AUDIO - gm_AUDIO_IsSyncStable(PIP)   = %d
+AUDIO - ADJ_AUDIO_MAIN_VOLUME_EN     = %d
+AUDIO - ADJ_AUDIO_PIP_VOLUME_EN      = %d
+AUDIO - gm_AUDIO_Is_MUTE(MAIN)       = %d
+AUDIO - gm_AUDIO_Is_MUTE(PIP)        = %d
+AUDIO - *gm_AUDIO_Get_MUTE_State()   = 0x%X
+AUDIO - ADJ_AUDIO_SOURCE_CH          = %d
+AUDIO - AudioVolumeEnable_Main = %d
+AUDIO - AudioVolumeEnable_Pip  = %d
+AUDIO - AudioVolumeMain        = %d
+AUDIO - AudioVolumePip         = %d
+AUDIO - AudioMute              = %d
+AUDIO - AudioDownMix           = %d
+AUDIO - AVSDelayTime           = %d
+AUDIO - VideoSynchronized_Main = %d
+AUDIO - VideoSynchronized_Pip  = %d
+AUDIO - PipModeEnable          = %d
+AUDIO - AudioSourceChannel     = %d
+AUDIO - FastToNextPort         = %d
+AUDIO - SYSTEM_INIT_STATE = %d
+8MYP
+8MYP
+<MYP
+<MYP
+AUDIO - gm_AUDIO_IN_INTERRUPT_Enable(%d)
+LY^]
+<MY^]
+LY^]
+5_^]
+AUDIO - gm_AUDIO_AM_INTERRUPT_Config_Apply(%d)
+AUDIO - gm_AUDIO_AM_INTERRUPT_Event_Clear(%d)
+AUDIO - gm_AUDIO_AM_INTERRUPT_Enable(%d)
+AUDIO - gm_AUDIO_AM_INTERRUPT_Enable_2nd(%d)
+LY^]
+<MY=
+<MY=
++KY=
+AUDIO - AUDDS_CLK_MUL     = 0x%X (%d*fs)
+AUDIO - Error!!! Parameter "index" is wrong. <<<<<<<<<<<<<<<
+AUDIO - AUDDS%d_INI_FREQ = 0x%lX
+AUDIO - AUDDS%d_INI_FREQ = 0x%lX
+AUDIO - AUDDS%d_INI_FREQ = 0x%lX
+AUDIO - AUDDS%d_MUL = 0x%lX
+AUDIO - AUDDS%d_DIV = 0x%lX
+AUDIO - SamplingRate (fs) = %ld
+AUDIO ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ru2j
+AUDIO - Error!!! Parameter "index" is wrong. <<<<<<<<<<<<<<<
+AUDIO - AUDDS%d_REFCLK_SEL = DPRx1
+AUDIO - AUDDS%d_REFCLK_SEL = DPRx2
+AUDIO - AUDDS%d_REFCLK_SEL = HDMI
+AUDIO - AUDDS%d_REFCLK_SEL = I2S
+AUDIO - AUDDS%d_REFCLK_SEL = SPDIF
+AUDIO - AUDDS%d_REFCLK_SEL = TPG
+AUDIO - Error!!! Parameter "input" is wrong. <<<<<<<<<<<<<<<
+AUDIO - AUDDS%d_CONFIG     = 0x%X
+AUDIO - Channel = "Main", AUDDS%d (AVDDS%d) is used.
+AUDIO - DAU_TX0_CLK_SEL = AUDDS%d
+AUDIO - Channel = "Pip", AUDDS%d (AVDDS%d) is used.
+AUDIO - DAU_TX1_CLK_SEL = AUDDS%d
+AUDIO - Error!!! Parameter is wrong. <<<<<<<<
+AUDIO - AUDO_I2S_CLK_SEL = DAU_TX%d_CLK
+AUDIO - AUDO_SPDIF_CLK_SEL = DAU_TX%d_CLK
+AUDIO - DPTX_AUCLK_SEL = AUDDS%d
+AUDIO - AUDO_I2S_CLK_SEL = DAU_TX%d_CLK
+AUDIO - AUDO_I2S_CLK_SEL = Not use
+AUDIO - AUD_DEL_CLK_SEL = I2S_OUT_SCLK
+AUDIO - AUDO_I2S_CLK_SEL = DAU_TX%d_CLK
+AUDIO - CDDS1_FREQ = 0x%lX
+AUDIO ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ru7j
+AUDIO - CDDS1_FREQ = 0x%lX
+AUDIO - AUDI_I2S_CLK_SEL  = CDDS
+AUDIO - AUDI_SPDIF_CLK_SEL = CDDS
+AUDIO - AUTPG_CLK_SEL     = CDDS
+AUDIO - DPRX1_AUCLK_SEL   = AUDDS%d
+AUDIO - DPRX2_AUCLK_SEL   = AUDDS%d
+AUDIO - HDMI_AUCLK_SEL    = AUDDS%d
+AUDIO ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ru9j
+Future clock option...Not supported
+Future clock option...Not supported
+Future clock option...Not supported
+DDS is not locked properly....estAVdds: %d
+DddsInitFreq is greater than Reference Clock RCLK
+DDS No : %d    InitFreq: 0x%lx
+Selected Clk is not supported, unable to set InitFreq
+ Future clock option...not supported
+Get Current Freq Value : 0x%lx
+T!~!
+!Future clock option...not supported
+Future clock option...Not supported
+AUDIO - ADJ_AUDIO_MAIN_VOLUME    = %d
+AUDIO - ADJ_AUDIO_PIP_VOLUME     = %d
+AUDIO - ADJ_AUDIO_MUTE           = %d
+AUDIO - ADJ_AUDIO_DOWN_MIX       = %d
+AUDIO - ADJ_AUDIO_AVS_DELAY_TIME = %d
+AUDIO - OSD - ADJ_AUDIO_MAIN_VOLUME
+AUDIO - OSD - ADJ_AUDIO_PIP_VOLUME
+$MYP
+$MYP
+AUDIO - OSD - ADJ_AUDIO_MUTE
+AUDIO - OSD - ADJ_AUDIO_AVS_DELAY_TIME
+AUDIO - OSD - ADJ_AUDIO_DOWN_MIX
+$MY]
+AUDIO - Configuration of DAC gain 0x%X. (%ld)
+AUDIO - Configuration of DAC gain finished. (%ld)
+r[;F
+AUDIO - Configuration of DAC anti-pop (PowerUp) started.
+AUDIO - Configuration of DAC anti-pop (PowerUp) finished.
+AUDIO - Configuration of DAC anti-pop (PowerDown) started.
+AUDIO - Configuration of DAC anti-pop (PowerDown) finished.
+AUDIO - Configuration of DAC (Sleep) started.
+AUDIO - Configuration of DAC finished.
+AUDIO - DAC had been initialized before. Just exit.
+AUDIO - AUDIO_DAC_STATUS = 0x%X
+AUDIO - DAC had been initialized before. Just exit.
+AUDIO - AUDIO_DAC_STATUS = 0x%X
+AUDIO - Configuration of DAC started.
+AUDIO - Configuration of DAC finished.
+AUDIO - PORT - gm_AUDIO_GetPrevPortInfo()
+AUDIO - PORT - Input.I2S        = %d
+AUDIO - PORT - Input.HDMI       = %d
+AUDIO - PORT - Input.SPDIF      = %d
+AUDIO - PORT - Input.DPRx1      = %d
+AUDIO - PORT - Input.DPRx2      = %d
+AUDIO - PORT - Input.DAC_TPG    = %d
+AUDIO - PORT - Input.AVS        = %d
+AUDIO - PORT - Input.TPG        = %d
+AUDIO - PORT - Input.LINE       = %d
+AUDIO - PORT - Output.I2S       = %d
+AUDIO - PORT - Output.SPDIF     = %d
+AUDIO - PORT - Output.DPTx      = %d
+AUDIO - PORT - Output.HeadPhone = %d
+AUDIO - PORT - Output.LINE      = %d
+AUDIO - PORT - gm_AUDIO_GetPortInfo()
+AUDIO - PORT - Input.I2S        = %d
+AUDIO - PORT - Input.HDMI       = %d
+AUDIO - PORT - Input.SPDIF      = %d
+AUDIO - PORT - Input.DPRx1      = %d
+AUDIO - PORT - Input.DPRx2      = %d
+AUDIO - PORT - Input.DAC_TPG    = %d
+AUDIO - PORT - Input.AVS        = %d
+AUDIO - PORT - Input.TPG        = %d
+AUDIO - PORT - Input.LINE       = %d
+AUDIO - PORT - Output.I2S       = %d
+AUDIO - PORT - Output.SPDIF     = %d
+AUDIO - PORT - Output.DPTx      = %d
+AUDIO - PORT - Output.HeadPhone = %d
+AUDIO - PORT - Output.LINE      = %d
+9wu
+9|u
+t(;6
+<MY=
+AUDIO - gm_AUDIO_MACFSL() - FALSE
+t9;>
+AUDIO - gm_AUDIO_PortHandler(MAIN)
+AUDIO - gm_AUDIO_PortHandler(PIP)
+AUDIO - ADJ_AUDIO_SOURCE_CH change to %d
+HMY[9G
+HMY[9G
+HMY[9G
+HMY[9G
+HM[9G
+HMYP
+HMYP
+HMYP
+HMYP
+<MYV
+HMYV
+LY;6
+HMYV
+YLY^]
+AUDIO !!! - SYNC - gmd_AUDIO_SYNC_CHANGE_TO_UNSTABLE (%d) (RESTART)
+AUDIO !!! - SYNC - gmd_AUDIO_SYNC_UNSTABLE (%d) %ld
+AUDIO !!! - SYNC - gmd_AUDIO_SYNC_CHANGE_TO_STABLE (%d) %ld
+AUDIO !!! - SYNC - gmd_AUDIO_SYNC_STABLE (%d) %ld (DONE)
+AUDIO !!! - SYNC - gmd_AUDIO_SYNC_STABLE (%d) (Sync lost)
+AUDIO !!! - SYNC - gmd_AUDIO_SYNC_INITIALIZE (%d)
+AUDIO !!! - SYNC - gmd_AUDIO_SYNC_LOST_INTERRUPT (%d)
+AUDIO !!! - SYNC - gmd_AUDIO_SYNC_AUTOSCAN (%d)
+$MYV
+HMYV
+HMYV
+$MY^]
+AUDIO - gmd_AUDIO_OUT_I2S_OUT       = MUTE
+AUDIO - gmd_AUDIO_OUT_I2S_OUT       = UnMUTE
+AUDIO - gmd_AUDIO_OUT_SPDIF_OUT     = MUTE
+AUDIO - gmd_AUDIO_OUT_SPDIF_OUT     = UnMUTE
+AUDIO - gmd_AUDIO_OUT_DPTx_OUT      = MUTE
+AUDIO - gmd_AUDIO_OUT_DPTx_OUT      = UnMUTE
+AUDIO - gmd_AUDIO_OUT_HeadPhone_OUT = MUTE
+AUDIO - gmd_AUDIO_OUT_HeadPhone_OUT = UnMUTE
+AUDIO - gmd_AUDIO_OUT_LINE_OUT      = MUTE
+AUDIO - gmd_AUDIO_OUT_LINE_OUT      = UnMUTE
+97u,
+97u%
+u)"AY^]
+AUDIO - gm_AUDIO_OUTPUT_MUTE(0x%X)
+AUDIO - gm_AUDIO_OUTPUT_MUTE(0x%X)
+AUDIO - gm_AUDIO_OUTPUT_UNMUTE(0x%X)
+AUDIO - gm_AUDIO_OUTPUT_UNMUTE(0x%X)
+$MYP
+$MY^]
+AUDIO - Channel             = MAIN
+AUDIO - Channel             = PIP
+AUDIO - Available           = %d
+AUDIO - Mute                = %d
+AUDIO - Bypass              = %d
+AUDIO - Input               = I2S_IN
+AUDIO - Input               = SPDIF_IN
+AUDIO - Input               = DPRx1
+AUDIO - Input               = DPRx2
+AUDIO - Input               = HDMI
+AUDIO - Input               = TPG
+AUDIO - Input               = LINE_IN
+AUDIO - Output              = HeadPhone
+AUDIO - Output              = LINE_OUT
+AUDIO - Output              = I2S_OUT
+AUDIO - Output              = SPDIF_OUT
+AUDIO - Output              = DPTx
+AUDIO - CodingType          = PCM
+AUDIO - CodingType          = AC3
+AUDIO - CodingType          = DTS
+AUDIO - CodingType          = UNSUPPORTED
+AUDIO - SampleRate          = %ld
+AUDIO - ChannelCount        = %d
+AUDIO - Clock.IN_BITS       = %d
+AUDIO - Clock.CLK_MUL       = %d
+AUDIO - Clock.OUT_BITS      = %d
+AUDIO - Clock.OUT_CH_CNT    = %d
+AUDIO - DownMixer_Enabled   = %d
+BY_^]
+AUDIO - gm_AUDIO_Patch_For_PreSetup()
+AUDIO - gm_AUDIO_Go_PreSetup() = I2S_IN
+AUDIO - gm_AUDIO_Go_PreSetup() = SPDIF_IN
+AUDIO - gm_AUDIO_Go_PreSetup() = DPRx1
+AUDIO - gm_AUDIO_Go_PreSetup() = DPRx2
+AUDIO - gm_AUDIO_Go_PreSetup() = HDMI
+AUDIO - gm_AUDIO_Go_PreSetup() = TPG
+AUDIO - gm_AUDIO_Go_PreSetup() = LINE_IN
+LY_^]
+AUDIO - gm_AUDIO_Go(MAIN)
+AUDIO - gm_AUDIO_Go(PIP)
+AUDIO ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+YLYV
+^NYV
+^NYV
+^NYV
+^NYV
+^NYV
+^NYV
+AUDIO - ADJ_AUDIO_VOLUME_EN(%d) = TRUE
+AUDIO - initialize for DAC power up. (DONE)
+AUDIO - initialize for DAC gain latch.
+AUDIO - initialize finished.
+$MYV
+YLYV
+8MY^]
+AUDIO - Audio delay is enabled.
+AUDIO - Audio delay is disabled.
+AUDIO - Audio delay is enabled.
+AUDIO - Audio delay is disabled.
+;64)u
+$MY^]
+AUDIO - gm_AUDIO_AVS_MemoryAllocate()
+SQQh
+SQQh
+AUDIO - Configuration of AVS (Audio delay)
+<MYh
+8)[;
+AUDIO - (%d) HDMI: AV Mute = TRUE
+AUDIO - (%d) HDMI: Property Changed
+E<MYV
+AUDIO - (%d) HDMI: AV Mute = FALSE
+AUDIO - (%d) DPRx: AV Mute = TRUE
+AUDIO - (%d) DPRx: Property Changed
+E<MYV
+AUDIO - (%d) DPRx: AV Mute = FALSE
+KY]
+uA)~
+uK:N
+tK:N
+6rXj
+6rXj
+6rXj
+;6nXs
+;6nXs
+%$%$v.
+v.v.v.
+nXs$
+B2B2e8
+.e8e8e8
+No enough boundry for AutoPosition
+Run AutoPosition[%d] ... 0x%x
+  IBD Width Error: %d
+  !!! Could't find
+AUDIO - !!! SPDIF CH Status[%d] = 0x%X
+AUDIO - DPRx channel status [%d] = 0x%X
+AUDIO - Configuration of I2S Rx
+AUDIO - Configuration of SPDIF Rx
+AUDIO - Configuration of TPG
+SKY+F
+2KY+F
+t!h2Kh
+SKY+F
+2KY+F
+SKY+F
+2KY+F
+t!h2Kh
+t#:N
+t!h2Kh
+Link Clk: LOW Range >> IB=0 , EqGain=7
+Link Clk: Not LOW Range >> IB=1 , EqGain=6
+InputClkFreq: %d0 kHz
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+Reserved power Mode...Not supported
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+\fPRS
+Custom Equalization scheme is selected %d
+Adaptive Equalization scheme is selected
+DlPV
+h""j
+"a"c"e"i"PHY Initialization done!
+DepthSetup: Input B_Depth = 0x%X
+ Reg: B_Depth = 0x%X
+Yj:V
+InitInputPort
+InitInputPort: Done
+0NYV
+6NYV
+HDMI Signal is DVI or Not Stable,so can not process the request
+Signal monitor is not started or Hdmi Rx OpMode is DVI 
+UNY^]
+HDMI Signal without AVI infoFrame..TMO
+HDMI Signal without Audio infoFrame..TMO
+Link Clock Changed: %ld kHz
+Abnormal sync Found
+Abnormal sync TimeOut !!
+Abnormal sync disappears
+Timeout...Measurement Data is not available
+0NYj
+EZ;UHr
+;EFv
+EZ+EF
+EF+EZ
+}^dr'
+}`dr!j
+;U(w$r
+;E&s
+;U$w$r
+;E"s
+->NoSignal: Link Init
+Link Clock Stable
+->Unstable: Link Clock becomes Unstable
+FSM Start
+->Unstable: UNSTABLE_TIMING_PRESENT
+FSM: Tr2Unstable
+FSM: Tr2NoSignal
+  Australian modes disabled .......... !!!!!!!!
+  Extended resolution disabled ....... !!!!!!!!
+FSM: Tr2Signal
+  Extended resolution disabled ........ !!!!!!!! 
+EQ done!!
+FlushDigitalPipe
+->Unstable: EQ Failed
+FSM: VERIFY_LINK_HEALTH
+HDRX_VCLK = LCLK
+HDRX_VCLK = VDDS_CLK
+IBD Stable Time = %d ms
+FSM: GET_TIMING_INFO
+->Unstable: IFM Period is ZERO
+PIX_RECHECK HIT
+->Unstable: Skew Detected !!!
+******>> Packet Noise Detected !
+  Extended resolution enabled .......... !!!!!!!!
+->Unstable: IFM_IBD Check Failed !!!
+->Unstable: NoHV detected
+IFM_IBD Check OK
+AFR Triggered !!
+FSM: AV Mute
+FSM: Power DOWN
+FSM: Unsupported feature
+NYh]
+sNYW
+0NYj
+0NYj
+0NYj
+0NY<
+0NY<
+;Unw$r
+;Els
+;Unw$r
+;Els
+UnRP
+0NY=
+0NYj
+;Urw$r
+;Eps
+sNY=
+Extended Colorimetry but not defined
+Picture Aspect Ration Info Field : Reserved for future
+HDMI_VIDEO_FORMAT_VS_INFO
+3D VIDEO PRESENT
+hsNY
+Video ScanType is changed
+VideoPropChangeNotifyRequired == TRUE
+STATUS_CHANGE_EVT -> SignalPresentNotify = FALSE
+Video property changed  !!
+No Event
+QSUSubsampler Mode: Div 1
+Subsampler Mode: Div 2
+Subsampler Mode: Auto
+Video Pipe Init
+_^]
+ TODO : Will be added at later stage
+STHDMIRX_VideoSetDithering, HDMI_DITHER_CTRL = 0x%X
+API call: STHDMIRX_AudioEnableDsdMode B_Enabled = %d
+Audio Reset
+Y_^]
+STHDMIRX_AudioEnableClockCorrection, B_Enabled = %d
+STHDMIRX_AudioOutEnable, B_Enabled = %d
+Error! STHDMIRX_AudioSelectOutClock: Illegal divider value
+STHDMIRX_AudioSelectOutClock, W_ClkDiv = %d
+STHDMIRX_AudioSetMuteMode, MuteMode = %d
+Error! STHDMIRX_AudioSetMuteMode: Invalid mute mode specified: %x
+_^]
+Error! Invalid B_OutChannel value %d
+STHDMIRX_AudioSetupIecStream, OutputType = %d  
+STHDMIRX_AudioSetupIecStream, ErrorCorrection = %d
+Error! STHDMIRX_AudioSetupIecStream: Invalid audio L-PCM correction mode %d
+Error! STHDMIRX_AudioUpdateLpcmSampleSize: Invalid sample size %d
+STHDMIRX_AudioSetupHbrStream, B_Is8Channel = %d
+8_^]
+Pkt Noise Detected: %d
+Pkt Present: %d
+Audio StreamType: %d
+AudioReset >> stAudioMngrState: %d
+Audio Stream Type [Prev: %d]
+Audio Stream Type [Curr: %d]
+Audio Info Frame is available for Event Notification
+Channel Allocation  in AIF changed Previous %d
+Channel Allocation  in AIF changed Current %d
+Coding Type [Old: %d]
+Coding Type [New: %d]
+Sample frequency in AIF changed Previous %d
+Sample frequency in AIF changed Current %d
+Channel Allocation  in AIF changed Previous %d
+Channel Allocation  in AIF changed Current %d
+Error! Audio Stream Type = %d
+Audio Channel Status Error
+ACS Standard  :IEC60958_AUDIO_STD_3
+SF-ACS        :%d
+CT-ACS        :L-PCM  CT:%d
+SS-ACS        :%d
+SS            :%d
+ACS Standard  :IEC61937_AUDIO_STD
+SF-ACS        :%d
+SS-ACS        :%d
+SS            :%d
+HW Ch Count :%d
+Audio Channel Status Error
+ACR Sample Freq changed to: %d
+ACP packet lost timeout, set ACP type->0
+******AUDIO INFO FRAME DATA********************
+Audio Stream Type    :%d
+Coding Type          :%d
+Channel Count        :%d
+Channel Allocation   :%d
+SampleFrequency      :%d
+SampleSize           :%d
+DownMix Inhibit      :%d
+Level shift          :%d
+*******************END***********************
+h}j
+ACS Byte[0-3]: 0x%X
+    Byte[4-7]: 0x%X
+    Byte[8]  : 0x%X
+Audio Channel Status is changed!!
+HDCP R: COMPUTATIONS_DONE_STATE
+HDCP R: Source Enabled Encryption 0x%X
+HDCP R: Source Disabled Encryption 0x%X
+Clear Binfo
+Start Sha-1 0x%X
+Finish Sha-1
+HDCP R: DBG: V' is loaded
+HDCP R: DBG: KSVs List related variables is initialized
+Clock Gen Reg Base Address: 0x%X
+Clock Gen Programming is done!!
+AUDIO - Configuration of I2S DownMixer.
+AUDIO - Configuration of I2S Tx
+AUDIO - Configuration of SPDIF Tx
+AUDIO - Configuration of DPTx
+)"AY
+AUDIO - 
+HDMI
+SPDIF
+DPRx1
+DPRx2
+LineIn
+UnKnown
+ -> I2S
+ -> SPDIF
+ -> DPTx
+ -> HeadPhone
+ -> LineOut
+97u!
+97u!
+97u!
+97u!
+97u!
+\MY]
+Ru!j
+97u0
+STHDMIRX_IFM_Instrument_Initialize: Done
+IFM Initialization Done!
+_^]
+IFM: HFreq: %d Hz
+     VFreq: %d Hz
+    HPulse: %d
+   HPeriod: %d
+    Vpulse: %d
+   VPeriod: %d
+IBD: H-Start = %d
+     V-Start = %d
+     HActive = %d
+     VActive = %d
+     HTotal  = %d
+     VTotal  = %d
+IFM: HSync Polarity: %d
+hPj
+IFM: VSync Polarity: %d
+IFM: Timing Info Parameters are not available
+IFM: Pixel Clock Freq : %d kHz
+Overlap mode found !!!
+ x: IBD HWidth = %d , HTotal = %d , HActive = %d
+ o: IBD HWidth = %d , HTotal = %d , HActive = %d
+ x: IBD HWidth = %d , HTotal = %d , HActive = %d
+STHDMIRX_ReadPacket: Error. undefined packet reading is not implemented
+STHDMIRX_ReadPacket: Error. Packet %d is not avalible
+Undefined packet Type
+@@@ WA HDMI CTS 8-7
+DE_SkewCount (%d)
+DE SKEW Rest (%d)
+uq9~
+ul9~
+Measurement Block Initialization Done!
+Ignore the first clock measurement
+LinkClK Unstable
+MEAS_RESULT Min=0x%x
+MEAS_RESULT Max=0x%x
+DZ;V
+DZ+F
+DZ;V
+DZ+F
+Ignore the first H measurement
+Ignore the first V measurement
+L* ^]
+****** Mode instability detected ******
+Previous   H Total : %d
+Current    H Total : %d
+Previous   V Total : %d
+Current    V Total : %d
+Previous   H Active: %d
+Current    H Active: %d
+Previous   V Active: %d
+Current    V Active: %d
+D6;DFv
+D6+DF
+DF+D6=
+D:;DJv
+D:+DJ
+DJ+D:=
+D8;DHv
+D8+DH
+DH+D8=
+D<;DLv
+D<+DL
+DL+D<=
+D:;D<v
+D:+D<
+D<+D:
+D:;D>v
+D:+D>
+D>+D:
+D<;D>v
+D<+D>
+D>+D<
+V sync Attempt = %d
+time: 0x%x
+Link clock lost during equalization
+Fail. Time execution = %d ms
+Abnormal small H Total or H Active
+HTotal = %d
+Hactive = %d
+Unstable HTotal
+HTotal = %d
+NewHTotal = %d
+Unstable HActive
+HActive = %d
+NewHActive = %d
+V Sync Time out 2:%d ms
+Fail. Time execution = %d ms
+V sync loop Time execution:%d ms
+Abnormal small V Total or V Active
+HTotal = %d
+Hactive = %d
+Fail. Time execution = %d ms
+Unstable V Total
+VTotal = %d
+New VTotal = %d
+Fail. Time execution = %d ms
+Unstable  VActive
+VActive = %d
+New VActive = %d
+Fail. Time execution = %d ms
+ds3j
+D^;F
+D^+F
+Db;F
+Db+F
+D*% 
+dsoj
+D`;F
+D`+F
+Dd;F
+Dd+F
+Total is ZERO
+****** Current Input Mode ******
+Link Clock  : %d MHz
+H-Total     : %d
+V-Total     : %d
+H-Active    : %d
+V-Active    : %d
+H-Freq.     : %d KHz
+V-Freq.     : %d Hz
+Dht@
+;Dbu
+;Ddu
+DhtB
+;Dbu
+;Ddu
+Unknown Clock Type for HDMIRX_TCLK_SEL selection:%d
+Unknown Clock Type for HDMIRX_LINK_CLK_SEL selection:%d
+Unknown Clock Type for HDMIRX_VCLK_SEL selection:%d
+HDMI Out pixel clock: VCLK
+HDMI Out pixel clock: Sub-Sampler
+HDMI Out pixel clock: Hdrx TCLK
+HDMI Out pixel clock: GND
+HDMI Out pixel clock: Unknown = 0x%X
+Unknown Clock Type for TCLK selection:%d
+Error !!  Unknow Clock Selection Type :%d
+HDMI Signal Type changed: Previous: %d , tHdmiMode: %d
+Video processing Block Stops, reason: Packet Noise detected
+STHDMIRX_VideoHwPixelRepeatFactorGet PR got changed
+STHDMIRX_VideoHwColorSpaceGet Color space got changed
+->Unstable: SubSamplerMode Changed
+Color Depth got changed: %d
+0NY=
+Unknown Clock Type for HDMIRX_TCLK_SEL selection:%d
+Core Clock Configuration, TCLK is programmed to 0x%x
+Unknown Clock Type for HDMIRX_LINK_CLK_SEL selection:%d
+Unknown Clock Type for HDMIRX_VCLK_SEL selection:%d
+Pixel Clk Out is in VCLK domain
+Pixel Clk Out is in Sub Sampler clock domain
+Unknown Clock Type for HDMIRX_PIX_CLK_OUT_SEL selection:%d
+Unknown Clock Type for TCLK selection:%d
+Error !!  Unknow Clock Selection Type :%d
+Y_^]
+EQ Start (TrackingMode)
+  NPL, Goto DataLock
+###### BestPHY: %d
+  IB: %d
+  FP: %d
+  EQ: %d
+FailSafe > BestPHY: %d
+  IB: %d
+  FP: %d
+  EQ: %d
+  PKT_STATUS = 0x%X
+  PKT Error = 0x%X
+  FailSafe Cnt = %d
+  No FailSafe Cnt = %d
+|Z`[s
+ConsecutiveBestEq = %d
+Consecutive Gain Found
+  IB_Ctl = 0x%X
+  FPeak  = 0x%X
+  Gain   = 0x%X
+EQ Start (OverSamplingMode)
+0x%X  0x%X  0x%X , 0x%04X  0x%04X  0x%04X
+ GRank(0x%X): G:0x%X  S:0x%04X
+New GRank(0x%X): G:0x%X
+Best Candidate EQ:
+ IB_CTL: 0x%X , FPEAK: 0x%X , GAIN: 0x%X
+EPW
+;U`w$r
+;E^s
+E6:E7r 
+E6:E7v
+E7:F
+;A:vt
+P!&%U
+Dp1.2
+M1FA21
+0925R
+0925L
+0925F
+VEGA
+NULL
+VX2880ML
+2014  0610
+M280DGJ_L30
+]VEM
+ccccc
+  &@@
+        
+VX2880ML
+    
+      
+ !"#
+q8-@X,E
+ X,%
+ n(U
+SK9687 Firmware v
+Copyright Silicon Image Inc, 2011
+           !  ! !  ! ! !! !! !!!!!!!!!!!!!!!!"!!"!"!"!"!!""!""!""!"""""""""""""""""#""#"""##""#"#""#"#"###"###"##"##################$####$##$###$#
+       !  ! !!!!!!!!!"!!"!"!!""""!"#""""#"#"#"###########$###$##$#$$$#$$$$$$$$$%$$%$$$%%$%%%%%%%%%%%%%%%&%&%&%&%%&&%&&&&&&&&&&&'&&&'&'&&'&'
+       ! !!!!!!!!!"!""""""""#"#########$#$#$$$$$$$%$%$%$%%$%%%%&%%%&%&&%&&&&&&'&'&''&'''&'('''('('(('(((((((()(()())))()))))*))*)*)**)*
+    !! !!!!!!"!"""""#"##"##$##$$#$$$$%$%%%%%%%%%&%&&&&&&'&'&''''''(''((('()(()())())))*)))********+**++++++++,+,+,,,+,,-,,-,--,---
+  ! ! !!"!"!"""#"#"#####$$$$$%$%%$%&%&%&&&&'&'&'''('('((((()())))))*)****+**+*+++++,++,,,,,--,------.-.-.../.././/////0//00000
+     ! !!!"!"""#"####$#$$$$%%%%%%&&&&&'&'''''('((()()))))*)*****++*+,+,+,,,-,------.......///////0000001011111122222232323343
+    !!!!!""""#"###$$$$$%%%%&%&&&'&'''(((((()()*))***+*+++++,+-,,-,--.-...././////0000101111212223233343443545545655666667
+   !!!!"""""###$$#%$$%%%&&&&&'''('((()())*****+*+,+,,,,,----..../////0000110112123223343435454565566676778788889999:9:
+     !!"!"""###$#$$%%%%&&&&''''(((())))***+*++,+,,-----....////00011112222233344444555666677778788989:9:::;:;<;<<<<==A
+_K>4.$"
+!!!C
+"""@
+"""@
+STDP93xx Athena U
+STDP93xx RD3 Board
+1.1 RC1
+Aug. 15, 2013 4:30 PM
+hASTDDVIRX_1
+STHDMIRX_1
+SAMSUNG_WUXGA_LTM240W1_L01
+LG_WSXGA_LM220WE1_TLD1
+`00
+B"QH
+`00
+B"QH
+`00
+B"QH
+r%:L
+T"}D@ P(
+0L(T*
+6F#R
+;@!PH
+!j6\n
+Rq7D
+T*u<> P(
+a0 x
+xp: 
+x4@ 
+B PH$
+`(0
+p8@
+B"QH$
+6c#p:
+84&.Z
+5N(TJ
+@@ P(
+H&tz
+R!j6
+I2J&
+Ju9B
+pd: 
+x@< 
+x8B 
+F"QH
+P(t
+p<5 
+p8<
+pP? 
+6c#p:
+84&.Z
+5N(TJ
+@@ P(
+H&tz
+R!j6
+I2J&
+Ju9B
+a0 $
+p04
+a0 $
+p04
+a0 $
+p04
+6c#p:
+84&.Z
+5N(TJ
+@@ P(
+H&tz
+R!j6
+I2J&
+Ju9B
+`0|
+p,2 
+D!QH
+y6 
+x@= 
+6c#p:
+84&.Z
+5N(TJ
+@@ P(
+H&tz
+R!j6
+I2J&
+Ju9B
+B!Q(
+D!QH
+hD"1
+`0 `
+`0 p
+a@ L
+p0,
+x82 
+@ P(
+B!Q(
+xl; 
+xD= 
+y(? 
+i4"%
+6c#p:
+84&.Z
+5N(TJ
+@@ P(
+H&tz
+R!j6
+I2J&
+Ju9B
+`0T7
+P(H9
+a@ \:
+`0 <=
+  <?
+@($A
+`(`B
+p8hE
+pH] 
+x _ 
+D"QH
+`0T7
+P(H9
+a@ \:
+`0 <=
+  <?
+@($A
+`(`B
+p8hE
+pH] 
+x _ 
+D"QH
+`0T7
+P(H9
+a@ \:
+`0 <=
+  <?
+@($A
+`(`B
+p8hE
+pH] 
+x _ 
+D"QH
+P(d
+x$6 
+T)U*
+d3YL&
+r:].
+P(d
+x$6 
+T)U*
+d3YL&
+r:].
+P(d
+x$6 
+T)U*
+d3YL&
+r:].
+S,W|f
+/Z/XLF
+7N'TJ
+Z]<B
+D*YA<
+G%z?!
+j]@F#
+`0 @
+p 4 
+B!Q(
+B"QH
+`0 @
+p 4 
+B!Q(
+B"QH
+`0 @
+p 4 
+B!Q(
+B"QH
+a0 l
+xX4 
+y08 
+B!Q(
+a0 l
+xX4 
+y08 
+B!Q(
+a0 l
+xX4 
+y08 
+B!Q(
+LG_WUXGA_LM240WU4_SLB1
+LG_1080P_LM230WF8_TLA1
+`00
+B"QH
+`00
+B"QH
+`00
+B"QH
+~<`2
+[\0XL6
+j!iH$R
+d:]n@!PH$
+`0 d
+@ \
+p< 
+x|E 
+xLK 
+yhU$
+T:]^@
+`0 `
+@(D
+P((
+xlJ 
+xDL 
+y0N"
+y`T"
+T:]^@
+a0 $
+p04
+a0 $
+p04
+a0 $
+p04
+T:]^@
+a@(
+a@ X
+`@ X
+@ $
+a@ 
+yX;"
+a@ 
+pT> 
+T:]^@
+x 7 
+a0 p
+a@ x
+a0 |
+P0P
+T:]^@
+CMO_1080P_M236H5_L02_60
+CMO_1080P_M236H5_L02_120
+LG_1080P_LM270WF3_120
+ST_WQXGA_VEGA_WQXGA
+ST_1080P_VEGA_1080P
+`s3
+`s3
+`C2
+`C2
+X#1
+X#1
+`s3
+`s3
+LG_WQHD_LM270WQ1
+ST_WQHD_VEGA_WQHD
+SONY_2XGA_S_2XGA_SG
+ST_2K2K_VEGA_2K2K
+LG_1080P_LC470EUF_120
+CMO_V562D1_L03
+LD_T120001A
+`00
+B"QH
+`00
+B"QH
+`00
+B"QH
+`@ ,
+a0 P
+yD: 
+y4< 
+`0 L
+P(H
+yp; 
+@(
+xhP 
+B!P(
+D!QH
+D"QH$
+R)T*
+T+UJ
+a@ L
+xH/ 
+B!P(
+D!Q(
+R*UJ
+D!Q(
+T)U*
+yD: 
+y4< 
+P(H
+yp; 
+P 
+xLR 
+y8T 
+a0 T
+a0 ,
+`0 
+P ,
+x|4 
+yP8 
+B!Q($
+D!Q($
+P($
+@(`
+x,I 
+yK 
+D!Q(
+H$RiD"%
+yD0 
+x`. 
+@ |
+x`2 
+B!Q(
+a@ L
+xH/ 
+B!P(
+D!Q(
+R*UJ
+D!Q(
+T)U*
+`0 h
+p0p
+`0 h
+xH/ 
+D!Q(
+R*UJ
+`0  
+P(l
+e7Z.
+Z9DH
+d:eIB!
+q8\/XL&
+4"QNL&
+T*U\<
+zE;L&
+ReBF$
+T*iG@
+V3z?
+bmRJ
+4"e\@ 
+zE;L&
+ReBF$
+T*iG@
+V3z?
+bmRJ
+4"e\@ 
+zE;L&
+ReBF$
+T*iG@
+V3z?
+bmRJ
+4"e\@ 
+zE;L&
+ReBF$
+T*iG@
+V3z?
+bmRJ
+4"e\@ 
+zE;L&
+ReBF$
+T*iG@
+V3z?
+bmRJ
+4"e\@ 
+p9\N
+}-b2
+A:X-W
+r5@T
+RAKL&
+tBUPH#
+T*!UB
+'h4Z
+rEAT*
+J1LJ%S
+d:1QF"
+PhD")k6
+zE;L&
+ReBF$
+T*iG@
+V3z?
+bmRJ
+4"e\@ 
+zE;L&
+ReBF$
+T*iG@
+V3z?
+bmRJ
+4"e\@ 
+HQxmHQxqHQxuHQ
+HQxyHQx}HQx
+HQx!HQx
+x%HQx)HQx-HQx
+x1HQx5HQx9HQx
+x=HQxAHQxEHQx
+xIHQxMHQxQHQx
+xUHQxYHQx]HQx
+xaHQxeHQxiHQx
+CMO_V390DK1_LS1
+xxxxxx
+xxxxxx
+*wp@!])xq`
+e4rm$
+; LJK
+FGHIhZY
+\_0:
+VvTSPOQRcWXU^
+glub&A
+[?-%(
+*wp@!])xq`
+.}5f>snk<i=LJK
+FGHIhZY
+\_0:
+VvTSPOQRcWXU^
+glub&A
+[?-%(
+(vcp(02 04 05 08 10 12 14(08 0B 0C)16 18 1A 60(10 0F 11)62(00 01 FF) AA(01 02 04) AC AE B6 C6 C8 C9 D6(01 04 05) DC(00 02 03 05) DF E0 E1 E2(00 01 02 04 06 0E 12 14) E4(00 01) F0(01) F1 F2 FD)type(LCD)mccs_ver(2.1)asset_eep(32)mswhql(1))
+owp0
+owp1
+KRF"
+KRU"
+MRd"
+MRi"
+KR0#
+LRI#
+LR-%
+LRN%
+MR-&
+MRm&
+MRp'
+MR~#
+NR$
+ORq%
+OR[(
+OR{(
+32222
+2222
+2222222
+2222
+2222222
+2222
+2222222
+2222
+2222222
+2222
+2222222
+2222
+2222222
+2222
+2222222
+2222
+2222222
+2222
+2222222
+2222
+2222222
+2222
+2222222
+2222
+2222222
+2222
+2222222
+2222
+2222222
+2222
+2222222
+2222
+2222222
+2222
+2222222
+2222
+2222222
+2222
+2222222
+2222
+2222222#2
+2222
+2222222#2
+2222
+2222222#2
+2222
+2222222#2
+2222
+2222222#2
+2222
+2222222(2
+2222
+2222222(2 2222 2222222(2 2222 2222222(2!2222!2222222(2"2222"2222222-2#2222#2222222-2#2322#2322222-2$2422$2422222-2%2522%2522222-2&2622&262222222'2722'272222222(2822(282222222)2922)292222222*2:22*2:2222222+2;22+2;2222272,2<22,2<2222272,2=22,2=2222272-2>22-2>2222272.2?22.2?2222272/2@22/2@22222<2/2A22/2A22222<202B2202B22222<202C2202C22222<212D2212D22222<222E2222E22222<222F2222F2
+\(DA
+/|(D
+#L(D
+K(DB
+Yu(D
+\O(D
+l\(D
+dx(D
+XI(D
+~I(D
+{G(D
+*u(D
+ez(D
+<.(D
+eG(D
+~S(D
+[G(D
+abcd
+63/2457-1.0
+wx{?
+pqrn
+r.,7+&*%%,2
+,.,77&*%32
+oaizytYWS1
+.,;&*%,/
+'3.&+(,
+,-+(7B
+%5.&(B
+-*4&
+23%_3&(
++3.&3%*
+3%5-,
+RWYWZZX[S
+X\X^_V
+<237B,
+(,_&4&
+,.,;&*%,
+1&,.,%
+=3.&%+3
+iR!iR
+cdaabef
+7iR
+lmnk
+[iR
+(<3`*.
+|iR
+opnk
+g26_,
+r.,7+&*%%,2
+,.,77&*%32
+oaizytYWS1
+.,;&*%,/
+'3.&+(,
+iRb
+,-+(7B
+%5.&(B
+-*4&
+23%_3&(
++3.&3%*
+3%5-,
+RWYWZZX[S
+X\X^_V
+<237B,
+(,_&4&
+,.,;&*%,
+1&,.,%
+=3.&%+3
+iR!iR
+cdaabef
+lmnk
+(<3`*.
+opnk
+g26_,
+*%@&5-23+&
+cWSd
+Z^S`XbaUVZX[S
+&%(+,..-%5
+g(g[
+,+-<
+=3.&66*
+iR!iR
+*%@&5-23+&
+cWSd
+Z^S`XbaUVZX[S
+&%(+,..-%5
+g(g[
+,+-<
+=3.&66*
+iR!iRp
+ZPtt
+UPLP2
+UUUU
+UUUU
+ZPtt
+UUpp
+UUpp
+UUpp
+UUpp
+UUpp
+UUpp
+UUpp
+UUpp
+z{|}wx
+'()*$%+,&
+63/2457-1.0
+pqrn
+pqrn
+UU%X
+Pttt
+UUUU
+UUUU
+UUUU
+UUUU
+4&%-+*(y
+836&63x
+4&%-+*(x
+836&63w
+4&%-+*(x
+836&63w
+X iR
++,&%+
+37+&=38*
+oai|
+{VjVY
+<,%+*
+p^Xi
+jyyYTy
+W!iR
+UUUU
+UUUU
+!iR5
+!iR5
+4&%-+*(y
+836&63x
+"iRw"iR
+4&%-+*(x
+836&63w
+4&%-+*(x
+836&63w
++,&%+
+37+&=38*
+oai|
+{VjVY
+<,%+*
+p^Xi
+jyyYTy
+*%+23(+,
+-4&%*(&+r
+2&..*
+,..&56,&+
+{^STUViT
+pVUYV~Y
+}a_XS^iXT
+1&2663-(
+y$iR@%iR
+UUUU
+P2LPtA
+\%iR
+*%+23(+,
+-4&%*(&+r
+2&..*
+,..&56,&+
+{^STUViT
+pVUYV~Y
+}a_XS^iXT
+1&2663-(
+%iR@%iR
+''iR
+4&%-+*(x
+836&63w
+K'iR
+R(iR
+z(iR
+4&%-+*(x
+836&63w
+Z)iRC*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+*-.,-2
+-+&.&(3+)
+-(-32&*
+,%-+;,2,&%(+,..-%5
+{aYYVS
+hWSbX
+TTykyS
+qyUX
+p,iR0-iR
+-,5*U
+<&,.
+&*7B&
+L-iR
+*%*T
+pWYfZaYV
+.*6-=3
++3%8328
+BiTgS\VU
+^.iR
+,E+,
+,+&%U
+,(+*
+'/iR
+*-.,-2
+-+&.&(3+)
+-(-32&*
+,%-+;,2,&%(+,..-%5
+{aYYVS
+hWSbX
+TTykyS
+qyUX
+/iR0-iR
+-,5*U
+<&,.
+&*7B&
+*%*T
+pWYfZaYV
+.*6-=3
+61iR
++3%8328
+BiTgS\VU
+,E+,
+,+&%U
+,(+*
+]2iR
+L-iR
+^.iR
+'/iR
+61iR
+]2iR
+.,-t+2,
+;-.38*
+uYyaYXZt
+3=&4(&
+-3(+2*
+RXSWUTyqy
+3iR0-iR
+2*&8
+eUf^
+1gB.
+2,88*
+sXXYWy
+E4iR0-iR
+3+&@
+-23.
+2&5&%3
+4iR0-iR
+B3-8
+@gYX\^
+3.8*
+}y__XS
+345S
+75iR0-iR
+5iR0-iR
+,%+,.
+-3=,d
+,.&73+*
+}XWqy
+iVjk
+^.iR
+3&8,
++,,<
+%72,4,%+3
+d6iR
+.,-t+2,
+;-.38*
+uYyaYXZt
+3=&4(&
+-3(+2*
+RXSWUTyqy
+|7iR0-iR
+2*&8
+eUf^
+1gB.
+2,88*
+sXXYWy
+8iR0-iR
+3+&@
+-23.
+2&5&%3
+{8iR0-iR
+B3-8
+@gYX\^
+3.8*
+}y__XS
+./0S
+8iR0-iR
+b9iR0-iR
+gahNOij
+I:iR
+:iRJ;iRX;iRX;iRX;iRX;iRX;iR
+klm'n
+olm'n
+(<iR
+iRv<iR
+HFIG
+OKLLMJN
+=iR-=iR<=iRN=iR`=iRr=iR
+>iR9
+>iR9
+ !"#$
+Z@iR
+Z@iR
+Z@iR
+ !"#$
+FAiR
+Z@iR
+Z@iR
+Z@iR
+AiRlBiR
+,CiR
+Z)iRC*iR
+Z)iRC*iR
+r*iR
+=DiR
+=DiR
+=DiR
+Z@iR
+FAiR
+FAiR
+,%+,.
+-3=,d
+,.&73+*
+}XWqy
+dQef
+AFiR
+3&8,
++,,<
+%72,4,%+3
+U~~y
+Z@iR
+AiRlBiR
+r*iRTGiR
+r*iRTGiR
+r*iRTGiR
+uvm]"
+uvm]^
+"wNvm]"
+"wNvm]^
+BIiR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+5LiR
+]LiR
+]LiR
+]LiR
+,4<.&2
+,..,%32
+eYyZtW
+oai`
+YYWS
+623%
+&,4<&
+-++*
+{VX~~X
+*%(,2=
+1*2-
+RyXY
+<+&4&(,2
+")"#"
+,2,%
+WTXU
+d:eS
+7NiR
+^.iR
+r5.35,
+s&4(
+>-(+,
+43%-3.
+3%-,..,
+<3((-%5
+cVSaWY
+,5*.3;&*%,
+4435&
+YXSWS
+iyyT
+NiR@%iR
+]LiR
+]LiR
+=PiR
+]LiR
+]LiR
+]LiR
+*%(,2=
+1*2-
+RyXY
+<+&4&(,2
+")"#"
+,2,%
+WTXU
+_5`S
+\QiR
+r5.35,
+s&4(
+>-(+,
+43%-3.
+3%-,..,
+<3((-%5
+cVSaWY
+,5*.3;&*%,
+4435&
+YXSWS
+iyyT
+QiR@%iR
+FAiR
+]LiR
+FAiRd
+]LiR
+FAiR
+SiR]LiR
+AiR]LiR
+AiR]LiR
+7TiR
+7TiR
+lBiR
+}TiR
+Z)iRC*iR
+ab!"
+Z)iRC*iR
+r*iR
+r*iR
+r*iR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+(<iR
+iRv<iR
+(<iR
+iRv<iR
+Z)iRC*iR
+r*iR
+r*iR
+r*iR
+r*iR
+lBiR
+r*iR
+>iR9
+r*iR
+r*iR
+r*iR
+r*iR
+>iR9
+r*iR
+Z)iRC*iR
+>[iR
+Z!tt8
+-+tV
+$tt)
+ FtW
+{+tt
+tte0tt
+btvpp
+a[iR
+r5.35,
+-8&*
+>-(+,
+*%&8*
+&%(+,..-%5,%
+,5*.3;&*%
+ySXiyy\
+[iR@%iR
+2te"
+<t80)
+V0tt
+?dtG
+&,tt
+f'tt
+Ett)
+tt:MtV
+u^iR
+Z tt8
+Z@iR
+3<<*2+
+(<,7+
+hWYVZX[S
+oijWZT^
+RWXTWSqWUtyY+
+AUVS
+<2*&
+;&*%&
+1-=3(-B8,
+0PQP
+{_iR6`iR
+&.+2,
+.-4&u%
+9.,-,
+3;-.
+&7B+@&.+,2
+cVqX
+eXYTWiX
+&%&(,%
+=3.*
+-*83+&%
+T`iR6`iR
+*%+23(+,
+?%34&:-,
+@^STUViTW
+nXSg_XZ^
+(7B,2
+&%34&6
+<aiR6`iR
+6*%*4&6
+c^\VYXT
++&.3
+biR6`iR
+3443
+2C..C
+biR6`iR
+-293.3?35,
+*92,9322&8*
+=,2(73%
+VUV_V
+.&(63%%3-(
+biR6`iR
+&%,((,
+&+&8,;
+RZtyU`W|
+,+.&6
+WUyq
+ciR6`iR
+KtVRtt
+ttV5/
+Kt(P
+tvpp 
+&diR
+22v+
+-+*43+&:-,
+ojVbV\^
+oaT^_gTXZ^
+((7B3.+,%
+13<3+
+<,5%&4,%+*
+&%,%
+DeiR6`iR
+&(<.3?
+fiR6`iR
+',&..,
+(<,%8&8
+7B.3@
+*8-(
+&*%,
+,<*+&.3
+KfiR6`iR
+r5.35,
+-8&*
+>-(+,
+*%&8*
+&%(+,..-%5,%
+,5*.3;&*%
+ySXiyy\
+?giR@%iR
+)XVYbi
+eZj#
+FAiR
+FAiR
+FAiR
+xiiR
+Z%V#
+,jiR
+,4<.&2
+,..,%32
+eYyZtW
+oai`
+YYWS
+623%
+&,4<&
+-++*
+{VX~~X
+LjiR
+Z@iR
+3<<*2+
+(<,7+
+hWYVZX[S
+oijWZT^
+RWXTWSqWUtyY+
+AUVS
+<2*&
+;&*%&
+1-=3(-B8,
++KLK
+kiR6`iR
+&.+2,
+.-4&u%
+9.,-,
+3;-.
+&7B+@&.+,2
+cVqX
+eXYTWiX
+&%&(,%
+=3.*
+-*83+&%
+kiR6`iR
+*%+23(+,
+?%34&:-,
+@^STUViTW
+nXSg_XZ^
+(7B,2
+&%34&6
+liR6`iR
+6*%*4&6
+c^\VYXT
++&.3
+miR6`iR
+3443
+2C..C
+&niR6`iR
+-293.3?35,
+*92,9322&8*
+=,2(73%
+VUV_V
+.&(63%%3-(
+MNO
+wniR6`iR
+&%,((,
+&+&8,;
+RZtyU`W|
+,+.&6
+WUyq
+oiR6`iR
+FAiR
+22v+
+-+*43+&:-,
+ojVbV\^
+oaT^_gTXZ^
+((7B3.+,%
+13<3+
+<,5%&4,%+*
+&%,%
+piR6`iR
+&(<.3?
+pqiR6`iR
+',&..,
+(<,%8&8
+7B.3@
+*8-(
+&*%,
+,<*+&.3
+qiR6`iR
+iR4riRP
+briR
+iR4riRP
+briR
+iR4riRP
+briR
+iR4riRP
+briR
+riRP
+briR
+riRP
+briR
+riRP
+briR
+riRP
+briR
+siR@
+siR
+siR4
+:tiRPtiR
+ftiRPtiR
+tiRPtiR
+tiRPtiR
+tiRPtiR
+tiRPtiR
+r*iR
+r*iR
+r*iR
+r*iR
+,CiR
+1viR
+1viR
+7TiR
+1viR
+7TiR
+1viR
+63/2457-1.0
+viRFwiR
+bwiRFwiR
+wiRFwiR
+?PttP
+Ptt2
+PxiR
+4,*6.-<=+2
+lBiR
+lBiR
+8yiR
+8yiR
+8yiR
+8yiR
+8yiR
+8yiR
+8yiR
+JKIH*
+<ziR
+lBiR
+lBiR
+lBiR
+2{iR
+qp6srt
+viRFwiR
+bwiRFwiR
+wiRFwiR
+Z)iRC*iR
+8FP2
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+&.,%7&*
++-44(7B3.
+,((&;
+?6&(+?(
+*.-4,
+}VaTiTyU~W
+8g;,?&
+ySWSq^X_+
+iR0-iR
+5iRPtiR
+*-.,-2
+r5.35,
+>-(+,
+7*.*2
+329,&%(+,..-%5,%
+hWS~
+,5*.3;&*%
+syUXSiyyT
+%@*243+&*%(
+]S`^U_VZX[S
+&.5&
+;&*%&
+&,8*+
+%+2r,V
+RWYWZZX[S
+WSTUV\V
+&%539,:-,..,
+,.,;&*%,
+&%<-+
+-.*(&5%33.&%
+=&(-3.
++&*%
+%(&7B+(4*8-(
+c^\a
+VYXT
+qXia*
+rrVrX^SW
+_yTXYV
+iR6`iR
+3<<,.
+4r4*&2
+,(+&+-&2
+,4*2&3
+A-2g76(,+;,%
+uWYYW~
+&7B&34*
+3.3-+
+,B83(
+iR6`iR
+22&u2,
+<.3%
+sXiaVYXrVZX[S
+&%+,252-%8
+oU~V
+jYVS
+@*%8*
++3-(
+%+,22-<+&*%
+H")"
+&%9.,%8;,&+
+V_VS
+&4,*-+
+=&&=,
+'*?3%+
+8s3.&4,
+%8&738*2
+,+2&,9(3%;,&5,
+iTWUbWiX
++*2,
+'&223%
+4,266&=3.*
+iRx
+&.,%7&*
++-44(7B3.
+,((&;
+?6&(+?(
+*.-4,
+}VaTiTyU~W
+8g;,?&
+ySWSq^X_+
+iR0-iR
+b9iRPtiR
+*-.,-2
+r5.35,
+>-(+,
+7*.*2
+329,&%(+,..-%5,%
+hWS~
+,5*.3;&*%
+syUXSiyyT
+FAiR
+%@*243+&*%(
+]S`^U_VZX[S
+&.5&
+;&*%&
+&,8*+
+%+2r,V
+RWYWZZX[S
+WSTUV\V
+&%539,:-,..,
+,.,;&*%,
+&%<-+
+-.*(&5%33.&%
+=&(-3.
++&*%
+%(&7B+(4*8-(
+c^\a
+VYXT
+qXia*
+rrVrX^SW
+_yTXYV
+iR6`iR
+3<<,.
+4r4*&2
+,(+&+-&2
+,4*2&3
+A-2g76(,+;,%
+uWYYW~
+&7B&34*
+3.3-+
+,B83(
+iR6`iR
+22&u2,
+<.3%
+sXiaVYXrVZX[S
+&%+,252-%8
+oU~V
+jYVS
+@*%8*
++3-(
+%+,22-<+&*%
+H")"
+&%9.,%8;,&+
+V_VS
+&4,*-+
+=&&=,
+'*?3%+
+8s3.&4,
+%8&738*2
+,+2&,9(3%;,&5,
+iTWUbWiX
++*2,
+'&223%
+4,266&=3.*
+iR<
+iR8
+iR8
+"Ptte
+iR]LiR
+SiR]LiR8
+iR8
+iR8
+DiR8
+iR8
+X;iR
+I:iR
+J;iR
+AiRlBiR
+AiRlBiR
+AiRlBiR
+r*iR
+r*iR
+r*iR
+SiRlBiR
+iRlBiR
+iRlBiR
+SiRlBiR
+iRlBiR
+iRlBiR
+SiRlBiR
+iRlBiR
+iRlBiR
+AiR8yiR
+AiR8yiR
+lBiR
+PxiR
+wxrn
+abcd
+r*iR
+PxiR
+JKIH
+CDE
+pPttA
+}~v*IHm
+_{9"|
+L*M*IH+
+L*M*IH
+,4,*6.-<=+2
+2&5B+%,((
+-4&%*(&+r
+56,&+
+*%+23(+,
+{^STUViT||
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+{_iR!iR
+biR!iR
+biR!iR
+5LiR
+*(&+&*%
+p^iXZX[S
+_WSd
+1*%-4-
+<3&663
+r(*.-+&*%
+oqXi^
+YaZX[S
+oS_WU~aSb
+oa`Y
+uXY\XUXiX
+(-..3
+;&*%,
+&.4*&+-(
+iR6`iR
+*%+23(+,
+{^STUViT||
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+kiR!iR
+FAiR
+miR!iR
+=PiR
+*(&+&*%
+p^iXZX[S
+_WSd
+1*%-4-
+<3&663
+r(*.-+&*%
+oqXi^
+YaZX[S
+oS_WU~aSb
+oa`Y
+uXY\XUXiX
+(-..3
+;&*%,
+&.4*&+-(
+iR6`iR
+iRPtiR
+iRPtiR
+iRPtiR
+iRPtiR
+iRPtiR
+iRPtiR
+iRPtiR
+iRPtiR
+iRPtiR
+iRPtiR
+FAiR
+a[iR
+siR0
+siR0
+siR0
+siR0
+u^iR
+&diR
+siR
+iR0
+siR
+siR
+siR
+siR
+siR
+xiiR
+FAiR
+siR
+iRb
+siR0
+a[iR
+siR0
+siR0
+siR0
+siR0
+u^iR
+siR0
+&diR
+siR0
+siR
+siR
+siR
+siR
+siR
+xiiR
+siR
+siR
+iR8
+ tp0
+[PttP
+Ptte
+0PttA
+iR8
+73Pt
+ Pt#
+[Ptt
+iR]LiR8
+DiR
+iR8
+iR8
+iR8
+iR8
+iR8
+DiR8
+iR8
+iR8
+iR8
+DiR8
+DiR8
+DiR8
+iR8
+iR8
+iR8
+iR8
+iR8
+DiR8
+iR8
+DiR8
+DiR8
+iR8
+iR8
+DiR8
+lBiR
+lBiR
+lBiR
+AiR8yiR
+AiR8yiR
+AiR8yiR
+AiR8yiR
+AiR8yiR
+8yiR
+AiR8yiR
+AiR8yiR
+AiR8yiR
+AiR8yiR
+PxiRk
+AiR8yiR
+iR8yiR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+AiR8yiRb
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+AiR8yiRD
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+AiR8yiRT
+AiR8yiRh
+?qqD
+8 D,
+r*iR
+r*iR
+r*iR
+r*iR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+r*iR
+r*iR
+r*iR
+r*iR
+-./0123456
+PtiR
++,&%+
+,(37+&=38*
+{VjVY
+<,%+*
+p^Xi
+jyyYTy
+..-4r
+%7,%8&8*
+77,(*
+pyyYYy
+iR!iR
+iR!iR
+iR!iR
+iR!iR
+]LiR
+]LiR
+]LiR
+*-.,-2
+-+&.&(3+)
+-(-32&*
+,%-+;,2,&%(+,..-%5
+{aYYVS
+hWSbX
+TTykyS
+qyUX
+iR!iR
+]LiR
+]LiR
+5LiR
+]LiR
+iR!iR
+]LiR
+5LiR
+5LiR
+5LiR
+5LiR
+5LiR
+]LiR
+]LiR
+]LiR
+*-.,-2
+-+&.&(3+)
+-(-32&*
+,%-+;,2,&%(+,..-%5
+{aYYVS
+hWSbX
+TTykyS
+qyUX
+iR!iR
+]LiR
+]LiR
+=PiR
+iR!iR
+]LiR
+=PiR
+=PiR
+=PiR
+=PiR
+=PiR
+ZttVdtt
+ttdtt7
+tte7tt
+tt9ttt9ttW
+ttutt
+tteWtt0ttt
+tttWtt)
+Ptte
+ tt8
+e(tt7
+tt87ttsttStt
+e(tt7
+ttstt FtG
+lBiR
+lBiR
+lBiR
+lBiR
+8yiR
+8yiR
+8yiR
+lBiR
+lBiR
+lBiR
+lBiR
+8yiR
+8yiR
+8yiR
+8yiR
+8yiR
+@#FP
+A?>P
+c8PM
+DiR8
+*@tt
+%Ett
+SiR]LiR
+iR]LiR
+DiR8
+iR8
+DiR8
+8yiR
+8yiR
+8yiR
+lBiR
+lBiR
+lBiR
+lBiR
+@IS
+8yiR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+r*iR
+*+,-)
+*.,.)
+IS!iRw
+PxiR
+PxiR
+]LiR
+]LiR
+]LiR
+X;iR:
+I:iR
+J;iR
+PxiR
+PxiR
+CDE
+IS!iR
+lBiR
+lBiR
+lBiR
+lBiR
+BIiR
+PxiR
+PxiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+SRPQ
+6+.4
+*,<4;64#8
+PxiR
+PxiR
+r*iR
+PxiR
+PxiR
+r*iR
+r*iR
+r*iR
+r*iR
+()*IH+
+231&4
+ISPtiR
+PxiR
+PxiR
+g5wT
+cSPtiR.
+cS(
+cSPtiR.
+cS(
+cSPtiR.
+cS(
+cSPtiR.
+cS(
+cSPtiR.
+cS(
+cSPtiR.
+cS(
+cSPtiR.
+cS(
+cSPtiR.
+e6wT
+8yiR
+3%,.
+FGHI
+JKLMN
+ !"#$
+QRST
+VWXYZ3978,@5B&>6.4%*<:2(+-=CE?;
+[\]^
+&5B+
+8yiR
+8yiR
+hS!iR
+8yiR
+hS!iR
+8yiR
+2*8-7+
+*8,.
+hS!iR
+3%,.
+8yiR
+fS!iR
+iR6
+iR6
+iR6
+iR6
+!iR
+!iR
+!iR
+!iR
+!iR
+iR6
+M7wT
+UUpp
+[iR!iR
+pS!iR
+8yiR
+pS!iR
+pS!iR
+pS!iR
+pS!iR
+8yiR
+pS!iR
+iR!iR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+8yiR
+pS!iR
+;-.T
+',2+
+sXtUWy
+*-5,
+-%3&%,%
+pS!iR
+pS!iR
+pS!iR
+-4&%*(&+r
+2&..*
+56,&+
+pVUYV~Y
+}a_XS^iXT
+1&2663-(
+%iR!iR
+8yiR
+pS!iR
+pS!iR
+pS!iR
+pS!iR
+8yiR
+0-&++,2
+3.&2
+,,%8
+/(7&
+*<,+3
+"#$%r
+pS!iR
+pS!iR
+ !"#$
+pS!iR
+2r:-,%7,
+eUW~VSi
+'3363+
+>--(
+AB?#
+pS!iR
+iR!iR
+pS!iR
+!iR
+-4r2*
+4*8u.,
+md_WU^
+*8,..%-44,2
+c^\WY
+ma_VUVi
+-4,2*
+pS!iR
+!iR
+*2.*5,
+<&E,.(
+hWY^k
++36+
+&6(,.
+33+&
+pS!iR
+8yiR
+ !"#$
+&5%3.D
+pS!iR
+,(*.-+&*%
+hWi^YaZX[S
+oa`Y
+iaSb1
+&(*.-;&*%,
+pS!iR
+-4r2*
+md_WU^
+,2&,%%-44
+RWUX
+ma_VUVi
+32>3%
+)pS!iR
+pS!iR
+pS!iR
+2r:-,%7,
+2,63%(
+?(+?+33>--(
+AB?#
+pS!iR
+pS!iR
+pS!iR
+pS!iR
+!iR
+pS!iR
+pS!iR
+pS!iR
+iR!iR
+8yiR
+pS!iR
+pS!iR
+pS!iR
+pS!iR
+]LiR
+]LiR
+]LiR
+]LiR
+pS!iR
+]LiR
+T`iR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+5LiR
+NiR!iR
+8yiR
+pS!iR
+pS!iR
+pS!iR
+pS!iR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+iR!iR
+]LiR
+]LiR
+8yiR
+pS!iR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+*(&+&*%
+B*2&;
+p^iXZX[S
+t^UXr^STVY
+3+3?
+1*%-4
+'3363(&>3&%+&
+*(&+&*%
+73.,
+p^iXZX[S
+qWUT
+63.,
+&6,?
+1*%-4
+&>3&%+&
+8yiR
+5LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+KfiR!iR
+pS!iR
+pS!iR
+pS!iR
+pS!iR
+8yiR
+?giR!iR
+pS!iR
+8yiR
+pS!iR
+pS!iR
+pS!iR
+pS!iR
+8yiR
+pS!iR
+iR!iR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+8yiR
+pS!iR
+;-.T
+',2+
+sXtUWy
+*-5,
+-%3&%,%
+pS!iR
+pS!iR
+pS!iR
+-4&%*(&+r
+2&..*
+56,&+
+pVUYV~Y
+}a_XS^iXT
+1&2663-(
+y$iR!iR
+8yiR
+pS!iR
+pS!iR
+pS!iR
+pS!iR
+8yiR
+0-&++,2
+3.&2
+,,%8
+/(7&
+*<,+3
+g pS!iR
+g pS!iR
+ !"#$
+ pS!iR
+2r:-,%7,
+eUW~VSi
+'3363+
+>--(
+ pS!iR
+iR!iR
+!pS!iR
+FGHI
+JKLMN
+ !"#$
+QRST
+VWXYZ3978,@5B&>6.4%*<:2(+-=CE?;
+[\]^
+!iR
+-4r2*
+4*8u.,
+md_WU^
+*8,..%-44,2
+c^\WY
+ma_VUVi
+*"pS!iR
+FAiR
+!iR
+*2.*5,
+<&E,.(
+hWY^k
++36+
+&6(,.
+33+&
+#pS!iR
+8yiR
+ !"#$
+&5%3.D
+#pS!iR
+,(*.-+&*%
+hWi^YaZX[S
+oa`Y
+iaSb1
+&(*.-;&*%,
+($pS!iR
+-4r2*
+md_WU^
+,2&,%%-44
+RWUX
+ma_VUVi
+32>3%
+$pS!iR
+pS!iR
+ pS!iR
+2r:-,%7,
+2,63%(
+?(+?+33>--(
+%pS!iR
+pS!iR
+pS!iR
+pS!iR
+!iR
+&pS!iR
+g pS!iR
+g pS!iR
+iR!iR
+8yiR
+pS!iR
+pS!iR
+pS!iR
+pS!iR
+]LiR
+]LiR
+]LiR
+]LiR
+pS!iR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+&niR!iR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+=PiR
+QiR!iR
+8yiR
+]LiR
+pS!iR
+pS!iR
+pS!iR
+pS!iR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+iR!iR
+]LiR
+]LiR
+8yiR
+pS!iR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+*(&+&*%
+B*2&;
+p^iXZX[S
+t^UXr^STVY
+3+3?
+1*%-4
+'3363(&>3&%+&
+g-pS
+*(&+&*%
+73.,
+p^iXZX[S
+qWUT
+63.,
+&6,?
+1*%-4
+&>3&%+&
+H.pS
+8yiR
+=PiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+qiR!iR
+pS!iR
+g pS!iR
+pS!iR
+pS!iR
+k1pS
+8yiR
+>6wT
+SPtiR
+SPtiR
+&diR
+lBiR
+lBiR
+lBiR
+8yiR
+8yiR
+8yiR
+lBiR
+SPtiR
+SPtiR
+lBiR
+lBiR
+lBiR
+8yiR
+8yiR
+8yiR
+lBiR
+DeiRPtiR
+0P2
+SPtiR
+&.+2,
+9.,-
+=,22/
+3;-.
+9.*:-,38*
+&7B+@&.+,2
+cVqX
+eXYTUWi
+(<&3
+9.-!
+(-*8
++)*,-&%
+SPtiR
+<<P#
+5Pte
+SPtiR
+=,&..
+ N"%
+c^\^
+iaijWSiX[S
+%,25&,(<324*8-(
+?6-?3
+,_,7,6
+++,(3
+,%*(
+-%&+&.33%F
+SPtiR
+SPtiR
++,&%+
+,(37+&=38*
+{VjVY
+<,%+*
+p^Xi
+jyyYTy
+SPtiR
+..-4r
+%7,%8&8*
+77,(*
+pyyYYy
+SPtiR
+72,,%
+SPtiR
+72,,%
+SPtiR
+-7-%
+(&5%3.
+(,`3.
+SPtiR
+SPtiR
+',22*-&..35,
+=&(-3.&;
+<3%+
+5,(<,22+
+1&.&+.,%8&
+773+*
+.-6&++-
+SPtiR
+SPtiR
+r=,22*-&..35,
+,(9.*:
+=&(-3.&;
+<3%+
+3-@5,B*9,%
+{XYX\X
+773+*
+'(&%
+SPtiR
+?0P#
+SPtiR
+-,23
+WUtVYv
+XZti
+oUVY
+-*2&
+(73.3
+-,,%
+-.6*<-*.,..3
+SPtiR
+SPtiR
+',22/
+327B,
+uY^w
+v^T[S
+\X\^
+,+;(7B3.+,2
+5,(<
+_WiX
+{XYXTY
+3(+*
+3.&4/
+9.*773
+'&2+3<3&%&6/
+.-6&++-
+SPtiR
+SPtiR
+r=,22/
+327B,
+nWivY^w
+v^T[S
+,+;(7B3.+,2
+,%+(<
+_WiX
+{XYX\
+3(+*
+3.&4/
+(9.*773
+'&2+3<3&%&6/
+3=3++-
+'(&%
+SPtiR
+SPtiR
+lBiR
+lBiR
+lBiR
+8yiR
+8yiR
+8yiR
+lBiR
+piRPtiR
+SPtiR
+&.+2,
+9.,-
+=,22/
+3;-.
+9.*:-,38*
+&7B+@&.+,2
+cVqX
+eXYTUWi
+(<&3
+9.-!
+(-*8
+SPtiR
+<A  /
+SPtiR
+=,&..
+ N"%
+c^\^
+iaijWSiX[S
+%,25&,(<324*8-(
+?6-?3
+,_,7,6
+++,(3
+,%*(
+-%&+&.33%F
+SPtiR
+SPtiR
++,&%+
+,(37+&=38*
+{VjVY
+<,%+*
+p^Xi
+jyyYTy
+SPtiR
+..-4r
+%7,%8&8*
+77,(*
+pyyYYy
+SPtiR
+72,,%
+SPtiR
+SPtiR
+',22*-&..35,
+=&(-3.&;
+<3%+
+5,(<,22+
+1&.&+.,%8&
+773+*
+.-6&++-
+SPtiR
+SPtiR
+r=,22*-&..35,
+,(9.*:
+=&(-3.&;
+<3%+
+3-@5,B*9,%
+{XYX\X
+773+*
+SPtiR
+<A  /
+SPtiR
+-,23
+WUtVYv
+XZti
+oUVY
+-*2&
+(73.3
+-,,%
+-.6*<-*.,..3
+SPtiR
+SPtiR
+',22/
+327B,
+uY^w
+v^T[S
+\X\^
+,+;(7B3.+,2
+5,(<
+_WiX
+{XYXTY
+3(+*
+3.&4/
+9.*773
+'&2+3<3&%&6/
+.-6&++-
+SPtiR
+SPtiR
+r=,22/
+327B,
+nWivY^w
+v^T[S
+,+;(7B3.+,2
+,%+(<
+_WiX
+{XYX\
+3(+*
+3.&4/
+(9.*773
+'&2+3<3&%&6/
+3=3++-
+SPtiR
+SPtiR
+lBiR
+lBiR
+lBiR
+8yiR
+8yiR
+8yiR
+lBiR
+SPtiR
+SPtiR
+lBiR
+lBiR
+lBiR
+8yiR
+8yiR
+8yiR
+lBiR
+-7-%
+(&5%3.
+(,`3.
+SPtiR
+SPtiR
+lBiR
+lBiR
+lBiR
+8yiR
+8yiR
+8yiR
+lBiR
++,&%+
+,(37+&=38*
+{VjVY
+<,%+*
+p^Xi
+jyyYTy
+SPtiR
+SPtiR
+..-4r
+%7,%8&8*
+77,(*
+pyyYYy
+SPtiR
+SPtiR
+lBiR
+lBiR
+lBiR
+8yiR
+8yiR
+8yiR
+lBiR
++,&%+
+,(37+&=38*
+{VjVY
+<,%+*
+p^Xi
+jyyYTy
+SPtiR
+SPtiR
+..-4r
+%7,%8&8*
+77,(*
+pyyYYy
+SPtiR
+SPtiR
+lBiR
+lBiR
+lBiR
+8yiR
+8yiR
+8yiR
+lBiR
+lBiR
+lBiR
+lBiR
+8yiR
+8yiR
+8yiR
+lBiR
+2,((
+&(39.,
+7+&=,2
+4,%(3>,/
+;-;,&5,%
+rWUXSW
+<3&%343..3
+BCDA
+"<@?=
+SPtiR
+r(*.-+&*%
+oqXi^
+YaZX[S
+oS_WU~aSb
+oa`Y
+uXY\XUXiX
+(-..3
+;&*%,
+&.4*&+-(
+SPtiR
+*9+,%&
+:-3.&+r
+"! -4
+4,>*2
+S\WUS
+oa`Y
+iaSb
+2,(&4
+_&%D
+_XbYX^UW
+.33+-3
+23415'0/
+SPtiR
+8K&435,
+*<+&
+73.&838
+7349&,
+JxKIl
+,..K
+&4435&%,
+=3&B+343..3
+2,(*.--+&*6(&
+89:;
+SPtiR
+2r(*.-+&*%
+UWi^YaZX[S
+JxKIl
+0MI+
+uXY\waVYXTyT
+WUrXWYWS+
+WUXSW
+&(*.-;&*%,
+SPtiR
+SPtiR
+2g76,%
+,.8-%5
+SPtiR
+<<-?,;
+,@@37,2
+2,(&*%,
+<323
+iZtWS+
+cWiVk
+W_XrY
+73%7,..32,
+p^XiTV
+iVS^_
+SPtiR
+4,((35,
+4,%(3>,/
+2g76,%
+,.8-%5
+rWUXSW
+<3&%343..3
+SPtiR
+2,((
+.,32
+<<-?,;
+&*%,
+<323
+7+&=
+;-6g%@
+%&7B+
+4,B2
+cWiVk
+BSbWYYW_W~
+8&(39&.&+32,
+p^XiTV
+iVS^_VT
+>("<@?=
+SPtiR
+lBiR
+lBiR
+lBiR
+8yiR
+8yiR
+8yiR
+lBiR
+2,((
+&(39.,
+7+&=,2
+4,%(3>,/
+;-;,&5,%
+rWUXSW
+<3&%343..3
+89:7
+2653'3
+SPtiR
+r(*.-+&*%
+oqXi^
+YaZX[S
+oS_WU~aSb
+oa`Y
+uXY\XUXiX
+(-..3
+;&*%,
+&.4*&+-(
+SPtiR
+*9+,%&
+:-3.&+r
+"! -4
+4,>*2
+S\WUS
+oa`Y
+iaSb
+2,(&4
+_&%D
+_XbYX^UW
+.33+-3
+"#$!%
+SPtiR
+8K&435,
+*<+&
+73.&838
+7349&,
+JxKIl
+,..K
+&4435&%,
+=3&B+343..3
+2,(*.--+&*6(&
+./01),*(-'&+(
+SPtiR
+2r(*.-+&*%
+UWi^YaZX[S
+JxKIl
+0MI+
+uXY\waVYXTyT
+WUrXWYWS+
+WUXSW
+&(*.-;&*%,
+SPtiR
+SPtiR
+2g76,%
+,.8-%5
+SPtiR
+<<-?,;
+,@@37,2
+2,(&*%,
+<323
+iZtWS+
+cWiVk
+W_XrY
+73%7,..32,
+p^XiTV
+iVS^_
+SPtiR
+4,((35,
+4,%(3>,/
+2g76,%
+,.8-%5
+rWUXSW
+<3&%343..3
+SPtiR
+2,((
+.,32
+<<-?,;
+&*%,
+<323
+7+&=
+;-6g%@
+%&7B+
+4,B2
+cWiVk
+BSbWYYW_W~
+8&(39&.&+32,
+p^XiTV
+iVS^_VT
+2653&3
+SPtiR
+',22*-&..35,
+=&(-3.&;
+<3%+
+(<,22,%
+1&.&+.,4,
+.-6&+-(
+SPtiR
+',22/
+327B,
+uY^w
+v^T[S
+\X\^
+,+;(7B3.+,2
+{XYXTYW_W
+.*77*
++3(+
+'&2+3<3&%&6/
+.-6&+-(
+SPtiR
+lBiR
+lBiR
+lBiR
+8yiR
+8yiR
+8yiR
+lBiR
+r=,22*-&..35,
+,(9.*:
+=&(-3.&;
+<3%+
+3-@B,9,%
+6&.&8&%&
+3_43
+9.*77*
+3=3-(
+'(&%.
+SPtiR
+r=,22/
+327B,
+nWivY^w
+v^T[S
+,+;(7B/
+<,22,
+3-@B,9,%
+_WiXS
+{XYX\'
+9.*77*
++3(+
+'&2+3<3&%&6/
+3=3-(
+'(&%.
+SPtiR
+',22*-&..35,
+=&(-3.&;
+<3%+
+(<,22,%
+1&.&+.,4,
+.-6&+-(
+SPtiR
+',22/
+327B,
+uY^w
+v^T[S
+\X\^
+,+;(7B3.+,2
+{XYXTYW_W
+.*77*
++3(+
+'&2+3<3&%&6/
+.-6&+-(
+SPtiR
+lBiR
+lBiR
+lBiR
+8yiR
+8yiR
+8yiR
+lBiR
+r=,22*-&..35,
+,(9.*:
+=&(-3.&;
+<3%+
+<,22,
+3-@B,9,%
+6&.&8&%&
+3_43
+9.*77*
+3=3-(
+SPtiR
+r=,22/
+327B,
+nWivY^w
+v^T[S
+,+;(7B/
+<,22,
+3-@B,9,%
+_WiXS
+{XYX\'
+9.*77*
++3(+
+'&2+3<3&%&6/
+3=3-(
+SPtiR
+$6wT
+{5wT
+ISx
+iRx
+\%iR9
+8yiR
+8yiR
+IS0
+pS!iR
+T`iR
+NiR!iR
+8yiR
+pS!iR
+pS!iR
+pS!iR
+pS!iR
+8yiR
+8yiR
+IS<
+W!iR9
+iR<
+'iR9
+8yiR
+8yiR
+iRH
+!iR9
+!iR9
+iRH
+!iR#
+!iR#
+pS!iR
+QiR!iR
+8yiR
+pS!iR
+pS!iR
+pS!iR
+pS!iR
+8yiR
+k1pS
+8yiR
+ISx
+iRx
+\%iR9
+8yiR
+8yiR
+IS0
+pS!iR
+NiR!iR
+8yiR
+pS!iR
+pS!iR
+pS!iR
+pS!iR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+iR!iR
+]LiR
+]LiR
+8yiR
+8yiR
+IS<
+W!iR9
+iR<
+'iR9
+8yiR
+8yiR
+iRH
+!iR9
+!iR9
+iRH
+!iR#
+!iR#
+pS!iR
+QiR!iR
+8yiR
+pS!iR
+pS!iR
+pS!iR
+pS!iR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+]LiR
+iR!iR
+]LiR
+]LiR
+8yiR
+iRb
+k1pS
+8yiR
+j7wT
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDDP
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDp`
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDp@
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDp0
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDp 
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDp
+m'sr
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDp
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDp
+DDDDp0
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDp
+DDDD
+cZj~
+DDDP
+DDD`
+DDD`
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDp
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDp
+DDDDp@
+DDDp
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDp 
+&\r 
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDp 
+0a|(
+DDDD
+DDDD
+DDp0
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDDp0
+DDDp@
+DDp0
+DDDD`
+DDDD
+DDDD
+DDDD0
+DDDDp
+DDDD
+DDDD 
+DDDp0
+DDDD
+0mPP
+DDDp
+@zy`
+DDDD
+DDD@
+DDDpP
+DDDDP
+DDDDP
+DDDD@
+DDD@
+DDDD
+DDDDp
+DDDD
+DDDDp0
+DDDD
+DDDD
+DDD 
+DDDD
+DDDD
+DDD0
+DDDD
+DDDD
+DDDD
+DDDD
+DDD@
+DDDD
+DDDD
+DDDP
+DDp 
+DDDD
+DDDD@
+DDD`
+DDDD
+DDDD`
+DDDp
+DDDD
+DDDp
+DDDD
+DDDP
+DDDD
+DDDp
+DDD`
+DDDD
+DDDD
+DDDp
+DDDD
+DDDD
+DDDp
+DDDD
+DDDp 
+DDDD
+DDDD
+DDDD
+DDDp0
+DDDD
+DDDD
+DDDD
+DDDD
+DDDp@
+DDDD
+DDDD
+DDDD
+DDDD
+DDDpP
+DDDD
+DDDD
+DDDD
+DDDp`
+DDDD
+DDDD
+DDDP
+DDDD
+DDDD
+DDDp`
+DDDD
+DDDD
+DDDP
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD 
+DDDD
+DDDD0
+DDDD
+DDDD
+DDDp`
+DDDD
+DDDD@
+DDp0
+DDDD
+DDDD@
+DDDD
+DDDD
+DDDD 
+DDDD0
+DDDDP
+DDDD
+DDDD
+{pp0
+DDDD`
+DDDD`
+DDDD
+dwXP
+DDDDp
+DDDDp@
+DDDDp
+DDDDp
+DDDD
+DDDD
+DDDD
+DDDDpp
+DDDD
+DDDD
+DDDDp0
+DDDDp
+DDDD
+DDDD
+DDD`
+DDDD
+DDDD
+DDDD
+DDDDpp
+DDDDp
+DDDD
+DDDD`
+DDDp0
+DDDDP
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+DDDD
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUpP
+UUUU
+UUUU
+UUUU
+j`vB
+UUUU
+UUUU
+j`vB
+}pp0
+j]O,'
+qh}r
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUpP
+UUUp`
+j %:!_
+gU y
+vU 
+UUUU
+UUUU
+UUUU
+UUUU
+b5wT
+K6wT
+K6wT K6wT
+5wT0
+8yiR
+]LiR
+NT!iR
+5wT0
+7wT@
+X6wT
+8yiR
+CDE
+OT!iR
+8yiR
+5wT0
+8yiR
+l5wT
+]LiR
+pqrn
+PT!iR
+6wT0
+8yiR
+]LiR
+iR!iR
+5wT0
+5wT@
+l5wT@
+PxiR
+AiRlBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+}TiR
+lBiR
+lBiR
+iRlBiR
+-=44/
+<-44/
+=-44/
+2644/
+AiRlBiR
+l5wT%
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+v<iR
+(<iR
+AiRlBiR
+5wT%
+-=iR
+lBiR
+`=iR
+r=iR
+<=iR
+N=iR
+lBiR
+lBiR
+lBiR
+lBiR
+lBiR
+AiRlBiR
+AiRlBiR
+PxiR
+PxiR
+lBiR
+lBiR
+v<iR
+(<iR
+lBiR
+lBiR
+lBiR
+v<iR
+(<iR
+bwiR
+z{|}cd
+'()*
+bwiR
+6wT@v6wT
+8yiR
+]LiR
+abcd
+_T!iR
+47wT
+`T!iR
+`T!iR
+`T!iR
+`T!iR
+`T!iR
+`T!iR
+`T!iR
+`T!iR
+`T!iR
+`TPtiR
+`T!iR
+8yiR
+`T!iR
+`T!iR
+8yiR
+`T!iR
+8yiR
+$%&'()&(X
+`T!iR
+8yiR
+8yiR
+`T!iR
+8yiR
+`T!iR
+8yiR
+8yiR
+8yiR
+eT!iR
+eT!iR
+8yiR
+8yiR
+eT!iR
+b5wT
+v5wT
+ZPtt
+UPLP2
+v5wT
+0!*0
+b5wT
+v5wT
+b5wT 
+ 16wT
+5wT#v5wT
+b5wT#q5wT
+fT
+lT
+fT
+fT
+iR
+lT
+lT
+lT
+lT
+lT
+lT
+lT
+b5wT
+b5wT
+b5wT
+16wT
+b5wT
+b5wT
+b5wT
+b5wT
+]LiR
+]LiR
+iRo"iR
+&iR?*iR
+3iRR@iR
+GiR.TiR3TiR5[iR:[iR2`iR0riRUriR^riR
+viR-viR
+xiRi
+iR%iRIiRjiR
+iRx
+iRF iR
+ iRE!iRx!iR
+"iRu#iR
+#iRK$iRJ%iR
+%iR_&iRq&iR
+'iR9'iR
+(iR.(iR@(iRh(iR
+(iR&)iR8)iR<)iR@)iRD)iRH)iRJ*iR\*iR
++iR)+iR;+iRM+iR_+iRq+iR
+,iR%,iR7,iRL,iR^,iR:-iR
+-iRL.iR
+/iRd/iRv/iR
+/iRo0iR
+0iR$1iR
+1iRK2iR
+3iR(3iR:3iRL3iR^3iRp3iR
+3iR34iR
+4iR%5iR
+5iR@6iRR6iR
+7iR17iRF7iRX7iRj7iR
+7iRi8iR
+8iRP9iRq9iR
+:iR+:iR=:iRA:iRE:iRk;iR
+>iR;?iRP?iRb?iRt?iR
+@iR.@iR@@iRe@iRw@iR
+AiR"AiR4AiRXAiRrAiR
+AiRoBiR
+DiR.DiR
+DiR%EiR7EiRIEiR[EiRuEiR
+FiR'FiR
+GiR,GiR>GiRBGiR[GiRmGiR
+GiR,IiR
+JiRwKiR
+KiR#LiRKLiR`LiRoLiR~LiR
+LiRjMiR|MiR
+MiR%NiR
+PiR#PiRPPiRbPiRqPiR
+PiRJQiR
+SiR9SiRHSiRbSiRwSiR
+TiR>TiRMTiR\TiRnTiR
+TiRrUiR
+ViR(ViR7ViRFViRUViRdViRsViR
+WiR^XiR
+YiR"YiR4YiR
+YiRYZiRkZiR}ZiR
+[iRG[iR
+\iR;]iRM]iRg]iR
+]iRc^iR
+^iRW_iRi_iRB`iR*aiR
+biRvciR
+ciRdiR
+eiR/eiR
+fiR9fiR
+fiR-giR
+giRkhiR}hiR
+hiRfiiR
+jiR:jiR
+niReniR
+piRnpiR
+piR^qiR
+riR@riRmriR
+siR%siR:siRLsiRasiRssiR
+tiR"tiR&tiR*tiR.tiR2tiR6tiRTtiRutiR
+uiR#uiR2uiRAuiRPuiR_uiRnuiR}uiR
+viR8viRGviRVviReviRtviR
+viRPwiR}wiR
+wiR>xiR
+yiR)yiR;yiRJyiRYyiRhyiRwyiR
+ziR*ziR
+{iR {iR
+}iR_~iRq~iR
+IS"IS1IS
+ pS1 pSC pSU pSr pS
+ pSb!pSt!pS
+$pSw%pS
+%pS_&pSq&pS
+'pS('pS:'pSL'pS^'pSm'pS
+'pS(pS
+(pS*(pS9(pSK(pSZ(pSl(pS~(pS
+)pS))pS8)pSG)pSV)pSe)pSt)pS
+*pS.*pS@*pSO*pS^*pSp*pS
+*pS+pS
++pS*+pS9+pSH+pSW+pSf+pSu+pS
+,pS,,pS;,pSJ,pSY,pSh,pSw,pS
+-pS+-pS:-pSI-pSX-pS$.pS6.pS
+/pS1/pSC/pSU/pSd/pSv/pS
+/pS0pS
+0pS*0pS90pSH0pSW0pSi0pSx0pS
+1pS#1pS51pSG1pSY1pS{1pS
+%X
+=x>>
+=xxp
+y`x|
+x<<<<x
+|><<
+px8<
+<8xp
+<xxx
+pxx8<
+<<<<
+0`0
+1`0
+fl8
+0ab
+a`f`
+0 0 
+30000
+0lc0lc0lc0dc0
+0fc0fc0bc0cc0ac
+0`s0`
+`0
+`8x808
+$<80
+` 
+1`0L
+0`0
+``08``0
+xdc40
+088
+030p
+000<000?000200000000
+?000000000000000000000
+d@0@
+l0``
+l0``
+?00
+c```````````
+`` 
+`8c`0
+c
+h008l
+?0
+cV`pc
+@0#p
+`@@
+@C@8 C`
+F0@l
+`000
+?`@0
+` 0 `
+&[]_acegikmoq
+ f!h!
+$=%?%A%C%
+(2)y)
++),m,
+,A-C-N-P-y-{-}-
+-!.#.3.5.
+
+x<<<<x
+|><<
+888888
+?~<~
+<x~<~
+888888
+88pp
+L``
+  @
+?x20
+``00`
+?>00
+ 008 
+? `x
+7!7#7
+:V;X;
+A>B@BBBDB
+D D"D
+HEIGI
+L!L#L%L
+NoOqO
+O[P]P
+PSQUQWQYQ[Q
+U U"U$U&U(U
+`"!#
+`"!#
+?p88
+qp8
+?#W"
+""#x
+"2#0
+D!f3
+7000
+`D0`
+`0
+0`0
+0p0
+0hh
+?000PX0
+"0$b(
+fcb
+bp`8c `
+080`
+0DD
+``000
+`0>0`
+``
+L0p
+0000
+?0000000
+?0
+08
+`0c`
+`@fp
+o b0`
+1 `<0
+`C00F0
+?``0
+``0p`
+ 0`p
+ c00
+8b@
+?06f
+&Fb
+3 8p
+nfv3
+?3 
+<|><{
+l6333f
+?33333
+B!"."
+HB$?
+(BT!J
+(JT%
+"AA@
+0"t(Ic
+D]V 
+DA}S
+ &cL
+@| "
+@D8!
+HB$?
+o@ !
+PB$>
+HJ*(
+DB"!
+B@( 
+OCd 
+'AP *
+HD$2
+@@  
+R%5D
+_R E
+H@*8
+`D0"4
+BD  
+D^9*
+*8:Zq
+?H@$
+33cc
+5!nc
+ccccccc
+coc<
+3 8p
+6Og
+@ 0h
+ a"8
+TE,(
+?D$#Q
+J2$H
+DH"$
+BD&9
+~D">
+B!$
+<|><{
+*,=Ocu
+"!`?)
+"!`;
+"D2(
+"#$B
+qHD"
+"!`{
+#"""""
+""">
+B!"""
+""""
+qHD"
+qHD"
+KE$"
+&A` L
+4@) b
+@  h
+RD&8
+RH":
+DB"?
+H"/}
+EB&a
+QR8Z
+{Ca$
+SD,3
+(IB%
+D~")
+L@"$A
+doff
+?cccc?3cc
+HD$"
+A@@  
+ffl<8
+:e
+A>A_A
+BBBwB
+C;CkC
+D6DpD
+D!EAEbE
+F<FlF
+F G\G
+G9HvH
+IFImIpI
+x<<<<x
+|><<
+=xxp
+px8<
+<8xp
+<xxx
+pxx8<
+y`x|
+=x>>
+0`0
+d@0@
+@0#p
+`@@
+@C@8 C`
+F0@l
+1`0
+088
+@``8
+?0
+?00
+c```````````
+`` 
+dF08d
+$<80
+` 
+a`f`
+00|
+?`
+xdc40
+0 0 
+03f
+` 0 `
+0000
+000`003`
+7`000`000`000`00
+?0`000`000`000`000`
+``0
+`8x808
+`0
+x<<<<x
+|><<
+?~<~
+<x~<~
+888888
+88pp
+z|~
+ F!H!J!
+L``
+``00`
+?>00
+ 008 
+  @
+00`c000
+`8c`0
+c
+>0b
+` @`
+``000
+?p88
+doff
+loff
+~fffffbc
+u(Dw
+{(Dy
+BWS(D
+AD9(D
+Ao.(Dc
+222222
+ddKKKF
+`?l?
+ !$')*.0345:;<=>?@CDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+B$Q@
+A4B-A+
+)A3A
+A4B-
+A3A
+A$4A
+B-AhA+
+B$5#
+A$4A[B-AhA+
+B$5#
+A4B-A+
+A[B-A
+A3A+
+<A4B-A+
+2abA4B-A+
+A3A
+2abA4B-A+
+!A3A,
+2abA4B-A+
+eA3A,
+dB-A+
+2abA4B-A+
+A3A,
+2abA4B-A+
+A3A,
+A4B-A+
+A3A
+A4B-A+
+AA3A
+2abA4B-A+
+A3A
+2abA4B-A+
+DA3A,
+2abA4B-A+
+tA3A,
+dB-A+
+2abA4B-A+
+A3A,
+2abA4B-A+
+A3A,
+A4B-
+#A3A
+A4B-
+jA3A
++@@&
+!@@'@@(A6
+%$&'(@HM
+'(;<:$&%
+'(;<:$&%
+NML243
+MLO@O
+MLM@M
+|@Ho
+43O<O
+43M<M
+43O<O
+bM@M<M
+43@Ho
+bM@M<M
+43@Ho
+%$&'(@HN
+OP&'(;<:$J%
+OP&'(;<:$J%
+/@HO
+%$&'(@HO
+OP&'(;<:$J%
+OP&'(;<:$J%
+_O?O
+%$&'(@HP
+OP&'(;<:$J%
+OP&'(;<:$J%
+{A8B
+{C8C
+{C8C
+{C8C
+{C8C
+{C8C
+%$&'(@HQ
+OP&'(;<:$J%
+OP&'(;<:$J%
+%$&'(@HR
+OP&'(;<:$J%
+OP&'(;<:$J%
+AQAfA
+%$&'(@HS
+OP&'(;<:$J%
+OP&'(;<:$J%
+T>?=@
+!@H
+!@H
+!@H
+!@H
+!@H
+!@H
+!@H
+!@H
+!@H
+!@H
+!@H
+>?=@
+>?=@G/
+T?=@
+T?=@G/
+T>=@
+T>=@G/
+T>?@
+T>?@G/
+T>?=
+T>?=G/
+%$&'(@HT
+*)+,-@H
+,-BCA)+*
+,-BCA)+*
+XWV576
+WVO@O
+WVM@M
+76O<O
+76M<M
+76O<O
+M@M<M
+76@H
+M@M<M
+76@H
+*)+,-@H
+YZ+,-BCA)U*
+YZ+,-BCA)U*
+p[]\
+*)+,-@H
+YZ+,-BCA)U*
+YZ+,-BCA)U*
+)M?M
+)M?M
+_O?O
+)_A
+*)+,-@H
+YZ+,-BCA)U*
+YZ+,-BCA)U*
+"C8C
+*)+,-@H
+YZ+,-BCA)U*
+YZ+,-BCA)U*
+*)+,-@H
+YZ+,-BCA)U*
+YZ+,-BCA)U*
+AQAfA
+/A`
+*)+,-@H
+YZ+,-BCA)U*
+YZ+,-BCA)U*
+^EFDG
+EFDG
+EFDGG/
+^FDG
+^FDGG/
+^EDG
+^EDGG/
+^EFG
+^EFGG/
+^EFD
+^EFDG/
+*)+,-@H
+B!@H
+B!@H
+B!@H
+B!@H
+B>@H
+B>@H
+B>@H
+B>@H
+B>@H
+B>@H
+B>@H
+B>@H
+B>@H
+*A\A
+A^H@H
+A^8@H
+A^HI
+LD~ 
+BTH@h
+(y8I
+(U8@h
+(je@h
+LD~ 
+3A\A
+D;D'D%K
+D;D'D%K
+D;DZD%K
+%0D'DPD;D
+D;D'D%K
+%0D;D
+D'D% 
+MD'D%K
+D;D'D% 
+D;D% 
+D;D% 
+D;D% 
+D;D% 
+Z"1A^H
+g"k 
+g"l 
+g"j 
+g"i 
+g"h 
+g"m 
+g"n 
+g"f 
+f"g 
+p"t 
+p"u 
+p"s 
+p"r 
+p"q 
+p"v 
+p"w 
+p"o 
+o"p 
+D'D%K
+D'D%K
+DZD%K
+*D'DPD
+D'D%K
+&D\D'D%'
+$D\D'D%'
+#D\D'D%K
+A$0A
+A$0A
+A$ZA
+A$[A
+A$\A
+A$]A
+A$_
+A$bA
+A$\A
+A$^
+:A$0A
+A$`A
+A$aA
+;A`
+A$0A
+A$ZA
+A$[A
+A$\A
+A$]A
+A$_
+A$bA
+A$\A
+A$^
+;@H 
+;@H 
+;@H 
+;@H 
+;@H 
+;@H 
+;@H 
+;@H 
+;@H 
+;@H 
+;@H 
+;A$0A
+;@H!
+6@H!
+6@H!
+6@H!
+6@H!
+6@H!
+6@H!
+6@H!
+6@H!
+6@H!
+6@H!
+6@H!
+A$`A
+A$aA
+6@H"
+"@H"
+"@H"
+"@H"
+"@H"
+"@H"
+"@H"
+"@H"
+"@H"
+"@H"
+"@H"
+"@H"
+"@H#
+-@H#
+-@H#
+-@H#
+-@H#
+-@H#
+-@H#
+-@H#
+-@H#
+-@H#
+-@H#
+-@H#
+-@H$
+ @H$
+>A`
+2@H%
+*@H%
+,@H%
+(@H%
+)@H%
++@H%
+.@H%
+-@H%
+dB-A+
+2ab#
+dB-A+
+2ab#
+\V8\V
+\VN
+\V? \V
+!\V]!\V
+!\V!"\V'"\V."\V5"\V<"\VC"\VJ"\VQ"\VX"\V_"\Vf"\Vm"\Vt"\V5#\V<#\VC#\VJ#\VQ#\VX#\V_#\Vf#\Vm#\Vt#\V{#\V
+$\V!$\V($\V/$\V6$\V=$\VD$\VK$\VR$\VY$\V`$\Vg$\Vn$\V
+&\V4&\Vf&\V
+'\V#'\V*'\V
+'\VA(\V
+)\Vo)\V
+)\VF*\VM*\VT*\V[*\Vb*\Vi*\Vp*\Vw*\V~*\V
++\V%+\V,+\V3+\V:+\VA+\VH+\VO+\VV+\V]+\Vd+\Vk+\Vr+\V
++\V,,\V3,\V:,\VA,\VH,\Vc,\V
+-\V4-\Vo-\V
+.\V*.\Vy.\V
+/\V%/\V,/\V3/\V:/\VA/\VH/\V
+/\V#0\Vm0\V
+1\V1\V
+1\V!1\V(1\V/1\V61\V=1\VD1\VK1\VR1\VY1\V`1\V
+1\V#2\V)2\V02\V72\V>2\VE2\VL2\VS2\VZ2\Va2\Vh2\Vo2\Vv2\V
+3\V?4\V
+4\V!5\VY5\V
+6\VX6\V
+6\V7\V
+7\V!7\V(7\V/7\V67\V=7\VD7\VK7\VR7\VY7\V`7\Vg7\Vn7\Vu7\V|7\V
+8\V'9\V
+9\VW:\V
+<\VO=\V
+?\V*?\V1?\V8?\V
+?\Vf@\V
+A\V%A\V,A\V3A\V:A\VAA\V
+B\VFB\VMB\VTB\V[B\VbB\ViB\V
+C\VYC\V
+D\V#D\V*D\V1D\V8D\V?D\VjD\VqD\VyD\V
+E\VE\V
+E\V"E\V-E\V8E\VCE\VNE\VSE\VXE\V]E\VbE\VgE\VlE\VqE\VvE\V{E\V
+F\V9F\VSF\VnF\VsF\VxF\V}F\V
+G\V$G\V+G\V2G\V
+H\V"H\V)H\V0H\V7H\V>H\V
+I\VoI\V
+I\VRJ\VYJ\V`J\VgJ\VnJ\VuJ\V|J\V
+K\V8L\V
+M\V&M\V0M\V:M\V`M\VgM\VnM\VuM\V|M\V
+N\V%N\V,N\V3N\V:N\VAN\VHN\VON\V
+O\VpO\V
+P\V/P\VAP\VHP\VOP\V|P\V
+P\V8Q\V?Q\VFQ\VMQ\VTQ\V[Q\VbQ\ViQ\V
+Q\VRR\VYR\V
+R\VES\V
+S\V*T\V1T\V8T\V?T\VFT\VMT\VTT\V[T\VbT\ViT\VpT\VwT\V~T\V
+T\V0U\V
+U\V8V\V
+V\V.W\V5W\V<W\VCW\VJW\VQW\VXW\V_W\VfW\VmW\VtW\V{W\V
+Y\V&Y\V-Y\V4Y\V;Y\VBY\VIY\VPY\VWY\V
+Y\VhZ\VoZ\VvZ\V}Z\V
+Z\V?[\V
+[\VG\\V
+]\Vy]\V
+]\V;^\V
+`\V5`\VV`\V]`\Vd`\Vk`\Vr`\Vy`\V
+a\V$b\VZb\Vab\Vhb\Vob\Vvb\V
+c\VBc\VIc\VPc\VWc\V^c\Vec\Vlc\Vsc\V
+d\V&d\V-d\V4d\V;d\VBd\VId\V
+d\V3e\V
+e\V#f\V*f\V1f\V8f\V?f\VFf\VMf\VTf\V[f\Vbf\Vif\Vpf\Vwf\V~f\V
+g\VBg\VIg\VPg\VWg\V^g\Veg\Vlg\Vsg\Vzg\V
+h\V%h\V,h\V3h\V
+h\Vbi\V
+j\VDj\V|j\V
+k\VAk\V{k\V
+k\V/l\V6l\V=l\VDl\VKl\VRl\VYl\V`l\Vgl\Vnl\Vul\V|l\V
+m\VJn\V
+n\Vzo\V
+p\VBq\V
+q\Vrr\V
+t\V t\V't\V.t\V5t\V<t\VNt\VUt\V\t\V
+u\V&v\V-v\V4v\V;v\VBv\VIv\VPv\VWv\V^v\Vev\V4w\Vjw\Vqw\Vxw\V
+w\V-x\V}x\V
+y\V$y\V+y\V2y\V9y\V@y\VGy\VNy\VUy\V\y\Vcy\V
+z\Vz\V
+z\V z\V%z\V*z\VFz\Vnz\Vsz\Vxz\V}z\V
+{\V"{\V'{\V,{\V1{\V6{\V;{\V@{\VE{\VJ{\VO{\VT{\VY{\V^{\Vc{\Vh{\Vm{\Vr{\Vw{\V|{\V
+|\V'|\V
+}\V6}\VR}\Vu}\V
+~\V+~\VT~\Vx~\V
+\8\W
+l@R*
+ !!""#$%%&&''(())**+,-./\4567
+@t-
+BoardType=================%d
+LPM set for EV1 Board!
+LPM set for EV2 Board!
+LPM set for EV3 Board!
+LPM set for 4K2K Board-(%d)!
+LPM set for RD1 Board!
+LPM set for RD2 Board!
+LPM set for RD3 Board!
+)Y^]
+Calibrated RC-OSC Trim = 0x%x
+Measured RC-OSC Value = 0x%x
+Measured RC-OSC Clock = %d000Hz
+LPM_Mini
+LPM_Normal
+--power switch = %d
+--wakeup from = %d
+----enter factory mode----
+----enter factory mode fail----
+USBOnOffDuringStandby=%d
+LPM Main Loop Start!
+--- TouchPad CheckDevice error 
+----Touch Initial Ok----
+gYj0j
+gYj0j
+gYj0j
+gYj0j
+pgYj0j
+UgYj0j
+--U--
+--L--
+--D--
+--R--
+XgY=
+****Lpm_TouchPadKeyProcess
+;Fs
+&;Gu
+v3V&
+&;Gu#
+&;Gu#
+(=-=
+<(=U<
+ CPhy0 - TMDS detect !!
+ CPhy1 - TMDS detect !!
+ CPhy2 - TMDS detect !!
+---CSync OK
+---SSync OK
+---SOG OK
+---SOY OK
+u"j
+----send Cable status failed !
+##HDMI SRC detect
+,UkU
+UDPM_ON
+------ Got Key Wake Up Event!
+------Low --> Off !
+------Off --> On !
+----No cable sleep 
+----Got Mission sleep command
+----Sig Detect Port Number = %d
+----Got Mission power off command
+----Got Mission power off MEMC command
+DC OFF from ON ... 
+DC OFF from Sleep ... 
+Go to Low Power 
+DC ON from Off ... 
+Wake up ... 
+----Wait Mission power off command timeout!
+## Counter = %d
+## LPM Auto Power Off
+****LPM_NormalPowerMode %d
+****LPM_NormalPowerMode
+****LPM_LowPowerMode
+****AutoPowerOff_Start
+****LPM_PowerOffMode
+f--Last 16KB LPM SRAM checking mode!
+--Please DO NOT RW LPM registers in this mode!!
+--Normal LPM SRAM/Register access mode!
+--For LPM SRAM, only first 32KB can be RW!!
+Can't get CPHY 0/2 cable status(PBus) in Normal Power Mode!
+Please check in Mission with appstest 45
+PHY1 Cable Status = %d
+VGA  Cable Status = %d
+PHY0 Cable Status = %d
+PHY1 Cable Status = %d
+PHY2 Cable Status = %d
+VGA  Cable Status = %d
+DPCD Data = 0x%x
+DPCD Data = 0x%x
+Nvram Check ERR
+Nvram Check OK
+##LPM Write Power status %d
+##LPM Read Power status %d
+--Enter Normal Power Mode...LPM OCM Clock = 27MHz!
+--Enter Low Power Mode! (Mission is NOT powered down)
+--Enter Normal Power Mode...LPM OCM Clock = 27MHz!
+--Enter Low Power Mode!
+Power Event List:
+1: LPM_EVNT2PWR_PWRKEY
+2: LPM_EVNT2PWR_AUXWAKE_DETECT
+3: LPM_EVNT2PWR_ANASYNC_DETECT
+4: LPM_EVNT2PWR_HPD_DETECT
+5: LPM_EVNT2PWR_PD_DETECT
+6: LPM_EVNT2PWR_SLEEP_NOTICE
+7: LPM_EVNT2PWR_POWER_ON_NOTICE
+Set Power Event = %d
+  !!!!!!!!!!!!!!!!!!!!!!!!
+  !  STACK in DANGEROUS  !
+  !!!!!!!!!!!!!!!!!!!!!!!!
+  ** Min LPM Stack Free Size = %d bytes
+  ** Max LPM Stack Used Size = %d bytes
+??Unsupported appstest case!
+?UUu
+ds$j
+)r.r3r8r=rBrGr
+oRo{o
+~z~z~z~z
+LPM Timer not handled well, check it immediately
+M~M~M~M~M~H~H~U
+----ADC1 update %d
+----ADC2 update %d
+----ADC3 update %d
+----ADC0 update %d
+=ch1 ch3==Key message can't send 
+=Power=Key message can't send 
+=ch1 ch3==Key message can't send 
+Mission off----ADC0 update %d
+Mission off----ADC0 update %d
+Mission off----ADC0 update %d
+Mission off----ADC1 update %d
+Mission off----ADC2 update %d
+Mission off----ADC3 update %d
+----GetKey = %d
+F=@
+r;V
+He!+6TB
+ @ @
+222222
+ddKKKF
+222222
+ddKKKF
+222222
+ddKKKF
+B c0
+s2R"
+b$C4 
+S6r&
+<`A
+>2.Q
+P%@Fpg`
+RwbVr
+ftGd$T
+Wfvv
+F4VL
+DXeH
+uJTZ7j
+ld\EL
+n6~UNt^
+~9>
+]Zz}v
+EN;2
+"@KxX6k
+:}yI_
+MDI@.f
+~2`;,
+Ip,i
+uWFI,a<
+rark
+k9P,TS
+_3(tx
+_Y ~
+2g"m
+-:H`
+I+DxP
+Y_vP
+8;w3
+dPTM
+L>Qim
+OF\jH
+gMhY
+,J?J
+^WNhOvX
+H%'C
+E`9Y4=&
+Y)v^-(
+yd%C
+Naz@
+S;)j
+nfL^\Nm
+fGgeC8N*fFs
+3y z
+y(kaD
+FC6z
+xTsmM
+AX+]
+}[Oh%
+|Ocho
+fOSq3x
+T^tL:
+yR':YMBY|8
+y p#2d~
+$N!-4
+]g_A^
+s-S'@YC
+|e;'|*]
+'id2
+18'a$k
+]HNxg
+Plrm
+<g{m
+['bI
+Vak@G
+YC+)T(p
+nH>1
+P-Yi
+/QsF
+}Q;~
+Cc!R
+H+%,F.[
+9=fm_
+q^xj
+rXRFS
+Iota
+#O@J[X
+ wt_e
+B*e!Z
+E,SY)f
+0-S,u
+>G7g
+:"_%@W
+*xs+;Jbw
+$eL"qQ7<w
+1=DJ
+dhwQK
+(6xK"
+6:_nl
+cIT=&
+-BgT
+Ig,
+Uto\w
+kGnf
+}0]"L
+La>{-n
+^KgAS
+"(b?
+Ik+O1EQM
+Q.YEa
+H*oe
+GQ6O!L
+0 ]n
+bMO-=.
+ri,z"U
+D?%(
+'ad7
+tE2X
+aH4{uIwpP4
+4JTci
+x=$I
+6,zNM
+|2p#
+t7*/
+5C1KJYp0+Z2
+i38H
+d`il
+>@Y{
+#W&Ei
+-$"1VR
+0u7ZV0"
+a*/%$
+MNd2
+aw7wQ
+M)I{
+Ae"t~Pu
+h$}ZG<
+9A,y
+.2qqT
+EHeA/
+mF__;
+{m%3
+Pj//`p
+h m/
+-_b.(
+:TeY
+UXR,
+y)`'
+,/b#
+"'[@+h[
+/Wy=
+:7R:
+F%r6o
+[<jiq(
+2CMy>
+s!$RPr
+Our[W)
+WkzrZ
+%t?nrP
+Y%Py
+n'7U
+Ptx=^6^
+1lFw}aP
+UY"h
+)/e}ip^/H
+6[RW\Ks
+`%1O_
+f5jQh26g
+3+T&w
+y`u;R"
+\|G"F./
+ZgJ0
+XFI0fA
+|t:nd]N)ciNpk
+m=+"
+@{J}
+f`Lep&H#t[
+dz&~BH
+K:MNJ9$
+gAf_y
+iU]fX2O
+}5Db 
+_f->8
+woL=H
+S3TUa
+?xAx
+jhIA?
+3n~5\`s
+cic\c
+FMYR
+xdv?n
+~j6[xfM
+g)Z@
+ru,g
+1T93c
+sN]R^[
+`.bsj
+v3^G
+e]QU
+fUH}
+}e4l
+]!;#%
+0m:ol
+.`?T(
+Yq7AZ
+FVlfb>PNFFV
+81C*
+AJ5:J
+t,E1M
+.{?2I:4f
+8~aQ<
+PJ!s
+VD0L4lcR
+w9.pl'i
+MOqg<
+y,P 
+,(;ys
+2P]TO}/
+ c75^
+<v J
+I'iSG'
+"y9c
+L[fCqbE-8Bi
+)9PnF
+IS1Q
+y;)_`6$
+$'9H5
+"xF2
+1H(^
+3#^$[dJK~K
++L>K_mb
+`xj9l
+#gF!Q
+}PUA
+@=6\
+iGpF
+ (&In
+@<P=GBYGIj%
+nwm(W*`
+ ^R^}
+i"{o2
+_YC!
+!;c219
+)Sq-i
+lYLg
+)G\!_
+/;{bS:
+(]3vB?
+fi/]
+#,*:-!
+=b0Z
+|z'GKP0
+>G:^;E
+<._)^4
+nm]S
+v'MIq
+}}>.
+7QtT1
+Au94m
+>dUq@
+:jl!
+w))e
+_tN`^
+K..&MYS]6
+Vqk4ru(
+%I$#
+C\8ct
+A&YoR^
+agh`=
+XUKXf
+<KphO m<
+1K7gb
+* Vn
+K/ b
+xz n(
+`MJ$,D
+5oqYXo
+SGsQ
+[f%=p
+5Xj.G7@1k
+bF'y
+Y4KN
+;$.}
+A&;,
+pE<
+C{ 4'
+c&*qT
+qzJLZ
+/:8O
+ObD
+A9]x`qx
+5qVa
+Hh)< );
+;:rs
+^>KL
+;vZp
+ m3:
+j}Fzx`
+$}XB0
+'/-p
+tR7C
+jd)]
+knED
+)GS>
+QcL!d
+}Mh7<
+N4v"P
+K5qW<z
+]Sjmp
+0Yy_
+6THzG'
+iNKf
+o3{
+h/#woE
+ItOP
+R\F(M
+ A7g
+Zy)lG9
+rI(c
+,{x*z
+CzdWBW
+JYZ&=)
+h\qd
+Ccg8,
+MzhF_
+7[X@
+w#[}
+3'RzpcS^
+W-1tD(
+Ta+P
+Y(`x
+mmOK
+0+8dnu
+_a/2k
+d[jF
+'WI(
+yr#a
+x!;`x
+"0vY
+?5t,`
+[M@3
+b? sWk
+dDH6~4
+]nX5 
+gS@>)
+lB4S
+)m{[{pf@E
+$EKn.
+69* 
+hN~+
+}_Azy
+FfUJ
+;FWtE56
+< f=
+o&Ahee
+CeSo[AI.bc
+S@3/H
+8Ufa!v
+PMvz
+u#Wf
+cCE$+vOS@0uh
+]E8rE
+75E>
+=3{S$
+nPp<,=M\lOGt
+FsntN
+Sf+9}
+f~1Y3U
+0NbU~]
+HCY\tJx
+N;j&
+v&&Vj
+J1L
+/tGg5S
+-p#> 
+9(\W:
+4ah8B
+S#EI7
+6%GR
+z}`5C&-3
+0Jd>
+&NwC9
+}80V3@@$dA0}
+1.#$.
+=#N)
+:B!?Q
+[[yp
+L\G*z
+YM'x}rk
+Yj@ 
+q8+!HI>_
+6<^n
+\GscN9vhQ3
+c=nuVw3a
+Gs&\
+rNiS
+iu1=
+/ObFBZdd
+8D1D
+ds*SR$
+eT:d:
+3g89]
+7vhlA
+6A+%q
+8dk^
+F7!7L
+3uqs_D
+O@ny#
+Ne8_T#
+LL`g[
+lJ%fS
+SM@VU
+Kc?p
+oZq1$
+D8L*s
+(]3r
+foD9
+83 M0n
+qEBWG;
+&k2_L&
+HT,)
+e.X^<q
+mz]=
+O?NLX7&
+=NcJ
+Ql~8
+01#_l
+VT[2
+1q[d-%n
+Hi'6srX
+>n(0Yy\_:
+Mt[)8
+?n9g8n)
++7F {
+2fI=3>
+bB$t7
+-F;-H
+n<=$5
+ct#V
+;[L>[n
+~Q|$
+rX2+)
+DQUG
+(-7R
+f`PE.
+@O,N
+,tQ_
+r*(8
+z8G}
+S%;!
+(5Yyo
+QYV.P1
+sZZK.
+L}N`
+F$0h(
+5\re)
+5YpuC7
+8<vIA
+?lS+b.
+\N9D>
+bw9]
+|OdgS
+HPK '
+i!os
+1Y2*
+4"++/c
+@{]2W
+I_Yy@
+9~p+PYfc{
+]pCs
+9g4%
+cnfz
+yUc|FA
+\m5n
+qd"IMmO<T
+?LB)i8{
+lk =-5
+zz&AX
+Hj84k
+*.#7{
+FM;~P}
+riQ!
+Qse)
+)>WgBQ3
+dT7:}
+}gbU$z
+WO;%B
+!u9PR,
+!@2}x9
+W{/[g
+.F9V;
+vTGl
+Y|k?/(
+%q|adi
+d3r1m$`r5D]
+!v-XR,`
+u=7JIbQ
+pvj$RO(`
+,/o0}R
+hux#k(e
+KewB
+txGw_
+Io%Z
+g2/Nm
+0(-uz
+hiI8
+(\.y}
+w,c&
+cuV\<
+7,c.U^
+{m?hn
+g yKC
+"aP+
+RN296Knvn
+&+O50i
+HWA"i[ Y
+pD@E
+|hn/
+ S8k|%"
+L3PG
+Locx
+q,[p.*&aK
+S$;>
+PJGZR?r
+mRNBE
+mZRS3o
+'\w5F
+wfM2S
+Q[oD
+^^>EQ
+i%U"/<
+Omwyc
+D@~kfn(m
+TwBmY{K
+XFCnk
+]X6;ER
+%Jd3
+n{UUk5
+?8?T)~
+?q=[5l$
+a*4|fs
+]N)p`|U
+MLhf(v
+<7%7*
+5*w+
+@K&!;+s]S
+u2@g
+x$M-Z
+dS.M
+_IdjR
+U/(0n
+H?Q24
+T(hW
+W`Owi
+h!Y?
+al0--*ix
+s=nE
+;f~,|
+]/iASj
+=~Lf
+%~)R
+%AnSwR
+h"v!v-w
+V7'#?h).&H
+,<=C0'
+*'~%r
+vnCfH
+K1i^
+X<_!D
+ZKM3}
+ua.<zI
+Ud{i
+G!i_q
+&a7n=j
+[2$K\
+V\9W!R
+tF?'9!o)
+?RE[vV8
+|om{{"cifJ[
+PMu;
+I5(-
+Vi[+
+:_jUZg
+04~Z!o
+Vv:Z=
+;v\D*
+p/4wl
+'y;^
+w|SB
+_"!w
+SwSL^
+Fg*sA,+
+w%*aNa
+Xd$E
+Gl}o
+QaUp20~
+dD4DRdzw
+x<}}$]}
+H:3zFF
+/Z8(
++SE#
+VZR?<
+ng"yIRS
+cm6Y
+rf*S
+wzuDh
+u\_<a
+z?`2|
+bsvQF
+Bu&N\
+]-3m
++]611}
+\~YN
+oWM`
+|o>6
+V&Hb
+YggJ
+Q&kW,
+.{hH
+8iFl~
+#eu-E
+3t?6q
+~sS>9
+I[BpR[
+Ct%;s
+_;#7n
+A02YmF
+uAw\rJj`
+00fF
+` `dbf
+*o|*6
+:cCc
+"?|W_
+(' 
+;Pb6i
+"Fegw+ 
+6o<Ej
+QvPBy
+vxAYN
+Z[B1
+=*Jb
+9KKk
+wS]1
+jecKqZm
+;jWo
+pX?E
+HSI+5J"k
+:(F8
+g8Ae0
+Q> UN/
+YUok^&
+3dj5o
+JBQT5
+(0Eg
+/ihh$n(, 8
+^\mO
+m4`3cG
+-%8-VLa
+rwYK
+y,[QhT
++dvt
+vK:r@Ky
+;k<"Qw272)
+Uy:5U>8
+<yw>AA+
+*\[=+/
+YA2H
+mOu4Io 
+/)] i
+IYV["
+dW xt
+I.D#
+B +g 
+a'wj~PXBepq
+kA><uS,'i
+,j'bz
+|;QV\
+cbqle=
+rE'r
+BotH>
+c@K<*;5
+(fj;to
+"Op[n
+y";2~
+n}0uE#o
+8;[Cg"h
+?8O1
+>DNxP
+n(Cz
+:>\=
+YR~~
+{r>54
+ |Pk3
+hg"if
+Xb<t
+AZ66m+e
+=^>pRX)u,
+&MlXf
+tO]DSCQ1
+}}a?`vyLr
+>k@$m
+[mra
+r#{=
+I\2Ft
+9@O`0E
+$>(j?{R:
+(byLV
+wUv(e
+zJ$/)J<w*3
+/Yf!
+fb]IS
+F|:zX
+FO[<
+m@I'J
+U!xKiF
+dCA|^
+:1=sBMlLaZ
+]""
+J[26N
+.d D
+X*Cm)
+LPK;xG
+JNhQ
+7_Px
+ .so
+{;lz
+8Qyx}
+w6'+b
+[2l/8GJUac%&
+}iJL
+XUM.>
+?ld<
+Rl&^VT'
+0cIZ
+>2l&
+HNC#`
+FdaY
+q??N
+{2n%q%
+I#P9
+NGHbp
+\[._
+S/8i=
+@)8t]
+M{^_4` 
+;tw/7
+v@A&
+B!2x2"N
+czbxE
+QTSI`[
+mRQIIQ
+{vUCU3
+J{=t
+):ty
+F5vu
+ \]B
+Lw-K
+~>n_xl*
+*}K1
+)WLe
+,A_]K
+Lj0[K
+1wjI;sQ
+NhPy
+T1tU~
+[jH^
+z9V']
+SQjiZ
+1#h\
+yJ=z
+N`k#2i
+<ZQ6=HA
+=*w{
+{s"~KT
+ZxwU
+%Sx'<qpxi#=
+oBUaS
+;>rBMaRr
+Wp]!
+  Cw[0"
+8"'=/
+jMlT0
+OInr
+.Ss(
+NM(O6
++!axa?
+IRP|
+u5:^OA
+Mmocj5
+*P[]]]x
+4#cs
+*QO2
+0@@@
+:q+|:
+o$!M!Gm
+y@37
+]e~2SsWT02
+6>jj
+vNGj
+|]^,z
+XR6/Y
+D"Jl:n
+&?z@8]
+]Q"Le
+\K uhH
+[%Av
+&6DO;
+Iy>{6
+yyuz6
+>N1Ht@
+UGQn
+`A=q
+'5>3?kr
+8:Mod
++Q/M=
+%4wrT&
+t\8P
+.#7;
+wO(v
+H/xF
+S,7}eIo
+jz:_5Dk
+7n'#f
+f!CUB
+%WKr?6?
+gAy!
+*m2t
+kNzd
+"xO|")u'C
+[SsM
+Xkam
+dc?V[
+yB._
+9BMA
+N?Yf
+w"y=`9
+LD2z
+Lk=^
+=49"p
+u-*$T
+I:O^s
+~9(q
+D?_^Mg]
+|E4wZ
+hA?!
+!Q&n
+~IDcA
+.SD_{
+No:&6
+c'ml)lg
+n]K_
+KI:`;IA2
+V;eV
+[vzv
++A6e
+!W6LEe)
+hLo~a:,t
+32F!
+=b]I
+v["#E<
+$q][I
+: fGb
+Ywdvb&\
+$KI)T
+Y|I'
+|^8(s
+<<aI7-
+=Tk#-G
+@lg}p
+,[`)E
+7FvRo
+d-`XjqxK
+"OFm)"nE~
+{3 sFl
+hWXN
+/<2mg
+a+^LU\e
+$o$`
+lcC6aE%
+:"gj'
+4r4Xw
+3a*g\
+]-K5|#
+HavR
+~t{2;
+XFFwm6
+)3(}A
+M2:C4/4X
+RTvT%
+k5NX
+d2anA
+%?\]MPx
+R(v"f}
+Yg23
+T'L5
+vTbNmD{
+.fps
+m'l]
+O:DI#*
+S*yd
+g\Dgp#_S
+&B%%HT
+1XJ9R
+= 5Q
+&m^-
+tvM\
+r#41tW4f
+>L48*
+j&Ib,
+TWa%
+ChKo}(
+0&bQN
+1vYx
+wM) W
+V?\nr
+01}0
+'Lq0
+$s_
+#P.EYW
+ojNE-P
+eEWK
+%U9w
+HSSg
+{DdA'
+$_OB=
+or83
+"'tj
+CFN9v
+ohyT
+x 0v%WEx/vwJ!
+mE2&wcRyb
+j~.I
+KC+[
+4SIh
+Ey,q;
+vi4w
+&&-nZ
+a]hs]n
+bc#U
+e%iX
+ts=*
+R3bv(K
+k7mP@
+,F;Cr
+H&3sl
+E:p=0
+ 7Tm
+QJnE
+2,MoQ
+nc,jt
+CZ>f3
+A>,V
+P-*ZV
+Yx>V
+Y~*h-`
+(C>M
+~:nF
+5nZ*j
+A&=83Ar
+)ps=
+4>k7P
+4z|k.
+}.kSfg:
+rYy$
+*Sr|oU(~*
+jCIY
+H&+5*tv
+EA9et8
+L.:e*gq
+C^I&
+n7;n
+}@QnY41#+
+!BRj8
+.~Q2S
+Y-/i?
+}WG1rx
+N9-k=
+lXU"7
+x=~{cO`
+pHjU
+s+|fr
+*g6_ 
+c<ZR
+fXjkf!P
+}(*A
+9vB2v
+XW@n`6
+n.`$6
+0"| 
+97bxKqR%#qoI
+)]vz;
+Co+/\D24TG*
+;r;%
+<,b5+
+eo(!
+ep53x
+7:Wr
+rQ\`Z|b=k
+U+{#n
+Cy#O
+O7Zm1
+z]_=
+=waJ(
+nqy&
+'s [C
+pJ/YQ
+`C*fH
+WG/R(
+O<mj?
+"cz&'
+3:t$W4!
+(ce*Z
+@"8?CHI{
+U'K]
+TC5==
+0`Z,
+GYf0P
+lyVBn
+m$T-/
+y*Kd
+!iRH
+av}Iy
+oQz.t
+Cg%jx1T
+mw$5VZ
+(O8w
+fjP!
+4E"$
+E$dg(j
+wtfKO]>
+]&)h{F
+Z-~u~
+|Tq$
+>'ofC
+0y;5
+pn|5
+\C~K
+t?:C6
+%a0rn
+a'~x}
+.l<2N
+'Byt
+qIe?
+p@y:k
+Ymu4
+H'p9YxM
+L'*UY
+G~]O
+j:s)r}s
+|ny&-b
+.l*6
+=g5X.*!
+vEW{
+NJs7\n
+-$Hv]
+A*SX
+m\g}
+~)w|f
+1x8C
+vD*1[
+Afui
+B-@Lre"
+NdjwF
+9#lz
+IZ{d+`U
+ebsF
+|`?)
+O?><>%{
+p, (]
+zf_W
+!`Ex
+G7.fG
+3n#Sh
+w](-X
+l%QC
+~QH`$
+1:-H]i\
+/![@WrB
+`}]V
+_*%mr3n
+}-0djnU2Xo
+PeY}H
+eU9mCi;
+c^3&
+_]LP
+WqT:
+5}sa
+=Ck$
+\D$/@
+Dhez
+tY_)W
+ /a\s6v
+&*n0
+mmFVSh
+Dold
+Yds_
+F~ksM
+]Mt$
+SB<7
+1In]=+
+P<#`
+zu[c+U
+}|rt`B'
+q@~h
+Aj6/g
+lk0XJE9O0
+GQknNeS
+ .0t:
+^tdlG
+-"z/R
+(V%6}5
+,#\!%
+Y4;Dm
+%rP+t$
+E}e%rG
+$vtN&dh5(
+:Y?_G9
+!MOr4*`
+*`>5
+TCSMwn
+?<\
+[\ek
+g~30!n\(xLm
+PxJh
+7=8L
+5#81h
+d_T!
+=;iF
+2:YV3
+Vh3v
+c<p>'e=
+.h,!!
+&y&L
+WOjk
+II"9
+gB~2
+MGp<w
+rjX6]
+<9eh*
+y/lO
+Ih5Q8y@
+bs'K;V
+BI/dLxi
+R"X<`Q<
+ufZ"H
+0X3wa
+rpe9{4E
+f%6.Njl
+P|hV
+sfcx
+~>@I
+%RKmS
+@x%aq
+hXD25PF
+fteR
+Ki5Ys.
+=[uF
+H~AY
+"k|{V
+*E[|
+[Jz_
+pkEv,AYN@LI
+A{\L
+F4o:5X
+PK3S
+h[iM~
+4y_f5`&]Y
+8Ci}
+,o]@
+QN0^4
+&a(]2B[
+KWJ--{~
+P;|8
+O@B<
+Y3H:
+.X%u
+_1J6Hy
+/(?7eP!
+OnOXxK]
+3lt_
+AfW$Q
+Bpi&
+[87W
+U"9C#
+ef}KGrC
+v(u^^
+B$jo
+$A9!m
+ u\t!
+dN!Em
+#F4~#
+-8l]6
+M`{V=Q
+1Oy!
+q_*N@.(v|
+7?}o
+%r+1l
+c0;~
+{^K@f 
+1AZ'4Y
+tc+?7g
+K3s@
+1Vs;
+9R@AA
+t+MUvE
+zK>C
+vK\1u
+9x%2
+0Na8DB
+ Q)^
+IY9N1
+n>}=
+|IdMb
+bk&a{S
+WY';
+*;4-D
+oM`xVuns}N8+Jx
+.]3ru
+pGwHvfA
+|8R j
+1MyI>
+&3w>
+r%&$V
+rcM`r:.
+s7i#@0
+H/kjJE
+1l_?Zvj/S
+n7.2
+PK>v
+j0g!K
+hzJ\
+ISD5x*Cogf
+$D)VKR
+NK 
+72yI
+k&UK
+.*I
+:<^?>x(cxJ
+w3_qXk
+xF~3
+Vx!2
+s{Sn
+O)p[
+j:ro!
+B!?zh
+C,qh
+YvZ>
+=/LB
+,*V j
+O:X:
+q'fIY&w1E
+{on)(
+RnG#zNlZm9@
+hr77
+}A@6R
+ZPso
+&=H(m
+^zF:s
+F(C@e<
+W^[YT
+^%%I
+#Qq0
+}-K^l
+(J D(
+6aT7D~Q
+<NxrX
+rHYC
+ipWE
+.*r"
+9c;a{
+FBdzj
+a<+Bn.%b'w
+/~h;2
+X7ug\ k
+"h1?mt
+ZB@_*
+zLIX!lJ8
+"<M2
+]7b]
+A(s*
+r+:^S0
+i]T+8
+aqjQ
+6~X.i1+\4
+a*^or
+CVMWPHQM
+[tqS~
+rA<Q
+hv<4
+Ttvm%U9
+eYe-
+-M$l
+NI}j
+QE3D
+8mlJ:l
+y<:Pk
+g_I5K 
+ruX!]
+s8G1*
+UZg]g U
+Nz0+ 
+-M2@
+1P4rK
+J`*o!o 
+iF~-~
+%y8FZ
+tamb
+=%Iq1u/cM
+b+C&
+fHre
+)XZ}
+*X0h
+1JUr
+<e"J
+aU_d?
+4c+G"0
+p+ou<Ig
+Q-WUjN
+RWd2+
+cnHy
+VS=5
+MC(/] )
+~0KO
+qad?\
+~{b4
+2(|M
+m)E-8
+j9nV
+CXQ}r
+k{Xsi
+O|z%
+[WB:7
+}Mt?
+"oVHv
+zSx}AQ
+mw:E.=\Y
+qoM~
+|CY7
+qI.FJ8
+2@8zsa
+\EQMsi
+DzFiO
+xXDl
+\<t$!
+'n9F
+1P[<
+NCgfs
+p;<4>`JD_Re,r
+4WBu-
+o.M'G%
+7zy{
+FK9Fi
+w"Ja1b<
+Pgz?\n
+uwM|
+5;a=!
+&b5N
+8k4}
+0hOj
+z[;;!E
+~4cZ
+-5kDodm
+O%.T
+7'2 
+#p,6
+EKT'R
+HYOZ
+zLQ 
+?r/)79
+tG6l
+|P.aK7
+rDdq(9 %m
+&-'M@P
+=r1Lp
+m!ehN
+y=osa
+~Kkz
+a>%+
+hh3j}w
+s)S@
+Cr{C
+6Do<m4K
+!f1=,
+H#?x?
+eyZ,
+K#7z
+EC+I
+Hdzl
+i16V
+n.X|
+{NWQM
+,*&p
+IBS$o",mX+*
+S-R#
+3g`d]
+]t<L
+8qn~*cKc
+-)4Bc
+1CLQ(t
+r1g6
+`blS
+|U}X
+.T*i
+A2ZQ
+{3(U~p(
+e`:! 
+s8,_
+pzE^P
+b[>:
+(l*Kr_
+I<ht+
+vP56m
+!#7nO
+a8F>H
++gGBo
+!{<DD!a
+<b,z
+Yk(*$
+29-F
+3aQ$1
+[Z<Ob
+ez B3
+!2m|"
+U):ii
+[&OC>
+?(CW
+{)J^
+>t,9J
+kyRI
+r^4"
+|Ddf
+P!S=E?-,}
+2|Be)
+&h6GL
+HqOhk
+3{xn+`zUO
+_mD4M
+ Smx
+!s0^d+
+*Z~fI+
+)?pfk
+4h@X
+saH$C'y
+-YPM
+Im&6
+)v4r/m
+B$tjd
+G:cFb7)
+E+YN7
+V{5l
+}yd[2
+<omUM
+|B)H
+5fO8
+d`+`eW
+e&cg
+t|WWCn}!iQ_Y{'l
+Qb!B]
+<5Ya[E#
+S|/@G
+H4Uo
+k=^u
+aDL0?$
+K$< n
+gK18
+$'8H
+?c;51
+mZt=b
+HU:aB
+7&<i*
+4;i3e
+h$`fl
+l+=<
+Jul$j
+YQ[J
+n8OJ
+5: lDgi4TC
+1 fMshW %
+?ABL`
+H72z
+|6JLn
+YoIG
+Spj9w
+9|=L
+}Y2:]
+150pM
+.,li
+xaFVu
+EC' 
+x\+o
+Lbx<V
+XQ)FmWYD OQ-wB;
+!r-e
+Z$k#"
+IwA}#
+4W\.wUyM
+=EIu;
+:xUy
+R r'N
+iW$(7
+a=nw
+s'T|&1pjEb
+{b`H
+|/wzSa|
+KKS%
+vZNlNcl
+`qii_
+E1(A
+TAiS.
+QO,KRm6<b
+07Q3kB0
+f//,|
+%z}A
+f(jeT
+ng4Sd
+mG=W
+PzCJ)
+r^B{JRjuN
+:KJ6
+@`ClX>
+|$OWY
+5*Q)
+Am_Q
+)qwc!}s
+~'H2tJRKd
+Ncfk
+%=VV<
+-/u|n
+8.dM
++O|m
+cD&KIU?I(
+VwH
+y hE(;&
+&5Hb
+,OD| JVK|
+}%&a
+2$,.E;1_pG
+2kcU`!
+Q\:'@
+r{q:]
+_4)|Oe}
+ TZx
+%Iv&eR_{
+\~(,[
+|%9=8_A
+e`(O#
+$F-E
+UGGX
+cr\v`
+=b:^
+)L36ph'
+Rcfhk
+U2{Ez
+X]D_x
+{]?2
+1%mj
+X]6A
+z5}LJ
+{"}y8
+,gr;F
+fhk!
+wkaX"
+K; S
+[ST
+lf1Fe
+&?/di
+5B!OV
+].Hm
+.A%\M
+'ZyVb
+y^aV
+>dvIU
+TWTm
+&MHR
+w<"]
+lir=
+x$LI
+O>KWi
+UDM(
+I8<S
+{vOn;
+0}A|E8
+8O:G,
+fg_h
+{u;+3D
+HW1|
+o2yh{
+:Q70%OK
+!iy8+
+Uvd86
+yWxU
+>i~{
+`,OT
+(2-i
+!vbnA@.
+HOpzG
+olc_ZB.
+(b, 
+#E~z\
+Hkv5
+X^'LB
+[+l!
+_oI$e
+,5~O
+>g4UPYpU3
+13xH
+ZU4ns|E&QN
+,Rx(TuCMv
+~T$`
+1I&!yD
+@4|=i
+~zZ_g
+sybZ
+/+Au2&x
+GIP)2@k
+4F465|o
+}\Yc!(
++2$H=B
++@B~
+il0\m
+b5h}
+.WV`
+rz"+e
+D:agz$
+n1qks
+tF+s
+U,4Rt
+,"*#
+VUl:
+G5"i:
+D/3~
+o15C
+`ueu4
+/>Es*
+OPvqy
+Qd~g
+,Ltq
+/0R~
+<-Ug
+tElLxQjf
+`#'\}
+92%|j0+Iz
+Pj]v8
+'=4b
+{o3b
+<9(~~`S
+wD1
+eoaA%
+~94\r
+{p;14O
+ji6x
+]B4@
+y[C#
+es[H' 
+2fT66
+-?n7
+40X}E
+c7`"v
+s:yvJ
+\eSQ(
+b5!6
+"d?b_XwXu
+)Td.Wo^
+|+5r
+)b";
+U6}F[@,
+P#oXc
+rx4Ca
+U9V,
+TV]gQ
+VAZ>'-eX)4
+&$fr?t
+Pga
+>%@b{
+)c]6y$
+1VO>
+AhpJE!lWo
+u"O@
+%8T N}\
+6-c+u3RD1
+<>Y-u
+Z~V\
+*mY^&
+1tik
+tq8gW
+g-p:F
+^GfL
+e<%#
+$l$0|
+o*'-
+iIFb
+$66]L
+"`}(
+WObi
+iO9sa<
+Q}wT`,
+PZQQ}X
+{pe@a6y
+~%W+k
+D7!(
+x#V I
+XAff
+HVtqg
+&&Ky
+sA`C
+ay(:V
+RmIw
+.G[):
+]Q-3O
+^K82
+M2aZ
+6Kd;
+R:s*%
+Y!xz
+7Ufki
+,QFN$j
+oY6y/
+a<]3t
+eZ=F
+O"Df
+NA@JB8
+ #:5O`
+i?b o
+1jMYtH
+7Gly`
+]{Za'MQ^X
+ID.g
+11jon
+'XD_
+_n^,
+LW..
+SE<hY
+4(8Xq>l
+SC3O:1p)fY
+~S^f
+y74G
+]hvuQ
+csRP*
+=X{k
+z3P.
+)r)@qc_
+.+TD>
+foh+
+e'9i5
+drBr$<O0CM
+(>yq~%p
+O!p>t
+M}U0A
+ypoSKS$
+6&R
+O8)|n
+o{N@R
+2yR!J
+B!K-S-Wt#
+FPK}q?
+DcPt
+0e7c
+-]~99
+\czQ
+'j/W
+cwg5bL
+}AB,
+du"N
+>OV{8
+Vk%~aA`s
+ "?M
+:[Y}
+6<&%$
+@y'mF;.
+o&3T1S:F
+g20a
+n[Kf
+!oqj
+u]N?h
+MIKP
+e4=#,!g
+nJa%vt
+=H72
+"o#XQ
+`jG\<
+9&&E7
+S#YZ
+KdOVl 
+p)X0H
+RB|`9
+!fbS
+m*W|
+cjB8VZ+
+5uX2
+,]_@ztV
+br+nJ^
+,-U^5
+5iG :Vc
+wcC-\c=
+<'#<X
+;i_XR
+Ra Sp
+EZP"
+roY;/,9U
+E*.L
+^#EB
+~:7IS
+}zV(I
+^olr
+0}l7
+[!=W
+f\wu'9
+f,d,u=
+IT+1eE
+hT3v
+hIa2
+EmMm
+v$r_N
+vlB(d
+Ut^<-
+urY/Tq
+|cZ.#
+kQnh
+919v
+7y(#
+hJYmp
+Q9B(
+7r|Yqi/
+_&xim
+u)n|s/D,
+#q@gAB\*v
+]'g8&
+q=D>zw
+$p,%O
+KZTiq
+85*=6
+|gQ_
+xB(3
+=lqY
+)] Hrh
+d.=)8
+|OBe
+fE&lF
+VqUL
+UHOp
+ 05mph"
+gmE
+I* zS1
+ewjWa
+'`HW[
+4*vU;
+*j{_q
+4F<k
+Xda~m
+R1 h|
+;ACm
+]NyGK`d9#
+1lt9^S"
+(0Xw3;}
+F +sb
+/>z6SZ
+l8zLx
+G\</^Qg
+[HD3
+Kx+TQ-xGC2H6W
+q'?$
+Jjq9
+d>jy
+xj5l.
+VL(-l
+X|UWr|
+WlT0ui
+7zc4X
+1;EUy
+)-Ei'
+q4d)
+J_W-5
+EP59~
+<I$Y
+ eVS
+t2<1e+
+\j$jT
+4dk^4#)
+?o."0
+,yyKw
+Ox'`
+?p.wJ
+y8f&fWBBC
+QO5v
+*Zwo$
+2TN~
+xyL
+8(?ew1
+e.%W
+j  [d
+Z)ZTa1xq&X
+v[lj
+oR%QeL
+c#5M
+=kG&
+ac:$-"O%
+9z=>,
+@|v'
+x<}c
+fIK(,
+U'Ed <
+kN&QS%
++~ux}EO
+;-D)_
+\94P
+Z/PEx86.
+=M7i
+jM9H'u
+*\/C
+A@;)G
+;2Ss9
+p6qR
+_~~`N
+7T:P
+opy\e
+!8|K
+|o9v0*
+]TF7kI
+.X)5_W
+e#i_n
+C(/>F
+[hUzMxZ
+>Yi4nm
+vFop'o
+_b,"2(
+]7#)tCx
+Bvo)J6
+q+m5Yd
+E^(K
+%C"r
+I:/=t]
+-]=vA
+`=57UK
+wghX+3N]
+`F;*
+R8K{?|x
+7%IAV
+v$8wO
+QQRvv
+m<3b
+:G.t(
+;`,2*
+iPQSC
+MIDx
+P~E
+iq8hIoJ
+ eo?Un
+>MOg
+%oj3
+`RL)Pl
+/.pJ<
+Q4vuqaW
+^<.l?
+24{%g
+}[Sn_s
+N]Q7{
+]k2'
+p[L
+"T| cYt
+~9RN>
+U]1fE
+sc/?"rA1}
+;@0Hob
+I:RS
+BKoi
+v;3qu
+rYCwR
+;$:U
+![rSh
+!.|z^
+GC6=X
+?]#Eg
+VCkYd
+OdG&}-
+NY 30
+&w#k4B;
+R2+N
+UJePN<
+hQ^4
+WKC[mrE
+\&<}0GM
+dA*h
+_-#"
+|EA;
+Qy>[
+_/SF1E
+jg/<
+8iF-.
+UMUu
+210{|\*
+6S[;r
+ !T+E
+PK|=3
+aKae<Ip7Rcv
+y:)]
+<=N/{
+.n*zz
+;]g]v,
+bI3]
+o}6T
+b;?av
+}v{Z
+M:t(h
+)(pw\4=
+H 'r
+GSy^
+' 7_{
+%T}?P
+oDn`v
+PyXn
+LxEm}=c
+j1g]
+c=Afg
+=wqwP
+4sfj
+1TzU<
+!`2`ef:xWD9
+st}TB
+fV&b{E5y8uH(
+E5=\$
+S\h1
+Crt\
+95y}
+Bu{ ]
+fYb[Hy6
+#w3h
+GE|,
+NJl<
+V+o 
+}}$jj:
+Ae{9)
+.!jh
+g}'H
+wYJ=El
+/f4DkI#
+w(-M
+|9+o
+{Vb{
+!xOg
+TNQd^
++`7N7r:
+-,f6B<J
+k3'4}
+`>GEgH
+m@`.
+mxsf6
+0V.RwSDu
+ [q3lD#5
+M)Q5JXDG
+F:{Xb
+@FNVc
+Lj0~
+~pw 
+4\F[40
+Nl71
+e^z*\?
+10\#\
+}.w`
+k^!"
+hJ<V|
+X!0$*
+9zc5g
+4i3n|
+WSzw
+G-L:`
+\Rck(
+j</)
+7jT?
+|(wwaYGc
+]y.F
+R#H!
+%wz1
+B$bqdbf(
+da8oHnHi
+Ew?Z
+IA(b@
+irsP7
+,63*$U|+
+gvgq
+`PY4
+Vq#B
+Luh~
+nH1;
+:nc`h/
+^JG%
+1jgrA,
+W_6s
+wWvh
+f>XmA;w+@
+q\,-r
+:S/]W
+e,$#
+^Z}?
+w]&i0+W
+3ZqYC
+Dmb'd
+9e]ux
+Xt9
+vQ4b
+K,T(z
+U;eG~^@Vd
+k+!V
+"z_K
+S1gLiR~-8
+o|&\
+v:6nO
+VhC&LI
+P}H4
+jKAD@
+\WMv
+8=>lw
+$U2q'
+[]4x_N
+8D,.T%
+}d@Ng 
+fr3G
+m4]F,/
+^<<l
+A|A{I
+ y\^
+T5xnA9z
+9o7Yo@
+MTD7
+xJ)q/lu
+(6\4
+'Uhx$
+RWz2h
+*ir80
+c27g
+FI7}^
+}7!-_@W
+m$|,2I
+iYQ}.XF
+q8UW
+vn`!1@
+tUSF
+V|\N7
+.HCy+
+YvZ)|
+ukaS
+ZKfIf@wra
+kQ>T
++We+
+C=)M_
+i[~o
+MsYke_w
+(2~I#
+(>.P[
+/"u7
+BzgT/7M
+B5|@#X
+MJvB>
+1VP.
+vBg3l
+=2lW{>"/
+^f0k|I
+6?)^f
+X#RrEup
+93N!
+1^-c4y
+ll x^9,56
+]>y.
+?lE"
+lLwO
+~Q\`#
+gb0_+
+--Oav
+K{fz
+w)M$/
+G/\9x
+*Z{as
+[V,[XJp
+4=`}V
+RSp?rxN
+r5T^Q
+7EwP?
+x}()cO
+5#QJv7&
+AyE].
+IAA%N
+^K0I
+agox
+YVO,=Gr]
+w~!KX
+P:^Na
+]Z-`4Gw
+t>rr
+&?dk
+k'"H
+%j$O
+g39O)
+v>TgAR
+K}J>zaPp
+Ic7t
+x,r4^S>?$
+1afQX=
+KJN4h
+~(K]PbK
+~Scn,\
+Z,si
+z<FS=
+4Hi]
+&z:@
+4=b+s
+lFITFwu
+f:Xk.
+Y34QB
+bGs:
+'am:
+7I:|8*_
+w^n=z
+el%T
+w$2w
+QiuzB
+/4}R#g&
+>Ns7M
+Wdu-/C!
+4;0}@bt?b
+ HSy*
+'Mr'A3X5
+asOy2
+Fn:y/
+C]X$
+C&/8R
+0Q^4ER
+?E+V
+)G35
+Qz!(X
+Ds4o%
+0A|*
+}.IxS
+BKFot
+1/UZb1
+hB{R
+7}_=t
+)f4SpI
+&3\ZT@[.
+x&W0H
+tS=gP
+]%VPT
+H<4~#-z.
+xYp03
+9\oV
+Qw.%F&hq0ZP4;
+i-g=GO
+0KAicW
+;Pde[
+l/MRx5J
++#t0M
+`Fp]
+`BGj\Z(
+lN=U
+[dkp
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+>"x:
+        
+VX2880ML
+    
+      
+ !"#
+q8-@X,%
+ X,%
+ n(%
+lS3
+RH#zH2
+$DO?
+,cK.
+%tDR
+dS2
+utPC
+?5!eRN
+!dO>
+3A%.
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+EQTTTQEEeeYYVVVeUVUVUVUVUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUQU
+UQUQUTQ
+UUQUU
+UUVY
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUTUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+EQTTTQEEeeYYVVVeUVUVUVUVUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUQU
+UQUQUTQ
+UUQUU
+UUVY
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUTUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+                                                                                                                                                                                                                                                                                                                                     
+ $(,048<@DHLPTX\`
+ $(,048<@DHLPTX\`
+ $(,048<@DHLPTX\`
+ $(,048<@DHLPTX\`
+ $(,048<@DHLPTX\`
+ $(,048<@DHLPTX\`
+ $(,048<@DHLPTX\`
+ $(,048<@DHLPTX\`
+ $(,0
+ $(,0
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,048<@
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+ $(,0
+@o;6
+l_z3
+oy*=|
+_y)Ct
+_9(Ip~
+&Ol~
+%Thn
+Oy$Z`n
+O9#`\^
+!f\N
+Oy kXN
+Do;6
+l_z3
+oy*>x
+_y)Dt
+_9(Ip
+Oy$[`~
+O9#a\n
+!fXn
+ lX^
+,?}&
+Ho|#4
+T/|";
+o>%!
+(?="<
+~>":
+/~!@
+c?}
+.@!/
+N? ?
+@(O}
+B,?}
+D0/}
+9D?}
+:H?}
+<L/}
+-@o=
+7X/}
+@1<
+p: 4
+?_? 
+C?? 
+R ?~
+U$/~
+W(?~
+Y,/~
+ZLO}
+\P?}
+]\/}
+ "/~
+L8_}
+N<_}
+P@?}
+RD?}
+TH/=
+VP/=
+?,o}
+B,_}
+D0_}
+F4_=
+H8?=
+J<?=
+6 o=
+9,/}
+:,/}
+ . ?}
+ 0$?}
+ 2$/=
+A2H
+@A.@
+0A/@
+?A/D
+Txo|
+A+4
+pA,8
+pA,8
+`A,<
+`A,<
+Kdo|
+Lho|
+Npo<
+Pt_<
+A&,
+A',
+A',
+A'0
+A'0
+A(4
+A(4
+DXo|
+F\o<
+H`_<
+<Ho<
+KpO|
+MtO|
+Ox?<
+?T_|
+AXO|
+C\O|
+E`?<
+Gh?<
+@o;6
+l_z3
+oy*=|
+_y)Ct
+_9(Ip~
+&Ol~
+%Thn
+Oy$Z`n
+O9#`\^
+!f\N
+Oy kXN
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUU
+TUUUUUUUUUUUUUUUUUUUUUUUUUUUTUUU
+DP1.2 Lib Version 1.3T
+VxTMR=PFNhL
+BxA(@
+9i8@7"6
+2,1I0o/
+""~!
+u\C*
+HDCP Repeater Lib Version 0.7
+V3.0.10
+March 21, 2013 03:30PM
+V1.1 RC1
+Aug. 15, 2013 4:30 PM
+V1.0.03
+Sep. 27, 2013 3:00 PM
+U4 US
+U4!TS DS #30TS0DS0#3
+dc0CC0"#!dc!CC!"#
++6BMYdoz
+Green
+Blue
+ P`0
+P`@p 
+0`P 
+ p@`P
+@pP`0
+0`Pp@
+ATNA
